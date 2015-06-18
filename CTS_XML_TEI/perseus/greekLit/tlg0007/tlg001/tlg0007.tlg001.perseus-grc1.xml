@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="sub">Machine readable text</title>
+            <title n="Thes." type="work">Theseus</title>
+            <author n="Plut.">Plutarch</author>
+            <editor role="editor" n="Loeb">Bernadotte Perrin</editor>
+            <sponsor>Perseus Project, Tufts University</sponsor>
+            <principal>Gregory Crane</principal>
+            <respStmt>
+               <resp>Prepared under the supervision of</resp>
+               <name>Lisa Cerrato</name>
+               <name>William Merrill</name>
+               <name>Elli Mylonas</name>
+               <name>David Smith</name>
+            </respStmt>
+            <funder n="org:AnnCPB">The Annenberg CPB/Project</funder>
+         </titleStmt>
+         <extent>about 682Kb</extent>
+         <publicationStmt>
+            <publisher>Trustees of Tufts University</publisher>
+            <pubPlace>Medford, MA</pubPlace>
+            <authority>Perseus Project</authority>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <bibl default="false">
+               <author>Plutarch</author>
+               <title>Plutarch's Lives</title>
+               <respStmt>
+                  <resp>with an English Translation by</resp>
+                  <name>Bernadotte Perrin</name>
+               </respStmt>
+               <pubPlace>Cambridge, MA</pubPlace>
+               <publisher>Harvard University Press</publisher>
+               <pubPlace>London</pubPlace>
+               <publisher>William Heinemann Ltd.</publisher>
+               <date>1914</date>
+               <biblScope type="volume">1</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage default="false">
+            <language ident="greek">Greek</language>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change when="2012-10-02T13:12:05.705-04:00"
+                 who="http://data.perseus.org/sosol/users/Bridget%20Almas">Finalized - moved from greekLang to greekLit namespace</change>
+         <change when="2012-10-02T13:12:05.668-04:00"
+                 who="http://data.perseus.org/sosol/users/Bridget%20Almas">Vote - Approve - Ok - change is to the urn in the text element and some automatic reformatting of whitespace. will be renamed during finalization.</change>
+         <change when="2012-10-02T13:04:51.672-04:00"
+                 who="http://data.perseus.org/sosol/users/Bridget%20Almas">moving to greekLit namespace</change>
+         <change status="draft"/>
+      </revisionDesc>
+   </teiHeader>
+   <text n="urn:cts:greekLit:tlg0007.tlg001.perseus-grc1" xml:lang="greek">
+      <interpGrp type="meter" xml:lang="en">
+         <interp xml:id="met-iamb">iamb</interp>
+         <interp xml:id="met-dact">dact</interp>
+         <interp xml:id="met-lyric">lyric</interp>
+      </interpGrp>
+      <body>
+         <div type="chapter" n="1" org="uniform" sample="complete" part="N">
+            <head>
+               <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεύς</name>
+            </head>
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ὥσπερ ἐν ταῖς γεωγραφίαις, ὦ <name type="person" key="0001000:*so/ssios:person:masc:voc">Σόσσιε</name>
+                  <name type="person" key="0001000:*seneki/wn:person:masc:nom/voc">Σενεκίων</name>, οἱ ἱστορικοὶ τὰ διαφεύγοντα τὴν γνῶσιν αὐτῶν τοῖς ἐσχάτοις μέρεσι τῶν πινάκων πιεζοῦντες, αἰτίας <note resp="ed" place="unspecified" anchored="true">
+                     <foreign xml:lang="greek">αἰτίας</foreign> Amyot, Stephanus, Coraë s, Sintenis <hi rend="superscript">2</hi> with C; Bekker and Sintenis <hi rend="superscript">1</hi> have <foreign xml:lang="greek">ἐνίοις</foreign> ( <gloss>explaining some by saying</gloss> ).</note> παραγράφουσιν ὅτι <q>τὰ δ᾽ ἐπέκεινα θῖνες ἄνυδροι καὶ θηριώδεις</q> ἢ <q>πηλὸς ἀϊδνὴς</q> ἢ <q>σκυθικὸν κρύος</q> ἢ <q>πέλαγος πεπηγός,</q> οὕτως ἐμοὶ περὶ τὴν τῶν βίων τῶν παραλλήλων γραφήν, τὸν ἐφικτὸν εἰκότι λόγῳ καὶ βάσιμον ἱστορίᾳ πραγμάτων ἐχομένῃ χρόνον διελθόντι, περὶ τῶν ἀνωτέρω καλῶς εἶχεν εἰπεῖν: <q>τὰ δ᾽ ἐπέκεινα τερατώδη καὶ τραγικὰ ποιηταὶ καὶ μυθογράφοι νέμονται, καὶ οὐκέτ᾽ ἔχει πίστιν οὐδὲ σαφήνειαν.</q>
+               </p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ἐπεὶ δὲ τὸν περὶ <name type="person" key="0066914:*lukou=rgos:person:masc:gen">Λυκούργου</name> τοῦ νομοθέτου καὶ <name type="person" key="0001000:Numa:person:masc:nom 0001000:Numa:person:masc:gen">Νομᾶ</name> τοῦ βασιλέως λόγον ἐκδόντες, ἐδοκοῦμεν οὐκ ἂν ἀλόγως τῷ <name type="person" key="0023496:*(rwmu/los:person:masc:dat">Ῥωμύλῳ</name> προσαναβῆναι, πλησίον τῶν χρόνων αὐτοῦ τῇ ἱστορίᾳ γεγονότες, σκοποῦντι δέ μοι <cit>
+                     <quote rend="blockquote" type="drama">
+                        <l ana="#met-iamb" part="N">τοιῷδε <note resp="ed" place="unspecified" anchored="true">
+                              <title>Seven against Thebes</title> , 435, <foreign xml:lang="greek">τοιῷδε φωτὶ πέμπε τίς ξυστήσεται</foreign> ;</note> φωτί ʽ κατ᾽ <name type="person" key="0030663:*ai)sxu/los:person:masc:acc">Αἰσχύλον</name> ʼ τίς ξυμβήσεται;</l>
+                     </quote>
+                     <bibl default="false">Aesch. Seven 435</bibl>
+                  </cit>
+                  <cit>
+                     <quote rend="blockquote" type="drama">
+                        <l ana="#met-iamb" part="N">τίν᾽ ἀντιτάξω τῷδε; τίς φερέγγυος; <note resp="ed" place="unspecified" anchored="true">
+                              <gloss>Ibid.</gloss> 395 f.
+<foreign xml:lang="greek">τίν᾽ ἀντιτάξεις τῷδε; τίς <name type="person" key="0005733:*proi=tos:person:masc:gen">Προίτου</name> πυλῶν
+κλῄθρων λυθέντων προστατεῖν φερέγγους</foreign> ;</note>
+                        </l>
+                     </quote>
+                     <bibl default="false">Aesch. Seven 395 f.</bibl>
+                  </cit> ἐφαίνετο τὸν τῶν καλῶν καὶ ἀοιδίμων οἰκιστὴν <name type="place" key="0361602:*)aqh=nai:place:fem:gen">Ἀθηνῶν</name> ἀντιστῆσαι καὶ παραβαλεῖν τῷ πατρὶ τῆς ἀνικήτου καὶ μεγαλοδόξου <name type="place" key="0993138:*(rw/mh:place:fem:gen 0001172:*(rw/mh:person:fem:gen">Ῥώμης</name>,
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>εἴη μὲν οὖν ἡμῖν ἐκκαθαιρόμενον λόγῳ τὸ μυθῶδες ὑπακοῦσαι καὶ λαβεῖν ἱστορίας ὄψιν, ὅπου δ᾽ ἂν αὐθαδῶς τοῦ πιθανοῦ περιφρονῇ καὶ μὴ δέχηται τὴν πρὸς τὸ εἰκὸς μῖξιν, εὐγνωμόνων ἀκροατῶν δεησόμεθα καὶ πρᾴως τὴν ἀρχαιολογίαν προσδεχομένων.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="2" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ἐδόκει δ᾽ οὖν ὁ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name> τῷ <name type="person" key="0023496:*(rwmu/los:person:masc:dat">Ῥωμύλῳ</name> κατὰ πολλὰς ἐναρμόττειν ὁμοιότητας: ἄμφω μὲν γὰρ <note resp="ed" place="unspecified" anchored="true">Coraë s, Bekker, and Cobet, with C, after Reiske; <foreign xml:lang="greek">ἄμφω μέν</foreign> .</note> ἀνεγγύω καὶ σκοτίω γενόμενοι δόξαν ἔσχον ἐκ θεῶν γεγονέναι, <cit>
+                     <quote rend="blockquote">
+                        <l ana="#met-dact" part="N">ἄμφω δ᾽ αἰχμητά, τό γε δὴ καὶ ἴδμεν ἅπαντες,</l>
+                     </quote>
+                     <bibl default="false">Hom. Il. 7.281</bibl>
+                  </cit> καὶ μετὰ τοῦ δυνατοῦ τὸ συνετὸν ἔχοντες. πόλεων δὲ τῶν ἐπιφανεστάτων ὁ μὲν ἔκτισε τὴν <name type="place" key="0993138:*(rw/mh:place:fem:acc 0001172:*(rw/mh:person:fem:acc">Ῥώμην</name>, ὁ δὲ συνῴκισε τὰς <name type="place"
+                        key="0361602:*)aqh=nai:place:fem:acc 0000001:*)aqh/neus:noclass:masc:acc">Ἀθήνας</name>: ἁρπαγὴ δὲ γυναικῶν ἑκατέρῳ πρόσεστιν.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>οὐδέτερος δὲ δυστυχίαν περὶ τὰ οἰκεῖα καὶ νέμεσιν ἐγγενῆ διέφυγεν, ἀλλὰ καὶ τελευτῶντες ἀμφότεροι λέγονται τοῖς ἑαυτῶν προσκροῦσαι πολίταις, εἴ τι τῶν ἥκιστα τραγικῶς κῶς εἰρῆσθαι δοκούντων ὄφελός ἐστι πρὸς ἀλήθειαν.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="3" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>
+                  <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> τὸ μὲν πατρῷον γένος εἰς <name type="person"
+                        key="0000214:*)erexqeu/s:person:masc:acc 0000214:*)erexqeu/s:person:masc/fem:acc">Ἐρεχθέα</name> καὶ τοὺς πρώτους αὐτόχθονας ἀνήκει, τῷ δὲ μητρῴῳ <name type="group" key="0001000:*pelopi/dhs:group:masc:nom">Πελοπίδης</name> ἦν. <name type="person" key="0014576:*pe/loy:person:masc:nom/voc">Πέλοψ</name> γὰρ οὐ χρημάτων πλήθει μᾶλλον ἢ παίδων μέγιστον ἴσχυσε τῶν ἐν <name type="place" key="0000238:*pelopo/nnhsos:place:fem:dat">Πελοποννήσῳ</name> βασιλέων, πολλὰς μὲν ἐκδόμενος θυγατέρας τοῖς ἀρίστοις, πολλοὺς δὲ ταῖς πόλεσιν υἱοὺς ἐγκατασπείρας ἄρχοντας: ὧν εἷς γενόμενος <name type="person" key="0002083:*pitqeu/s:person:masc:nom">Πιτθεύς</name>, ὁ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> πάππος, πόλιν μὲν οὐ μεγάλην τὴν <name type="ethnic"
+                        key="0013352:*troizh/nios:ethnic:masc/neut:gen 0013352:*troizh/nios:ethnic:fem:gen">Τροιζηνίων</name> ᾤκισε, δόξαν δὲ μάλιστα πάντων ὡς ἀνὴρ λόγιος ἐν τοῖς τότε καὶ σοφώτατος ἔσχεν.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ἦν δὲ τῆς σοφίας ἐκείνης τοιαύτη τις, ὡς ἔοικεν, ἰδέα καὶ δύναμις, οἵᾳ χρησάμενος <name type="person" key="0031940:*(hsi/odos:person:masc:nom">Ἡσίοδος</name> εὐδοκίμει μάλιστα περὶ τὰς ἐν τοῖς <name type="noclass" key="0000001:e)/rgon:noclass:neut:dat">Ἔργοις</name> γνωμολογίας. καὶ μίαν γε τούτων ἐκείνην λέγουσι <name type="person"
+                        key="0002083:*pitqeu/s:person:masc:nom 0002083:*pitqeu/s:person:masc:gen">Πιτθέως</name> εἶναι,
+<cit>
+                     <quote rend="blockquote" type="proverb">
+                        <l ana="#met-lyric" part="N">μισθὸς δ᾽ ἀνδρὶ φίλῳ εἰρημένος ἄρκιος ἔστω.</l>
+                     </quote>
+                     <bibl default="false">Verse 370.</bibl>
+                  </cit>
+τοῦτο μὲν οὖν καὶ <name type="person"
+                        key="0223520:*)aristote/lhs:person:masc:nom 0223520:*)aristote/lhs:group:masc:nom/voc 0223520:*)aristote/lhs:group:masc:acc">Ἀριστοτέλης</name> ὁ φιλόσοφος εἴρηκεν, ὁ δ᾽ <name type="person" key="0002747:*eu)ripi/dhs:person:masc:nom">Εὐριπίδης</name>, τὸν <name type="person" key="0020743:*(ippo/lutos:person:masc:acc">Ἱππόλυτον</name> ἁγνοῦ <name type="person"
+                        key="0002083:*pitqeu/s:person:masc:nom 0002083:*pitqeu/s:person:masc:gen">Πιτθέως</name> παίδευμα προσειπών, ἐμφαίνει τὴν περὶ τὸν <name type="person" key="0002083:*pitqeu/s:person:masc:acc">Πιτθέα</name> δόξαν.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>
+                  <name type="person"
+                        key="0003164:*ai)geu/s:person:masc:dat 0000001:*ai)gi/s:noclass:fem:nom/voc/acc 0000001:*ai)gi/s:noclass:fem:dat">Αἰγεῖ</name> δὲ παίδων δεομένῳ τὴν <name type="person"
+                        key="0000558:*pu/qios:person:fem:acc 0000001:*puqi/a:noclass:fem:acc">Πυθίαν</name> ἀνελεῖν λέγουσι τὸν θρυλούμενον χρησμόν, διακελευομένην μηδεμιᾷ γυναικὶ συγγενέσθαι πρὶν ἐλθεῖν εἰς <name type="place"
+                        key="0361602:*)aqh=nai:place:fem:acc 0000001:*)aqh/neus:noclass:masc:acc">Ἀθήνας</name>, οὐ πάνυ δὲ τοῦτο φράζειν εὐδήλως δοκοῦσαν: ὅθεν εἰς <rs type="nomorph">Τροιζῆτα</rs> παρελθὼν ἀνεκοινοῦτο <name type="person" key="0002083:*pitqeu/s:person:masc:dat">Πιτθεῖ</name> τὴν τοῦ θεοῦ φωνὴν οὕτως ἔχουσαν:
+<quote rend="blockquote" type="oracle">
+                     <l ana="#met-lyric" part="N">ἀσκοῦ τὸν προὔχοντα πόδα, μέγα φέρτατε λαῶν,</l>
+                     <l part="N">μὴ λύσῃς πρὶν δῆμον <name type="place"
+                              key="0361602:*)aqh=nai:place:fem:gen 0000001:*)aqh/neus:noclass:masc:gen">Ἀθηνέων</name> εἰσαφικέσθαι:</l>
+                  </quote>
+ἃ δῆλον ὅτι νοήσας ὁ <name type="person" key="0002083:*pitqeu/s:person:masc:nom">Πιτθεύς</name>,
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>ἔπεισεν αὐτὸν ἢ διηπάτησε τῇ <name type="person" key="0001000:*ai)/qrh:person:fem:dat">Αἴθρᾳ</name> συγγενέσθαι. συνελθὼν δὲ καὶ γνοὺς ἐκεῖνος ὅτι τῇ <name type="person"
+                        key="0002083:*pitqeu/s:person:masc:nom 0002083:*pitqeu/s:person:masc:gen">Πιτθέως</name> θυγατρὶ συγγέγονε, καὶ κύειν αὐτὴν ὑπονοήσας, ἀπέλιπε ξίφος καὶ πέδιλα κρύψας ὑπὸ πέτραν μεγάλην, ἐντὸς ἔχουσαν κοιλότητα συμμέτρως ἐμπεριλαμβάνουσαν τὰ κείμενα.
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>φράσας δὲ πρὸς μόνην ἐκείνην, καὶ διακελευσάμενος, ἂν υἱὸς ἐξ αὐτοῦ γένηται, καὶ λαβὼν ἀνδρὸς ἡλικίαν δυνατὸς ᾖ τὴν πέτραν ἀναστῆσαι καὶ ὑφελεῖν τὰ καταλειφθέντα, πέμπειν πρὸς αὐτὸν ἔχοντα ταῦτα μηδενὸς εἰδότος, ἀλλ᾽ ὡς ἔνεστι μάλιστα λανθάνοντα πάντας ʽ ἰσχυρῶς γὰρ ἐδεδοίκει τοὺς <rs type="nomorph">Παλλαντίδας</rs>, ἐπιβουλεύοντας αὐτῷ καὶ διὰ τὴν ἀπαιδίαν καταφρονοῦντας: ἦσαν δὲ πεντήκοντα παῖδες ἐκ <name type="person" key="0000890:*pa/llas:person:masc:gen">Πάλλαντος</name> γεγονότες ʼ , ἀπῄει.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="4" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>τεκούσης δὲ τῆς <name type="person" key="0001000:*ai)/qrh:person:fem:gen">Αἴθρας</name> υἱόν, οἱ μὲν εὐθὺς ὀνομασθῆναι <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> λέγουσι διὰ τὴν τῶν γνωρισμάτων θέσιν, οἱ δὲ ὕστερον <name type="place"
+                        key="0361602:*)aqh=nai:place:nn:dat 0000001:*)aqh/neus:noclass:masc:dat">Ἀθήνησι</name> παῖδα θεμένου τοῦ <name type="person"
+                        key="0003164:*ai)geu/s:person:masc:nom 0003164:*ai)geu/s:person:masc:gen 0000001:*ai)gi/s:noclass:fem:gen">Αἰγέως</name> αὐτόν. τρεφόμενον δὲ ὑπὸ τοῦ <name type="person"
+                        key="0002083:*pitqeu/s:person:masc:nom 0002083:*pitqeu/s:person:masc:gen">Πιτθέως</name> ἐπιστάτην ἔχειν καὶ παιδαγωγὸν ὄνομα <rs type="nomorph">Κοννίδαν</rs>, ᾧ μέχρι νῦν <name type="ethnic" key="0360214:*)aqhnai=os:ethnic:masc:nom/voc">Ἀθηναῖοι</name> μιᾷ πρότερον ἡμέρᾳ τῶν <name type="place"
+                        key="0001000:*qhsei=on:place:neut:gen 0000001:*qhsei=os:noclass:masc/neut:gen 0000001:*qhsei=os:noclass:fem:gen 0000001:*qhsei=a:noclass:neut:gen">Θησείων</name> κριὸν ἐναγίζουσι, μεμνημένοι καὶ τιμῶντες πολὺ δικαιότερον ἢ <name type="person" key="0004534:*silani/wn:person:masc:acc">Σιλανίωνα</name> τιμῶσι καὶ <name type="person"
+                        key="0008806:*parra/sios:person:neut:nom/voc/acc 0008806:*parra/sios:person:masc:acc 0001000:*parra/sios:ethnic:neut:nom/voc/acc 0001000:*parra/sios:ethnic:masc:acc">Παρράσιον</name>, εἰκόνων <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> γραφεῖς καὶ πλάστας γενομένους.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="5" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ἔθους δὲ ὄντος ἔτι τότε τοὺς μεταβαίνοντας ἐκ παίδων ἐλθόντας εἰς <name type="place" key="0064579:*delfoi/:place:masc:acc">Δελφοὺς</name> ἀπάρχεσθαι τῷ θεῷ τῆς κόμης, ἦλθε μὲν εἰς <name type="place" key="0064579:*delfoi/:place:masc:acc">Δελφοὺς</name> ὁ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεύς</name>, καὶ τόπον ἀπ᾽ αὐτοῦ τὴν <name type="noclass" key="0000001:*qhsei=os:noclass:fem:acc">Θησείαν</name> ἔτι νῦν ὀνομάζεσθαι λέγουσιν, ἐκείρατο δὲ τῆς κεφαλῆς τὰ πρόσθεν μόνον, ὥσπερ <name type="person" key="0095973:*(/omhros:person:masc:nom">Ὅμηρος</name> ἔφη τοὺς <name type="ethnic" key="0003111:*)/abantes:ethnic:masc:acc">Ἄβαντας</name>: καὶ τοῦτο τῆς κουρᾶς τὸ γένος <name type="person" key="0001000:*qhshi/s:person:fem:nom">Θησηῒς</name> ὠνομάσθη δι᾽ ἐκεῖνον.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>οἱ δὲ <name type="ethnic" key="0003111:*)/abantes:ethnic:masc:nom/voc">Ἄβαντες</name> ἐκείραντο πρῶτοι τὸν τρόπον τοῦτον οὐχ ὑπ᾽ <name type="ethnic"
+                        key="0063349:*)/aray:ethnic:masc/neut:gen 0063349:*)/aray:ethnic:masc/fem:gen 0063349:*)/aray:ethnic:fem:gen">Ἀράβων</name> διδαχθέντες, ὡς ἔνιοι νομίζουσιν, οὐδὲ <name type="ethnic" key="0009595:*muso/s:ethnic:masc:acc">Μυσοὺς</name> ζηλώσαντες, ἀλλ᾽ ὄντες πολεμικοὶ καὶ ἀγχέμαχοι, καὶ μάλιστα δὴ πάντων εἰς χεῖρας ὠθεῖσθαι τοῖς ἐναντίοις μεμαθηκότες, ὡς μαρτυρεῖ καὶ <name type="person" key="0012860:*)arxi/loxos:person:masc:nom">Ἀρχίλοχος</name> ἐν τούτοις:
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>
+                  <cit>
+                     <quote rend="blockquote">
+                        <l ana="#met-dact" part="N">οὔ τοι πόλλ᾽ ἐπὶ τόξα τανύσσεται οὐδὲ θαμειαὶ</l>
+                        <l part="N">σφενδόναι, εὖτ᾽ ἂν δὴ μῶλον <name type="person"
+                                 key="0007328:*)/arhs:person:masc:nom 0000318:*)/aris:place:fem:nom/voc">Ἄρης</name> συνάγῃ</l>
+                        <l part="N">ἐν πεδίῳ, ξιφέων δὲ πολύστονον ἔσσεται ἔργον: ταύτης γὰρ κεῖνοι δαίμονές εἰσι μάχης</l>
+                        <l part="N">δεσπόται <name type="place"
+                                 key="0018675:*eu)/boia:place:fem:gen 0018675:*eu)/boia:place:fem:acc 0000600:*eu)/boia:person:fem:gen 0000600:*eu)/boia:group:fem:acc">Εὐβοίας</name> δουρικλυτοί.</l>
+                     </quote>
+                     <bibl default="false">Bergk, 3Poet. Lyr. Gr., ii. p. 383.</bibl>
+                  </cit>
+               </p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>ὅπως οὖν μὴ παρέχοιεν ἐκ τῶν τριχῶν ἀντίληψιν τοῖς πολεμίοις ἀπεκείραντο. τοῦτο δὲ ἀμέλει καὶ <name type="person" key="0094880:*)ale/candros:person:masc:acc">Ἀλέξανδρον</name> τὸν <name type="ethnic"
+                        key="0034170:*makedw/n:ethnic:masc/fem:acc 0000417:*makedw/n:person:masc/fem:acc">Μακεδόνα</name> ἐννοήσαντά φασι προστάξαι τοῖς στρατηγοῖς ξυρεῖν τὰ γένεια τῶν <name type="ethnic"
+                        key="0034170:*makedw/n:ethnic:masc/fem:gen 0000417:*makedw/n:group:masc/fem:gen">Μακεδόνων</name>, ὡς λαβὴν ταύτην ἐν ταῖς μάχαις οὖσαν προχειροτάτην.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="6" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>τὸν μὲν οὖν ἄλλον χρόνον ἔκρυπτεν <name type="person" key="0001000:*ai)/qrh:person:fem:nom/voc">Αἴθρα</name> τὴν ἀληθινὴν τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> γένεσιν: ἦν δὲ λόγος ὑπὸ τοῦ <name type="person"
+                        key="0002083:*pitqeu/s:person:masc:nom 0002083:*pitqeu/s:person:masc:gen">Πιτθέως</name> διαδοθεὶς ὡς ἐκ <name type="person" key="0016054:*poseidw=n:person:masc:gen">Ποσειδῶνος</name> τεκνωθείη. <name type="person" key="0016054:*poseidw=n:person:masc:acc">Ποσειδῶνα</name> γὰρ <name type="ethnic" key="0013352:*troizh/nios:ethnic:masc:nom/voc">Τροιζήνιοι</name> σέβονται διαφερόντως, καὶ θεὸς οὗτός ἐστιν αὐτοῖς πολιοῦχος, ᾧ καὶ καρπῶν ἀπάρχονται καὶ τρίαιναν ἐπίσημον ἔχουσι τοῦ νομίσματος.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ἐπεὶ δὲ μειράκιον ὤν, ἅμα τῇ τοῦ σώματος ῥώμῃ διέφαινεν ἀλκὴν καὶ φρόνημα μετὰ νοῦ καὶ συνέσεως βέβαιον, οὕτως αὐτὸν ἡ <name type="person" key="0001000:*ai)/qrh:person:fem:nom/voc">Αἴθρα</name> πρὸς τὴν πέτραν προσαγαγοῦσα, καὶ φράσασα περὶ τῆς γενέσεως τἀληθές, ἐκέλευσεν ὑφελεῖν τὰ πατρῷα σύμβολα καὶ πλεῖν εἰς <name type="place"
+                        key="0361602:*)aqh=nai:place:fem:acc 0000001:*)aqh/neus:noclass:masc:acc">Ἀθήνας</name>.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>ὁ δὲ τὴν μὲν πέτραν ὑπέδυ καὶ ῥᾳδίως ἀνέωσε, πλεῖν δὲ ἀπέγνω, καίπερ οὔσης ἀσφαλείας καὶ δεομένων τοῦ τε πάππου καὶ τῆς μητρός. χαλεπὸν γὰρ ἦν πεζῇ πορεύεσθαι τὴν εἰς <name type="place"
+                        key="0361602:*)aqh=nai:place:fem:acc 0000001:*)aqh/neus:noclass:masc:acc">Ἀθήνας</name> ὁδόν, οὐδὲν μέρος καθαρὸν οὐδὲ ἀκίνδυνον ὑπὸ λῃστῶν καὶ κακούργων ἔχουσαν.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>ὁ γὰρ δὴ χρόνος ἐκεῖνος ἤνεγκεν ἀνθρώπους χειρῶν μὲν ἔργοις καὶ ποδῶν τάχεσι καὶ σωμάτων ῥώμαις, ὡς ἔοικεν, ὑπερφυεῖς καὶ ἀκαμάτους, πρὸς οὐδὲν δὲ τῇ φύσει χρωμένους ἐπιεικὲς οὐδὲ ὠφέλιμον, ἀλλ᾽ ὕβρει τε χαίροντας ὑπερηφάνῳ, καὶ ἀπολαύοντας τῆς δυνάμεως ὠμότητι καὶ πικρίᾳ, καὶ τῷ κρατεῖν τε καὶ βιάζεσθαι καὶ διαφθείρειν τὸ παραπῖπτον, αἰδῶ δὲ καὶ δικαιοσύνην καὶ τὸ ἴσον καὶ τὸ φιλάνθρωπον, ὡς ἀτολμίᾳ τοῦ ἀδικεῖν καὶ φόβῳ τοῦ ἀδικεῖσθαι τοὺς πολλοὺς ἐπαινοῦντας, οὐδὲν οἰομένους προσήκειν τοῖς πλέον ἔχειν δυναμένοις.
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>τούτων <name type="person" key="0067594:*(hraklh=s:person:masc:nom">Ἡρακλῆς</name> τοὺς μὲν ἐξέκοπτε καὶ ἀνῄρει περιϊών, οἱ δὲ λανθάνοντες ἐκείνου παριόντος ἔπτησσον καὶ ἀνεδύοντο καὶ παρημελοῦντο ταπεινὰ πράττοντες. ἐπεὶ δὲ <name type="person" key="0067594:*(hraklh=s:person:masc:nom">Ἡρακλῆς</name> ἐχρήσατο συμφορᾷ, καὶ κτείνας <name type="person" key="0001495:*)/ifitos:person:masc:acc">Ἴφιτον</name> εἰς <name type="place"
+                        key="0017649:*ludi/a:place:fem:acc 0001000:*lu/dios:person:fem:acc 0001000:*lu/dios:ethnic:fem:acc 0000001:*ludi/as:noclass:masc:acc">Λυδίαν</name> ἀπῆρε καὶ συχνὸν ἐκεῖ χρόνον ἐδούλευε παρ᾽ <name type="person" key="0000966:*)omfa/lh:person:fem:dat">Ὀμφάλῃ</name>, δίκην τοῦ φόνου ταύτην ἐπιθεὶς αὑτῷ, τότε τὰ μὲν <name type="ethnic"
+                        key="0017649:*ludo/s:ethnic:masc:gen 0017649:*ludo/s:ethnic:masc/neut:gen 0017649:*ludo/s:ethnic:fem:gen 0000523:*ludo/s:group:masc:gen 0000523:*ludo/s:group:masc/neut:gen 0000523:*ludo/s:group:fem:gen">Λυδῶν</name> πράγματα πολλὴν ἔσχεν εἰρήνην καὶ ἄδειαν: ἐν δὲ τοῖς περὶ τὴν <name type="place" key="0060238:*(ella/s:place:fem:acc">Ἑλλάδα</name> τόποις αὖθις ἐξήνθησαν αἱ κακίαι καὶ ἀνερράγησαν, οὐδενὸς πιεζοῦντος οὐδὲ κατείργοντος.
+</p>
+            </div>
+            <div type="section" n="6" org="uniform" sample="complete" part="N">
+               <p>ἦν οὖν ὀλέθριος ἡ πορεία τοῖς <name type="place" key="0361602:*)aqh=nai:place:nn:acc">Ἀθήναζε</name> πεζῇ βαδίζουσιν ἐκ <name type="place" key="0000238:*pelopo/nnhsos:place:fem:gen">Πελοποννήσου</name>: καὶ τῶν κακούργων ἕκαστον ἐξηγούμενος <name type="person" key="0002083:*pitqeu/s:person:masc:nom">Πιτθεὺς</name> ὁποῖος εἴη καὶ ὁποῖα δρῴη περὶ τοὺς ξένους, ἔπειθε τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> κομίζεσθαι διὰ θαλάττης. τὸν δὲ πάλαι μέν, ὡς ἔοικε, λεληθότως διέκαιεν ἡ δόξα τῆς <name type="person"
+                        key="0067594:*(hraklh=s:person:masc:gen 0000001:*(hrakle/os:noclass:masc:acc">Ἡρακλέους</name> ἀρετῆς, καὶ πλεῖστον ἐκείνου λόγον εἶχε, καὶ προθυμότατος ἀκροατὴς ἐγίνετο τῶν διηγουμένων ἐκεῖνον οἷος εἴη, μάλιστα δὲ τῶν αὐτὸν ἑωρακότων καὶ πράττοντι καὶ λέγοντι
+</p>
+            </div>
+            <div type="section" n="7" org="uniform" sample="complete" part="N">
+               <p>προστετυχηκότων: τότε δὲ παντάπασιν ἦν φανερὸς πεπονθὼς ὅπερ ὕστερον χρόνοις πολλοῖς <name type="person"
+                        key="0027140:*qemistoklh=s:person:masc:voc 0027140:*qemistoklh=s:person:masc:nom">Θεμιστοκλῆς</name> ἔπαθε, καὶ εἶπεν ὡς καθεύδειν αὐτὸν οὐκ ἐῴη τὸ <name type="person" key="0001891:*miltia/dhs:person:masc:gen">Μιλτιάδου</name> τρόπαιον: οὕτως ἐκείνῳ τοῦ <name type="person"
+                        key="0067594:*(hraklh=s:person:masc:gen 0000001:*(hrakle/os:noclass:masc:acc">Ἡρακλέους</name> θαυμάζοντι τὴν ἀρετήν, καὶ νύκτωρ ὄνειρος ἦσαν αἱ πράξεις, καὶ μεθ᾽ ἡμέραν ἐξῆγεν αὐτὸν ὁ ζῆλος καὶ ἀνηρέθιζε ταὐτὰ πράττειν διανοούμενον.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="7" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ἐτύγχανον δὲ καὶ γένους κοινωνοῦντες ἐξ ἀνεψιῶν ὄντες. <name type="person" key="0001000:*ai)/qrh:person:fem:nom/voc">Αἴθρα</name> μὲν γὰρ ἦν <name type="person"
+                        key="0002083:*pitqeu/s:person:masc:nom 0002083:*pitqeu/s:person:masc:gen">Πιτθέως</name> θυγάτηρ, <name type="person" key="0005489:*)alkmh/nh:person:fem:nom/voc">Ἀλκμήνη</name> δὲ <name type="person" key="0000662:*lusidi/kh:person:fem:gen">Λυσιδίκης</name>, <name type="person" key="0000662:*lusidi/kh:person:fem:nom/voc">Λυσιδίκη</name> δὲ καὶ <name type="person" key="0002083:*pitqeu/s:person:masc:nom">Πιτθεὺς</name> ἀδελφοὶ γεγονότες ἐξ <name type="person"
+                        key="0001000:*(ippoda/meia:person:fem:gen 0000001:*(ippodamei/h:noclass:fem:gen 0000001:*(ippodamei/h:noclass:fem:acc">Ἱπποδαμείας</name> καὶ <name type="person" key="0014576:*pe/loy:person:masc:gen">Πέλοπος</name>. δεινὸν οὖν ἐποιεῖτο καὶ οὐκ ἀνεκτὸν ἐκεῖνον μὲν ἐπὶ τοὺς πανταχοῦ πονηροὺς βαδίζοντα καθαίρειν γῆν καὶ θάλατταν, αὐτὸν δὲ τοὺς ἐμποδὼν ἄθλους ἀποδιδράσκειν,
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>τὸν μὲν λόγῳ καὶ δόξῃ πατέρα καταισχύνων διὰ θαλάττης φυγῇ κομιζόμενος, τῷ δὲ ὄντι προσφέρων γνωρίσματα πέδιλα καὶ ξίφος ἀναίμακτον, οὐκ ἔργοις εὐθὺς ἀγαθοῖς καὶ πράξεσι παρέχων ἐμφανῆ χαρακτῆρα τῆς εὐγενείας. τοιούτῳ φρονήματι καὶ τοιούτοις λογισμοῖς ἐξώρμησεν, ὡς ἀδικήσων μὲν οὐδένα, τοὺς δὲ ὑπάρχοντας βίας ἀμυνούμενος.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="8" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>καὶ πρῶτον μὲν ἐν τῇ <name type="ethnic" key="0013805:*)epidau/rios:ethnic:fem:dat">Ἐπιδαυρίᾳ</name>
+                  <name type="person" key="0001560:*perifh/ths:person:masc:acc">Περιφήτην</name>, ὅπλῳ χρώμενον κορύνῃ καὶ διὰ τοῦτο <name type="person" key="0001000:*korunh/ths:person:masc:acc">Κορυνήτην</name> ἐπικαλούμενον, ἁπτόμενον αὐτοῦ καὶ κωλύοντα προάγειν συμβαλὼν ἀπέκτεινεν: ἡσθεὶς δὲ τῇ κορύνῃ λαβὼν ὅπλον ἐποιήσατο καὶ διετέλει χρώμενος, ὥσπερ ὁ <name type="person" key="0067594:*(hraklh=s:person:masc:nom">Ἡρακλῆς</name> τῷ δέρματι τοῦ λέοντος. ἐκείνῳ μὲν οὖν ἐπίδειξις ἦν φορούμενον ἡλίκου τὸ μέγεθος θηρίου κρατήσειεν, οὗτος δὲ τὴν κορύνην ἐπεδείκνυεν ἡττημένην μὲν ὑπ᾽ αὐτοῦ, μετ᾽ αὐτοῦ δὲ ἀήττητον οὖσαν.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ἐν δ᾽ <name type="place" key="0001221:*)isqmo/s:place:masc:dat">Ἰσθμῷ</name>
+                  <name type="person"
+                        key="0001000:*si/nis:person:fem:acc 0000510:*si/nis:place:fem:acc">Σίνιν</name> τὸν πιτυοκάμπτην ᾧ τρόπῳ πολλοὺς ἀνῄρει, τούτῳ διέφθειρεν αὐτός, οὐ μεμελετηκὼς οὐδ᾽ εἰθισμένος, ἐπιδείξας δὲ τὴν ἀρετὴν ὅτι καί τέχνης περίεστι καὶ μελέτης ἁπάσης. ἦν δὲ τῷ <name type="person"
+                        key="0001000:*si/nis:person:fem:dat 0000510:*si/nis:place:fem:dat">Σίνιδι</name> καλλίστη καὶ μεγίστη θυγάτηρ, ὄνομα <rs type="nomorph">Περιγούνη</rs>. ταύτην τοῦ πατρὸς ἀνῃρημένου φυγοῦσαν ἐζήτει περιϊὼν ὁ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεύς</name>: ἡ δ᾽ εἰς τόπον ἀπελθοῦσα λόχμην ἔχοντα πολλὴν στοιβήν τε πλείστην καὶ ἀσφάραγον, ἀκάκως πάνυ καὶ παιδικῶς ὥσπερ αἰσθανομένων δεομένη προσεύχετο μεθ᾽ ὅρκων, ἂν σώσωσιν αὐτὴν καὶ ἀποκρύψωσι, μηδέποτε λυμανεῖσθαι μηδὲ καύσειν.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>ἀνακαλουμένου δὲ τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> καὶ πίστιν διδόντος ὡς ἐπιμελήσεται καλῶς αὐτῆς καὶ οὐδὲν ἀδικήσει, προῆλθε: καὶ τῷ μὲν <name type="person" key="0011892:*qhseu/s:person:masc:dat">Θησεῖ</name> συγγενομένη <name type="person" key="0002376:*mela/nippos:person:masc:acc">Μελάνιππον</name> ἔτεκε, <name type="person" key="0001441:*dhi+oneu/s:person:masc:dat">Δηϊονεῖ</name> δὲ τῷ <name type="person" key="0003753:*eu)/rutos:person:masc:gen">Εὐρύτου</name> τοῦ <name type="ethnic"
+                        key="0000256:*oi)xalieu/s:ethnic:masc:nom 0000256:*oi)xalieu/s:ethnic:masc:gen">Οἰχαλιέως</name> ὕστερον συνῴκησε, <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> δόντος. ἐκ δὲ <name type="person" key="0002376:*mela/nippos:person:masc:gen">Μελανίππου</name> τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> γενόμενος <rs type="nomorph">Ἴωξος</rs>
+                  <name type="person" key="0000428:*)/ornutos:person:masc:dat">Ὀρνύτῳ</name> τῆς εἰς <name type="ethnic"
+                        key="0024208:*ka/rios:ethnic:fem:acc 0000671:*ka/rios:person:fem:acc">Καρίαν</name> ἀποικίας μετέσχεν: ὅθεν <rs type="nomorph">Ἰωξίδαις</rs> καὶ <rs type="nomorph">Ἰωξίσι</rs> πάτριον κατέστη μήτε ἄκανθαν ἀσφαράγου μήτε στοιβὴν καίειν, ἀλλὰ σέβεσθαι καὶ τιμᾶν.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="9" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ἡ δὲ <rs type="nomorph">Κρομμυωνία</rs> σῦς, ἣν <name type="noclass" key="0000001:*faih/:noclass:fem:acc">Φαιὰν</name> προσωνόμαζον, οὐ φαῦλον ἦν θηρίον, ἀλλὰ μάχιμον καὶ χαλεπὸν κρατηθῆναι. ταύτην ὁδοῦ πάρεργον, ὡς μὴ δοκοίη πάντα πρὸς ἀνάγκην πονεῖν, ὑποστὰς ἀνεῖλε, καὶ ἅμα τῶν μὲν ἀνθρώπων τοῖς πονηροῖς ἀμυνόμενον οἰόμενος δεῖν τὸν ἀγαθὸν προσφέρεσθαι, τῶν δὲ θηρίων καὶ προεπιχειροῦντα τοῖς γενναίοις μάχεσθαι καὶ διακινδυνεύειν. ἔνιοι δέ φασι τὴν <name type="noclass" key="0000001:*faih/:noclass:fem:acc">Φαιὰν</name> λῃστρίδα γενέσθαι γυναῖκα φονικὴν καὶ ἀκόλαστον, αὐτόθι κατοικοῦσαν ἐν <name type="place" key="0001906:*krommuw/n:place:masc:dat">Κρομμυῶνι</name>, σῦν δὲ ἐπονομασθεῖσαν διὰ τὸ ἦθος καὶ τὸν βίον εἶτα ὑπὸ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> ἀποθανεῖν.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="10" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>
+                  <name type="person" key="0001000:*skei/rwn:person:masc:acc">Σκείρωνα</name> δὲ πρὸ τῆς <name type="ethnic" key="0042237:*megariko/s:ethnic:fem:gen">Μεγαρικῆς</name> ἀνεῖλε ῥίψας κατὰ τῶν πετρῶν, ὡς μὲν ὁ πολὺς λόγος λῃστεύοντα τοὺς παριόντας, ὡς δ᾽ ἔνιοι λέγουσιν ὕβρει καὶ τρυφῇ προτείνοντα τὼ πόδε τοῖς ξένοις καὶ κελεύοντα νίπτειν, εἶτα λακτίζοντα καὶ ἀπωθοῦντα νίπτοντας εἰς τὴν θάλατταν.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>οἱ δὲ <name type="place"
+                        key="0001000:*megaro/qen:place:nn:nom/voc 0001000:*megaro/qen:place:nn:gen">Μεγαρόθεν</name> συγγραφεῖς, ὁμόσε τῇ φήμῃ βαδίζοντες καὶ τῷ πολλῷ χρόνῳ, κατὰ <name type="person" key="0001176:*simwni/dhs:person:masc:acc">Σιμωνίδην</name>, πολεμοῦντες, οὔτε ὑβριστὴν οὔτε λῃστὴν γεγονέναι τὸν <name type="person" key="0001000:*skei/rwn:person:masc:acc">Σκείρωνά</name> φασιν, ἀλλὰ λῃστῶν μὲν κολαστήν, ἀγαθῶν δὲ καὶ δικαίων οἰκεῖον ἀνδρῶν καὶ φίλον. <name type="person" key="0006169:*ai)ako/s:person:masc:acc">Αἰακόν</name> τε γὰρ <name type="ethnic"
+                        key="0002000:*(/ellhn:ethnic:masc/fem:gen 0001276:*(/ellhn:group:masc/fem:gen">Ἑλλήνων</name> ὁσιώτατον νομίζεσθαι, καὶ <name type="person" key="0001000:*ku/xreus:person:masc:acc">Κυχρέα</name> τιμὰς θεῶν ἔχειν <name type="place"
+                        key="0361602:*)aqh=nai:place:nn:dat 0000001:*)aqh/neus:noclass:masc:dat">Ἀθήνησι</name> τὸν <name type="ethnic"
+                        key="0005491:*salami/nios:ethnic:neut:nom/voc/acc 0005491:*salami/nios:ethnic:masc:acc 0005491:*salami/nios:ethnic:masc/fem:acc">Σαλαμίνιον</name>, τὴν δὲ <name type="person"
+                        key="0009520:*phleu/s:person:masc:nom 0009520:*phleu/s:person:masc:gen">Πηλέως</name> καὶ <name type="place"
+                        key="0002834:*telamw/n:place:masc:gen 0000400:*telamw/n:person:masc:gen">Τελαμῶνος</name> ἀρετὴν ὑπ᾽ οὐδενὸς ἀγνοεῖσθαι.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>
+                  <name type="person" key="0001000:*skei/rwn:person:masc:acc">Σκείρωνα</name> τοίνυν <name type="person"
+                        key="0001000:*ku/xreus:person:masc:nom 0001000:*ku/xreus:person:masc:gen">Κυχρέως</name> μὲν γενέσθαι γαμβρόν, <name type="person" key="0006169:*ai)ako/s:person:masc:gen">Αἰακοῦ</name> δὲ πενθερόν, <name type="person"
+                        key="0009520:*phleu/s:person:masc:nom 0009520:*phleu/s:person:masc:gen">Πηλέως</name> δὲ καὶ <name type="place"
+                        key="0002834:*telamw/n:place:masc:gen 0000400:*telamw/n:person:masc:gen">Τελαμῶνος</name> πάππον, ἐξ <name type="person" key="0000455:*)endhi/s:person:fem:gen">Ἐνδηίδος</name> γεγονότων τῆς <name type="person" key="0001000:*skei/rwn:person:masc:gen">Σκείρωνος</name> καὶ <name type="person"
+                        key="0001000:*xariklh/s:person:masc:gen 0000419:*xariklw/:person:fem:gen 0000419:*xariklw/:group:fem:nom/voc">Χαρικλοῦς</name> θυγατρός. οὔκουν εἰκὸς εἶναι τῷ κακίστῳ τοὺς ἀρίστους εἰς κοινωνίαν γένους ἐλθεῖν, τὰ μέγιστα καὶ τιμιώτατα λαμβάνοντας καὶ διδόντας. ἀλλὰ <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> φασὶν οὐχ ὅτε τὸ πρῶτον ἐβάδιζεν εἰς <name type="place"
+                        key="0361602:*)aqh=nai:place:fem:acc 0000001:*)aqh/neus:noclass:masc:acc">Ἀθήνας</name>, ἀλλ᾽ ὕστερον <name type="person"
+                        key="0000959:*)eleusi/s:person:fem:acc 0000239:*)eleusi/s:place:fem:acc">Ἐλευσῖνά</name> τε λαβεῖν <name type="ethnic"
+                        key="0047396:*megareu/s:ethnic:masc:gen 0001571:*megareu/s:group:masc:gen">Μεγαρέων</name> ἐχόντων, παρακρουσάμενον <name type="person" key="0006667:*dioklh=s:person:masc:acc">Διοκλέα</name> τὸν ἄρχοντα, καὶ <name type="person" key="0001000:*skei/rwn:person:masc:acc">Σκείρωνα</name> ἀποκτεῖναι. ταῦτα μὲν οὖν ἔχει τοιαύτας ἀντιλογίας.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="11" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ἐν δὲ <name type="person"
+                        key="0000959:*)eleusi/s:person:fem:dat 0000239:*)eleusi/s:place:fem:dat 0000001:*)eleusi=ni:noclass:nn:dat">Ἐλευσῖνι</name>
+                  <name type="person" key="0001958:*kerku/wn:person:masc:acc">Κερκύονα</name> τὸν ἐξ <name type="place"
+                        key="0033070:*)arkadi/a:place:fem:gen 0033070:*)arkadi/a:place:fem:acc 0001000:*)arkadi/a:person:fem:gen 0001000:*)arkadi/a:group:fem:acc">Ἀρκαδίας</name> καταπαλαίσας ἀνεῖλε: καὶ μικρὸν προελθὼν <name type="person" key="0002960:*dama/sths:person:masc:acc">Δαμάστην</name> ἐν <name type="place" key="0001215:*)erineo/s:place:masc:dat">Ἐρινεῷ</name>
+                  <note resp="ed" place="unspecified" anchored="true">
+                     <foreign xml:lang="greek">
+                        <name type="place" key="0001215:*)erineo/s:place:masc:dat">Ἐρινεῷ</name>
+                     </foreign> with Coraë s, after Pausanias, i. 38, 5: <foreign xml:lang="greek">
+                        <rs type="nomorph">Ἕρμει</rs>
+                     </foreign> , a correction by Palmerius of the MSS. <foreign xml:lang="greek">
+                        <name type="place"
+                              key="0010166:*(ermio/nh:place:fem:dat 0002752:*(ermio/nh:person:fem:dat">Ἑρμιόνῃ</name>
+                     </foreign> .</note> τὸν <name type="person" key="0000757:*prokrou/sths:person:masc:acc">Προκρούστην</name>, ἀναγκάσας αὑτὸν ἀπισοῦν τοῖς κλιντῆρσιν ὥσπερ τοὺς ξένους ἐκεῖνος. ἔπραττε δὲ ταῦτα μιμούμενος τὸν <name type="person"
+                        key="0067594:*(hraklh=s:person:masc:acc 0000001:*(hra/klea:noclass:fem:nom/voc/acc">Ἡρακλέα</name>. καὶ γὰρ ἐκεῖνος οἷς ἐπεβουλεύετο τρόποις ἀμυνόμενος τοὺς προεπιχειροῦντας, ἔθυσε τὸν <name type="person"
+                        key="0003950:*bou/siris:person:fem:acc 0002174:*bou/siris:place:fem:acc">Βούσιριν</name> καὶ κατεπάλαισε τὸν <name type="person" key="0001601:*)antai=os:person:masc:acc">Ἀνταῖον</name> καὶ τὸν <name type="person" key="0001207:*ku/knos:person:masc:acc">Κύκνον</name> κατεμονομάχησε καὶ τὸν <name type="place" key="0001039:*termeron:place:neut:nom/voc/acc">Τέρμερον</name> συρρήξας τὴν κεφαλὴν ἀπέκτεινεν.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ἀφ᾽ οὗ δὴ καὶ τὸ <name type="person" key="0001000:*terme/reion:person:neut:nom/voc/acc">Τερμέρειον</name> κακὸν ὀνομασθῆναι λέγουσι: παίων γάρ, ὡς ἔοικε, τῇ κεφαλῇ τοὺς ἐντυγχάνοντας ὁ <rs type="nomorph">Τέρμερος</rs> ἀπώλλυεν. οὕτω δὴ καὶ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name> κολάζων τοὺς πονηροὺς ἐπεξῆλθεν, οἷς μὲν ἐβιάζοντο τοὺς ἄλλους, ὑπ᾽ ἐκείνου καταβιαζομένους, ἐν δὲ τοῖς τρόποις τῆς ἑαυτῶν ἀδικίας τὰ δίκαια πάσχοντας.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="12" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>προϊόντι δὲ αὐτῷ καὶ γενομένῳ κατὰ τὸν <name type="person" key="0001685:*khfisso/s:person:masc:acc">Κηφισόν</name>, ἄνδρες ἐκ τοῦ <rs type="nomorph">Φυταλιδῶν</rs> γένους ἀπαντήσαντες ἠσπάσαντο πρῶτοι, καὶ δεομένου καθαρθῆναι, τοῖς νενομισμένοις ἁγνίσαντες καὶ μειλίχια θύσαντες εἱστίασαν οἴκοι, μηδενὸς πρότερον αὐτῷ φιλανθρώπου καθ᾽ ὁδὸν ἐντυχόντος.
+</p>
+               <p>ἡμέρᾳ μὲν οὖν ὀγδόῃ λέγεται <name type="person"
+                        key="0001422:*kro/nios:person:masc/neut:gen 0001000:*kro/nios:group:masc/neut:gen">Κρονίου</name> μηνός, ὃν νῦν <name type="month" key="0002000:*(ekatombaiw/n:month:masc:acc">Ἑκατομβαιῶνα</name> καλοῦσι, κατελθεῖν. κατελθὼν δὲ εἰς τὴν πόλιν εὗρε τά τε κοινὰ ταραχῆς μεστὰ καὶ διχοφροσύνης, καὶ τὰ περὶ τὸν <name type="person"
+                        key="0003164:*ai)geu/s:person:masc:acc 0000001:*ai)gi/s:noclass:fem:acc">Αἰγέα</name> καὶ τὸν οἶκον ἰδίᾳ νοσοῦντα.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>
+                  <name type="person"
+                        key="0003679:*mh/deia:person:fem:nom/voc 0001000:*mh/deios:group:neut:nom/voc/acc 0000447:*mh/deios:group:neut:nom/voc/acc">Μήδεια</name> γὰρ ἐκ <name type="place"
+                        key="0091363:*ko/rinqos:place:fem:gen 0000562:*ko/rinqos:person:fem:gen">Κορίνθου</name> φυγοῦσα, φαρμάκοις ὑποσχομένη τῆς ἀτεκνίας ἀπαλλάξειν <name type="person"
+                        key="0003164:*ai)geu/s:person:masc:acc 0000001:*ai)gi/s:noclass:fem:acc">Αἰγέα</name>, συνῆν αὐτῷ. προαισθομένη δὲ περὶ τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> αὕτη, τοῦ δὲ <name type="person"
+                        key="0003164:*ai)geu/s:person:masc:nom 0003164:*ai)geu/s:person:masc:gen 0000001:*ai)gi/s:noclass:fem:gen">Αἰγέως</name> ἀγνοοῦντος, ὄντος δὲ πρεσβυτέρου καὶ φοβουμένου πάντα διὰ τὴν στάσιν, ἔπεισεν αὐτὸν ὡς ξένον ἑστιῶντα φαρμάκοις ἀνελεῖν. ἐλθὼν οὖν ὁ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name> ἐπὶ τὸ ἄριστον οὐκ ἐδοκίμαζε φράζειν αὑτόν, ὅστις εἴη, πρότερος, ἐκείνῳ δὲ βουλόμενος ἀρχὴν ἀνευρέσεως παρασχεῖν, κρεῶν παρακειμένων σπασάμενος τὴν μάχαιραν, ὡς ταύτῃ τέμνων, ἐδείκνυεν ἐκείνῳ.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>ταχὺ δὲ καταμαθὼν ὁ <name type="person" key="0003164:*ai)geu/s:person:masc:nom">Αἰγεύς</name>, τὴν μὲν κύλικα τοῦ φαρμάκου κατέβαλε, τὸν δὲ υἱὸν ἀνακρίνας ἠσπάζετο, καὶ συναγαγὼν τοὺς πολίτας ἐγνώριζεν, ἡδέως δεχομένους διὰ τὴν ἀνδραγαθίαν. λέγεται δὲ τῆς κύλικος πεσούσης ἐκχυθῆναι τὸ φάρμακον ὅπου νῦν ἐν <name type="place"
+                        key="0000256:*delfi/nion:place:neut:dat 0000001:*delfi/nios:noclass:masc:dat">Δελφινίῳ</name> τὸ περίφρακτόν ἐστιν, ἐνταῦθα γὰρ ὁ <name type="person" key="0003164:*ai)geu/s:person:masc:nom">Αἰγεὺς</name> ᾤκει, καὶ τὸν <name type="person" key="0019206:*(ermh=s:person:masc:acc">Ἑρμῆν</name> τὸν πρὸς ἕω τοῦ ἱεροῦ καλοῦσιν ἐπ᾽ <name type="person"
+                        key="0003164:*ai)geu/s:person:masc:nom 0003164:*ai)geu/s:person:masc:gen 0000001:*ai)gi/s:noclass:fem:gen">Αἰγέως</name> πύλαις.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="13" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>οἱ δὲ <rs type="nomorph">Παλλαντίδαι</rs> πρότερον μὲν ἤλπιζον αὐτοὶ τὴν βασιλείαν καθέξειν <name type="person"
+                        key="0003164:*ai)geu/s:person:masc:nom 0003164:*ai)geu/s:person:masc:gen 0000001:*ai)gi/s:noclass:fem:gen">Αἰγέως</name> ἀτέκνου τελευτήσαντος: ἐπεὶ δὲ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name> ἀπεδείχθη διάδοχος, χαλεπῶς φέροντες εἰ βασιλεύει μὲν <name type="person" key="0003164:*ai)geu/s:person:masc:nom">Αἰγεὺς</name> θετὸς γενόμενος <name type="person" key="0000265:*pandi/wn:person:masc:dat">Πανδίονι</name> καὶ μηδὲν <name type="group"
+                        key="0001000:*)erexqei=dai:group:masc:dat 0000001:*)erexqei/dhs:noclass:masc:dat">Ἐρεχθείδαις</name> προσήκων, βασιλεύσει δ᾽ ὁ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name> πάλιν ἔπηλυς ὢν καὶ ξένος, εἰς πόλεμον καθίσταντο.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>καὶ διελόντες ἑαυτοὺς οἱ μὲν ἐμφανῶς <name type="person" key="0001000:*sfhttoi=:person:nn:dat">Σφηττόθεν</name> ἐχώρουν ἐπὶ τὸ ἄστυ μετὰ τοῦ πατρός, οἱ δὲ <rs type="nomorph">Γαργηττοῖ</rs> κρύψαντες ἑαυτοὺς ἐνήδρευον, ὡς διχόθεν ἐπιθησόμενοι τοῖς ὑπεναντίοις. ἦν δὲ κῆρυξ μετ᾽ αὐτῶν, ἀνὴρ <name type="person" key="0001000:*(agnou/sios:person:masc:nom">Ἁγνούσιος</name>, ὄνομα <name type="person"
+                        key="0001418:*lew/s:person:masc:nom 0001418:*lew/s:group:masc:acc">Λεώς</name>. οὗτος ἐξήγγειλε τῷ <name type="person" key="0011892:*qhseu/s:person:masc:dat">Θησεῖ</name> τὰ βεβουλευμένα τοῖς <rs type="nomorph">Παλλαντίδαις</rs>.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>ὁ δὲ ἐξαίφνης ἐπιπεσὼν τοῖς ἐνεδρεύουσι πάντας διέφθειρεν. οἱ δὲ μετὰ τοῦ <name type="person" key="0000890:*pa/llas:person:masc:gen">Πάλλαντος</name> πυθόμενοι διεσπάρησαν. ἐκ τούτου φασὶ τῷ <name type="place"
+                        key="0002365:*pallh/nh:place:fem:gen 0001000:*pallhneu/s:ethnic:masc:gen 0000342:*pallh/nh:group:fem:gen">Παλληνέων</name> δήμῳ πρὸς τὸν <name type="group" key="0001000:*(agnou/sios-pl:group:masc:gen">Ἁγνουσίων</name> ἐπιγαμίαν μὴ εἶναι, μηδὲ κηρύττεσθαι τοὐπιχώριον παρ᾽ αὐτοῖς <q>ἀκούετε λεῷ:</q> μισοῦσι γὰρ τοὔνομα διὰ τὴν προδοσίαν τοῦ ἀνδρός.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="14" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ὁ δὲ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name> ἐνεργὸς εἶναι βουλόμενος, ἅμα δὲ καὶ δημαγωγῶν, ἐξῆλθεν ἐπὶ τὸν <name type="ethnic"
+                        key="0011836:*maraqw/nios:ethnic:neut:nom/voc/acc 0011836:*maraqw/nios:ethnic:masc:acc">Μαραθώνιον</name> ταῦρον, οὐκ ὀλίγα πράγματα τοῖς οἰκοῦσι τὴν <name type="noclass" key="0000001:*tetra/polis:noclass:fem:acc">Τετράπολιν</name> παρέχοντα: καὶ χειρωσάμενος ἐπεδείξατο ζῶντα διὰ τοῦ ἄστεος ἐλάσας, εἶτα τῷ <name type="person" key="0022077:*)apo/llwn:person:masc:dat">Ἀπόλλωνι</name> τῷ <name type="place"
+                        key="0000256:*delfi/nion:place:neut:dat 0000001:*delfi/nios:noclass:masc:dat">Δελφινίῳ</name> κατέθυσεν.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ἡ δὲ <name type="person" key="0001739:*(eka/lh:person:fem:nom/voc">Ἑκάλη</name> καὶ τὸ περὶ αὐτὴν μυθολόγημα τοῦ ξενισμοῦ καὶ τῆς ὑποδοχῆς ἔοικε μὴ πάσης ἀμοιρεῖν ἀληθείας. ἔθυον γὰρ <rs type="nomorph">Ἑκαλήσια</rs>
+                  <note resp="ed" place="unspecified" anchored="true">
+                     <foreign xml:lang="greek">Εκαλήσια</foreign> the correction of Coraë s: <foreign xml:lang="greek">Ἑκαλήσιον</foreign> .</note> οἱ πέριξ δῆμοι συνιόντες <name type="noclass" key="0000001:e(/khlos:noclass:masc/fem/neut:dat">Ἑκάλῳ</name>
+                  <name type="person" key="0009978:*zeu/s:person:masc:dat">Διΐ</name>, καὶ τὴν <name type="person" key="0001739:*(eka/lh:person:fem:acc">Ἑκάλην</name> ἐτίμων, <rs type="nomorph">Ἑκαλίνην</rs> ὑποκοριζόμενοι διὰ τὸ κἀκείνην νέον ὄντα κομιδῇ τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> ξενίζουσαν ἀσπάσασθαι πρεσβυτικῶς καὶ φιλοφρονεῖσθαι τοιούτοις ὑποκορισμοῖς.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>ἐπεὶ δὲ εὔξατο μὲν ὑπὲρ αὐτοῦ τῷ <name type="person" key="0009978:*zeu/s:person:masc:dat">Διί</name>, βαδίζοντος ἐπὶ τὴν μάχην, εἰ σῶς παραγένοιτο, θύσειν, ἀπέθανε δὲ πρὶν ἐκεῖνον ἐπανελθεῖν, ἔσχε τὰς εἰρημένας ἀμοιβὰς τῆς φιλοξενίας τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> κελεύσαντος, ὡς <name type="person" key="0014326:*filo/xoros:person:masc:nom">Φιλόχορος</name> ἱστόρηκεν.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="15" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ὀλίγῳ δὲ ὕστερον ἧκον ἐκ <name type="place" key="0021498:*krh/th:place:fem:gen 0000528:*krh/th:person:fem:gen">Κρήτης</name> τὸ τρίτον οἱ τὸν δασμὸν ἀπάξοντες. ὅτι μὲν οὖν <name type="person" key="0002198:*)andro/gews:person:masc:gen">Ἀνδρόγεω</name> περὶ τὴν <name type="ethnic"
+                        key="0174833:*)attiko/s:ethnic:fem:acc 0174833:*)attikh/:place:fem:acc">Ἀττικὴν</name> ἀποθανεῖν δόλῳ δόξαντος, ὅ τε <name type="person"
+                        key="0002153:*mi/nws:person:masc:nom/voc 0002153:*mi/nws:group:masc:nom/voc/acc">Μίνως</name> πολλὰ κακὰ πολεμῶν εἰργάζετο τοὺς ἀνθρώπους καὶ τὸ δαιμόνιον ἔφθειρε τὴν χώραν ʽ ἀφορία τε γὰρ καὶ νόσος ἐνέσκηψε πολλὴ καὶ ἀνέδυσαν οἱ ποταμοί ʼ , καὶ τοῦ θεοῦ προστάξαντος ἱλασαμένοις τὸν <name type="person" key="0002153:*mi/nws:person:masc:acc">Μίνω</name> καὶ διαλλαγεῖσι λωφήσειν τὸ μήνιμα καὶ τῶν κακῶν ἔσεσθαι παῦλαν, ἐπικηρυκευσάμενοι καὶ δεηθέντες ἐποιήσαντο συνθήκας ὥστε πέμπειν δι᾽ ἐννέα ἐτῶν δασμὸν ἠϊθέους ἑπτὰ καὶ παρθένους τοσαύτας, ὁμολογοῦσιν οἱ πλεῖστοι τῶν συγγραφέων:
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>τοὺς δὲ παῖδας εἰς <name type="place" key="0021498:*krh/th:place:fem:acc 0000528:*krh/th:person:fem:acc">Κρήτην</name> κομιζομένους ὁ μὲν τραγικώτατος μῦθος ἀποφαίνει τὸν <name type="person" key="0000983:*minw/tauros:person:masc:acc">Μινώταυρον</name> ἐν τῷ <name type="noclass" key="0000001:labu/rinqos:noclass:masc:dat">Λαβυρίνθῳ</name> διαφθείρειν, ἢ πλανωμένους αὐτοὺς καὶ τυχεῖν ἐξόδου μὴ δυναμένους ἐκεῖ καταθνήσκειν, τὸν δὲ <name type="person" key="0000983:*minw/tauros:person:masc:acc">Μινώταυρον</name>, ὥσπερ <name type="person" key="0002747:*eu)ripi/dhs:person:masc:nom">Εὐριπίδης</name> φησί,
+<quote rend="blockquote" type="drama">
+                     <l ana="#met-iamb" part="N">σύμμικτον εἶδος κἀποφώλιον βρέφος</l>
+                  </quote>
+γεγονέναι, καὶ
+<cit>
+                     <quote rend="blockquote" type="drama">
+                        <l ana="#met-iamb" part="N">ταύρου μεμῖχθαι καὶ βροτοῦ διπλῇ φύσει.</l>
+                     </quote>
+                     <bibl default="false">Nauck, 3Trag. Graec. Frag., p. 680.</bibl>
+                  </cit>
+               </p>
+            </div>
+         </div>
+         <div type="chapter" n="16" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>φιλόχορος δέ φησιν οὐ ταῦτα συγχωρεῖν <name type="ethnic"
+                        key="0021498:*krh/s:ethnic:masc:acc 0000558:*krh/s:group:masc:acc">Κρῆτας</name>, ἀλλὰ λέγειν ὅτι φρουρὰ μὲν ἦν ὁ <name type="noclass" key="0000001:labu/rinqos:noclass:masc:nom">Λαβύρινθος</name>, οὐδὲν ἔχων κακὸν ἀλλ᾽ ἢ τὸ μὴ διαφυγεῖν τοὺς φυλαττομένους, ἀγῶνα δὲ ὁ <name type="person"
+                        key="0002153:*mi/nws:person:masc:nom/voc 0002153:*mi/nws:group:masc:nom/voc/acc">Μίνως</name> ἐπ᾽ <name type="person"
+                        key="0002198:*)andro/gews:person:masc:dat 0002198:*)andro/gews:group:masc:nom">Ἀνδρόγεῳ</name> γυμνικὸν ἐποίει καὶ τοὺς παῖδας ἆθλα τοῖς νικῶσιν ἐδίδου τέως ἐν τῷ <name type="noclass" key="0000001:labu/rinqos:noclass:masc:dat">Λαβυρίνθῳ</name> φυλαττομένους: ἐνίκα δὲ τοὺς προτέρους ἀγῶνας ὁ μέγιστον παρ᾽ αὐτῷ δυνάμενος τότε καὶ στρατηγῶν, ὄνομα <name type="place"
+                        key="0003047:*tau=ros:place:masc:nom 0002895:*tau=ros:ethnic:masc:nom 0000417:*tau=ros:person:masc:nom">Ταῦρος</name>, ἀνὴρ οὐκ ἐπιεικὴς καὶ ἥμερος τὸν τρόπον, ἀλλὰ καὶ τοῖς παισὶ τῶν <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc/neut:gen 0360214:*)aqhnai=os:ethnic:fem:gen 0017075:*)aqh/naios:group:masc:gen 0000001:*)aqh/naion:noclass:neut:gen 0000001:*)aqh/naia:noclass:neut:gen">Ἀθηναίων</name> ὑπερηφάνως καὶ χαλεπῶς προσφερόμενος.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>
+                  <name type="person"
+                        key="0223520:*)aristote/lhs:person:masc:nom 0223520:*)aristote/lhs:group:masc:nom/voc 0223520:*)aristote/lhs:group:masc:acc">Ἀριστοτέλης</name> δὲ καὶ αὐτὸς ἐν τῇ <name type="noclass"
+                        key="0000001:*bottiai=os:noclass:masc/neut:gen 0000001:*bottiai=os:noclass:fem:gen">Βοττιαίων</name> πολιτείᾳ δῆλός ἐστιν οὐ νομίζων ἀναιρεῖσθαι τοὺς παῖδας ὑπὸ τοῦ <name type="person" key="0002153:*mi/nws:person:masc:acc">Μίνω</name>, ἀλλὰ θητεύοντας ἐν τῇ <name type="place" key="0021498:*krh/th:place:fem:dat 0000528:*krh/th:person:fem:dat">Κρήτῃ</name> καταγηράσκειν: καί ποτε <name type="ethnic"
+                        key="0021498:*krh/s:ethnic:masc:acc 0000558:*krh/s:group:masc:acc">Κρῆτας</name> εὐχὴν παλαιὰν ἀποδιδόντας ἀνθρώπων ἀπαρχὴν εἰς <name type="place" key="0064579:*delfoi/:place:masc:acc">Δελφοὺς</name> ἀποστέλλειν, τοῖς δὲ πεμπομένοις ἀναμιχθέντας ἐκγόνους ἐκείνων συνεξελθεῖν: ὡς δὲ οὐκ ἦσαν ἱκανοὶ τρέφειν ἑαυτοὺς αὐτόθι, πρῶτον μὲν εἰς <name type="place" key="0173797:*)itali/a:place:fem:acc">Ἰταλίαν</name> διαπερᾶσαι κἀκεῖ κατοικεῖν περὶ τὴν <name type="place"
+                        key="0004343:*)iapugi/a:place:fem:acc 0000001:*)iapu/gios:noclass:fem:acc">Ἰαπυγίαν</name>, ἐκεῖθεν δὲ αὖθις εἰς <name type="place" key="0113797:*qra|ki/a:place:fem:acc">Θρᾴκην</name> κομισθῆναι καὶ κληθῆναι <name type="noclass" key="0000001:*bottiai=os:noclass:masc:acc">Βοττιαίους</name>: διὸ τὰς κόρας τῶν <name type="noclass"
+                        key="0000001:*bottiai=os:noclass:masc/neut:gen 0000001:*bottiai=os:noclass:fem:gen">Βοττιαίων</name> θυσίαν τινὰ τελούσας ἐπᾴδειν: <q>ἴωμεν εἰς <name type="place"
+                           key="0361602:*)aqh=nai:place:fem:acc 0000001:*)aqh/neus:noclass:masc:acc">Ἀθήνας</name>.</q>
+               </p>
+               <p>ἔοικε γὰρ ὄντως χαλεπὸν εἶναι φωνὴν ἐχούσῃ πόλει καὶ μοῦσαν ἀπεχθάνεσθαι.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>καὶ γὰρ ὁ <name type="person"
+                        key="0002153:*mi/nws:person:masc:nom/voc 0002153:*mi/nws:group:masc:nom/voc/acc">Μίνως</name> ἀεὶ διετέλει κακῶς ἀκούων καὶ λοιδορούμενος ἐν τοῖς <name type="ethnic" key="0174833:*)attiko/s:ethnic:masc/neut:dat">Ἀττικοῖς</name> θεάτροις, καὶ οὔτε <name type="person" key="0031940:*(hsi/odos:person:masc:nom">Ἡσίοδος</name> αὐτὸν ὤνησε <q>βασιλεύτατον</q> οὔτε <name type="person" key="0095973:*(/omhros:person:masc:nom">Ὅμηρος</name>
+                  <q>ὀαριστὴν <name type="person" key="0009978:*zeu/s:person:masc:gen">Διὸς</name>
+                  </q> προσαγορεύσας, ἀλλ᾽ ἐπικρατήσαντες οἱ τραγικοὶ πολλὴν ἀπὸ τοῦ λογείου καὶ τῆς σκηνῆς ἀδοξίαν αὐτοῦ κατεσκέδασαν ὡς χαλεποῦ καὶ βιαίου γενομένου. καίτοι φασὶ τὸν μὲν <name type="person" key="0002153:*mi/nws:person:masc:acc">Μίνω</name> βασιλέα καὶ νομοθέτην, δικαστὴν δὲ τὸν <name type="person" key="0001960:*(rada/manqus:person:masc:acc">Ῥαδάμανθυν</name> εἶναι καὶ φύλακα τῶν ὡρισμένων ὑπ᾽ ἐκείνου δικαίων.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="17" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ἐπεὶ δ᾽ οὖν καθῆκεν ὁ χρόνος τοῦ τρίτου δασμοῦ, καὶ παρέχειν ἔδει τοὺς πατέρας ἐπὶ τὸν κλῆρον οἷς ἦσαν ἠΐθεοι παῖδες, αὖθις ἀνεφύοντο τῷ <name type="person"
+                        key="0003164:*ai)geu/s:person:masc:dat 0000001:*ai)gi/s:noclass:fem:nom/voc/acc 0000001:*ai)gi/s:noclass:fem:dat">Αἰγεῖ</name> διαβολαὶ πρὸς τοὺς πολίτας, ὀδυρομένους καὶ ἀγανακτοῦντας ὅτι πάντων αἴτιος ὢν ἐκεῖνος, οὐδὲν μέρος ἔχει τῆς κολάσεως μόνος, ἀλλ᾽ ἐπὶ νόθῳ καὶ ξένῳ παιδὶ τὴν ἀρχὴν πεποιημένος αὐτοὺς περιορᾷ γνησίων ἐρήμους καὶ ἄπαιδας ἀπολειπομένους.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ταῦτ᾽ ἠνία τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name>, καὶ δικαιῶν μὴ ἀμελεῖν, ἀλλὰ κοινωνεῖν τῆς τύχης τοῖς πολίταις, ἐπέδωκεν ἑαυτὸν ἄνευ κλήρου προσελθών. καὶ τοῖς μὲν ἄλλοις τό τε φρόνημα θαυμαστὸν ἐφάνη καὶ τὸ δημοτικὸν ἠγάπησαν, ὁ δὲ <name type="person" key="0003164:*ai)geu/s:person:masc:nom">Αἰγεύς</name>, ἐπεὶ δεόμενος καὶ καθικετεύων ἀμετάπειστον ἑώρα καὶ ἀμετάτρεπτον, ἀπεκλήρωσε τοὺς ἄλλους παῖδας.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>
+                  <name type="person" key="0014863:*(ella/nikos:person:masc:nom">Ἑλλάνικος</name> δέ φησιν οὐ τοὺς λαχόντας ἀπὸ κλήρου καὶ τὰς λαχούσας ἐκπέμπειν τὴν πόλιν, αὐτὸν δὲ τὸν <name type="person" key="0002153:*mi/nws:person:masc:acc">Μίνω</name> παραγινόμενον ἐκλέγεσθαι καὶ τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> πάντων ἑλέσθαι πρῶτον ἐπὶ τοῖς ὁρισθεῖσιν: ὡρισμένον δ᾽ εἶναι τὴν μὲν ναῦν <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc:acc 0017075:*)aqh/naios:group:masc:acc">Ἀθηναίους</name> παρέχειν, ἐμβάντας δὲ πλεῖν σὺν αὐτῷ τοὺς ἠϊθέους μηδὲν ὅπλον ἀρήϊον ἐπιφερομένους, ἀπολομένου δὲ τοῦ <name type="person" key="0000983:*minw/tauros:person:masc:gen">Μινωταύρου</name> πέρας ἔχειν τὴν ποινήν.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>πρότερον μὲν οὖν οὐδεμία σωτηρίας ἐλπὶς ὑπέκειτο: διὸ καὶ μέλαν ἱστίον ἔχουσαν, ὡς ἐπὶ συμφορᾷ προδήλῳ, τὴν ναῦν ἔπεμπον: τότε δὲ τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> τὸν πατέρα θαρρύνοντος καὶ μεγαληγοροῦντος ὡς χειρώσεται τὸν <name type="person" key="0000983:*minw/tauros:person:masc:acc">Μινώταυρον</name>, ἔδωκεν ἕτερον ἱστίον λευκὸν τῷ κυβερνήτῃ, κελεύσας ὑποστρέφοντα σωζομένου τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> ἐπάρασθαι τὸ λευκόν, εἰ δὲ μή, τῷ μέλανι πλεῖν καὶ ἀποσημαίνειν τὸ πάθος.
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>ὁ δὲ <name type="person" key="0001176:*simwni/dhs:person:masc:nom">Σιμωνίδης</name> οὐ λευκόν φησιν εἶναι τὸ δοθὲν ὑπὸ τοῦ <name type="person"
+                        key="0003164:*ai)geu/s:person:masc:nom 0003164:*ai)geu/s:person:masc:gen 0000001:*ai)gi/s:noclass:fem:gen">Αἰγέως</name>, ἀλλὰ <q>φοινίκεον ἱστίον ὑγρῷ πεφυρμένον πρίνου ἄνθει ἐριθάλλου:</q> καὶ τοῦτο τῆς σωτηρίας αὐτῶν ποιήσασθαι σημεῖον: ἐκυβέρνα δὲ τὴν ναῦν <rs type="nomorph">Ἀμαρσυάδας</rs>
+                  <name type="person" key="0001497:*fe/reklos:person:masc:nom">Φέρεκλος</name>, ὥς φησι <name type="person" key="0001176:*simwni/dhs:person:masc:nom">Σιμωνίδης</name>.
+</p>
+            </div>
+            <div type="section" n="6" org="uniform" sample="complete" part="N">
+               <p>φιλόχορος δὲ παρὰ <name type="person"
+                        key="0001579:*ski/ros:person:masc:gen 0000001:*ski=ros:noclass:masc:gen 0000001:*ski/ron:noclass:neut:gen">Σκίρου</name> φησὶν ἐκ <name type="place"
+                        key="0005491:*salami/s:place:fem:gen 0000520:*salami/s:person:fem:gen">Σαλαμῖνος</name> τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> λαβεῖν κυβερνήτην μὲν <name type="person" key="0001568:*nausi/qoos:person:masc:acc">Ναυσίθοον</name>, πρωρέα δὲ <name type="person"
+                        key="0005339:*fai/ac:person:masc:acc 0001000:*fai/ac:ethnic:masc:acc">Φαίακα</name>, μηδέπω τότε τῶν <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc/neut:gen 0360214:*)aqhnai=os:ethnic:fem:gen 0017075:*)aqh/naios:group:masc:gen 0000001:*)aqh/naion:noclass:neut:gen 0000001:*)aqh/naia:noclass:neut:gen">Ἀθηναίων</name> προσεχόντων τῇ θαλάττῃ: καὶ γὰρ εἶναι τῶν ἠϊθέων ἕνα <name type="person" key="0001000:*mene/sqhs:person:masc:acc">Μενέσθην</name>
+                  <name type="person"
+                        key="0001579:*ski/ros:person:masc:gen 0000001:*ski=ros:noclass:masc:gen 0000001:*ski/ron:noclass:neut:gen">Σκίρου</name> θυγατριδοῦν. μαρτυρεῖ δὲ τούτοις ἡρῷα <name type="person" key="0001568:*nausi/qoos:person:masc:gen">Ναυσιθόου</name> καὶ <name type="person"
+                        key="0005339:*fai/ac:person:masc:gen 0001000:*fai/ac:ethnic:masc:gen">Φαίακος</name> εἱσαμένου <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name>
+                  <name type="person"
+                        key="0001000:*falhroi=:person:nn:nom/voc/acc 0001000:*falhroi=:person:nn:nom">Φαληροῖ</name> πρὸς τῷ τοῦ <name type="person"
+                        key="0001579:*ski/ros:person:masc:gen 0000001:*ski=ros:noclass:masc:gen 0000001:*ski/ron:noclass:neut:gen">Σκίρου</name> ἱερῷ, <note resp="ed" place="unspecified" anchored="true">
+                     <foreign xml:lang="greek">ἱερῷ</foreign> bracketed by Bekker ( <gloss>near that of Scirus</gloss> ).</note> καὶ τὴν ἑορτὴν τὰ <name type="noclass" key="0000001:kubernh/sia:noclass:neut:nom/voc/acc">Κυβερνήσιά</name> φασιν ἐκείνοις τελεῖσθαι.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="18" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>γενομένου δὲ τοῦ κλήρου παραλαβὼν τοὺς λαχόντας ὁ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name> ἐκ τοῦ πρυτανείου, καὶ παρελθὼν εἰς <name type="place"
+                        key="0000256:*delfi/nion:place:neut:nom/voc/acc 0000001:*delfi/nios:noclass:masc:acc">Δελφίνιον</name>, ἔθηκεν ὑπὲρ αὐτῶν τῷ <name type="person" key="0022077:*)apo/llwn:person:masc:dat">Ἀπόλλωνι</name> τὴν ἱκετηρίαν. ἦν δὲ κλάδος ἀπὸ τῆς ἱερᾶς ἐλαίας, ἐρίῳ λευκῷ κατεστεμμένος. εὐξάμενος δὲ κατέβαινεν ἕκτῃ μηνὸς ἐπὶ θάλασσαν ἱσταμένου <name type="person" key="0001000:*mounuxiw/n:person:masc:gen">Μουνυχιῶνος</name>, ᾗ καὶ νῦν ἔτι τὰς κόρας πέμπουσιν ἱλασομένας εἰς <name type="place"
+                        key="0000256:*delfi/nion:place:neut:nom/voc/acc 0000001:*delfi/nios:noclass:masc:acc">Δελφίνιον</name>.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>λέγεται δὲ αὐτῷ τὸν μὲν ἐν <name type="place" key="0064579:*delfoi/:place:masc:dat">Δελφοῖς</name> ἀνελεῖν θεὸν <name type="person" key="0011129:*)afrodi/th:person:fem:acc">Ἀφροδίτην</name> καθηγεμόνα ποιεῖσθαι καὶ παρακαλεῖν συνέμπορον, θύοντι δὲ πρὸς θαλάσσῃ τὴν αἶγα θήλειαν οὖσαν αὐτομάτως τράγον γενέσθαι: διὸ καὶ καλεῖσθαι τὴν θεὸν <name type="noclass" key="0000001:e)pitragi/a:noclass:fem:acc">Ἐπιτραγίαν</name>.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="19" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ἐπεὶ δὲ κατέπλευσεν εἰς <name type="place" key="0021498:*krh/th:place:fem:acc 0000528:*krh/th:person:fem:acc">Κρήτην</name>, ὡς μὲν οἱ πολλοὶ γράφουσι καὶ ᾄδουσι, παρὰ τῆς <name type="person" key="0004259:*)aria/dnh:person:fem:gen">Ἀριάδνης</name> ἐρασθείσης τὸ λίνον λαβών, καὶ διδαχθεὶς ὡς ἔστι τοῦ λαβυρίνθου τοὺς ἑλιγμοὺς διεξελθεῖν, ἀπέκτεινε τὸν <name type="person" key="0000983:*minw/tauros:person:masc:acc">Μινώταυρον</name> καὶ ἀπέπλευσε τὴν <name type="person" key="0004259:*)aria/dnh:person:fem:acc">Ἀριάδνην</name> ἀναλαβὼν καὶ τοὺς ἠϊθέους. <name type="person"
+                        key="0000436:*fereku/dhs:person:masc:nom 0000436:*fereku/dhs:group:masc:nom/voc 0000436:*fereku/dhs:group:masc:acc">Φερεκύδης</name> δὲ καὶ τὰ ἐδάφη τῶν <name type="place"
+                        key="0001000:*krhtiko/s:place:masc/neut:gen 0001000:*krhtiko/s:place:fem:gen">Κρητικῶν</name> νεῶν φησιν ἐκκόψαι τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name>, τὴν δίωξιν ἀφαιρούμενον.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>δήμων δὲ καὶ τὸν <name type="place"
+                        key="0003047:*tau=ros:place:masc:acc 0002895:*tau=ros:ethnic:masc:acc 0000417:*tau=ros:person:masc:acc">Ταῦρον</name> ἀναιρεθῆναί φησι τὸν τοῦ <name type="person" key="0002153:*mi/nws:person:masc:acc">Μίνω</name> στρατηγόν, ἐν τῷ λιμένι διαναυμαχοῦντα τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> ἐκπλέοντος. ὡς δὲ <name type="person" key="0014326:*filo/xoros:person:masc:nom">Φιλόχορος</name> ἱστόρηκε, τὸν ἀγῶνα τοῦ <name type="person" key="0002153:*mi/nws:person:masc:acc">Μίνω</name> συντελοῦντος, ἐπίδοξος ὢν ἅπαντας πάλιν νικήσειν, ὁ <name type="place"
+                        key="0003047:*tau=ros:place:masc:nom 0002895:*tau=ros:ethnic:masc:nom 0000417:*tau=ros:person:masc:nom">Ταῦρος</name> ἐφθονεῖτο. καὶ γὰρ ἡ δύναμις αὐτοῦ διὰ τὸν τρόπον ἦν ἐπαχθής, καὶ διαβολὴν εἶχεν ὡς τῇ <name type="person" key="0000661:*pasifa/h:person:fem:dat">Πασιφάῃ</name> πλησιάζων. διὸ καὶ τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> ἀξιοῦντος ἀγωνίσασθαι συνεχώρησεν ὁ <name type="person"
+                        key="0002153:*mi/nws:person:masc:nom/voc 0002153:*mi/nws:group:masc:nom/voc/acc">Μίνως</name>.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>ἔθους δὲ ὄντος ἐν <name type="place" key="0021498:*krh/th:place:fem:dat 0000528:*krh/th:person:fem:dat">Κρήτῃ</name> θεᾶσθαι καὶ τὰς γυναῖκας, <name type="person" key="0004259:*)aria/dnh:person:fem:nom/voc">Ἀριάδνη</name> παροῦσα πρός τε τὴν ὄψιν ἐξεπλάγη τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> καὶ τὴν ἄθλησιν ἐθαύμασε πάντων κρατήσαντος. ἡσθεὶς δὲ καὶ ὁ <name type="person"
+                        key="0002153:*mi/nws:person:masc:nom/voc 0002153:*mi/nws:group:masc:nom/voc/acc">Μίνως</name> μάλιστα τοῦ <name type="place"
+                        key="0003047:*tau=ros:place:masc:gen 0002895:*tau=ros:ethnic:masc:gen 0000417:*tau=ros:person:masc:gen">Ταύρου</name> καταπαλαισθέντος καὶ προπηλακισθέντος, ἀπέδωκε τῷ <name type="person" key="0011892:*qhseu/s:person:masc:dat">Θησεῖ</name> τοὺς παῖδας καὶ ἀνῆκε τῇ πόλει τὸν δασμόν.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>ἰδίως δέ πως καὶ περιττῶς ὁ <name type="person" key="0003591:*klei/dhmos:person:masc:nom">Κλείδημος</name> ἀπήγγειλε περὶ τούτων, ἄνωθέν ποθεν ἀρξάμενος, ὅτι δόγμα κοινὸν ἦν <name type="ethnic"
+                        key="0002000:*(/ellhn:ethnic:masc/fem:gen 0001276:*(/ellhn:group:masc/fem:gen">Ἑλλήνων</name> μηδεμίαν ἐκπλεῖν τριήρη μηδαμόθεν ἀνδρῶν πέντε πλείονας δεχομένην: τὸν δὲ ἄρχοντα τῆς <name type="person" key="0001000:*)argw/:person:fem:gen">Ἀργοῦς</name>
+                  <name type="person" key="0026087:*)ia/swn:person:masc:acc">Ἰάσονα</name> μόνον περιπλεῖν <note resp="ed" place="unspecified" anchored="true">
+                     <foreign xml:lang="greek">περιπλεῖν</foreign> Sintenis and Bekker assume a lacuna after this word. A Bodleian MS. (B <hi rend="superscript">a</hi> ) has <foreign xml:lang="greek">τριήρει πλήρει ἀνδρῶν ἱκανῶν</foreign> ( <gloss>with a trireme fully manned</gloss> ).</note> ἐξείργοντα τῆς θαλάττης τὰ λῃστήρια. <name type="person" key="0019185:*dai/dalos:person:masc:gen">Δαιδάλου</name> δὲ πλοίῳ φυγόντος εἰς <name type="place"
+                        key="0361602:*)aqh=nai:place:fem:acc 0000001:*)aqh/neus:noclass:masc:acc">Ἀθήνας</name>, <name type="person"
+                        key="0002153:*mi/nws:person:masc:nom/voc 0002153:*mi/nws:group:masc:nom/voc/acc">Μίνως</name> παρὰ τὰ δόγματα μακραῖς ναυσὶ διώκων ὑπὸ χειμῶνος εἰς <name type="place" key="0103108:*sikeli/a:place:fem:acc">Σικελίαν</name> ἀπηνέχθη κἀκεῖ κατέστρεψε τὸν βίον.
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>ἐπεὶ δὲ <name type="person" key="0003281:*deukali/wn:person:masc:nom/voc">Δευκαλίων</name> ὁ υἱὸς αὐτοῦ πολεμικῶς ἔχων πρὸς τοὺς <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc:acc 0017075:*)aqh/naios:group:masc:acc">Ἀθηναίους</name> ἔπεμψεν, ἐκδιδόναι <name type="person" key="0019185:*dai/dalos:person:masc:acc">Δαίδαλον</name> αὑτῷ κελεύων ἢ τοὺς παῖδας ἀποκτενεῖν ἀπειλῶν οὓς ἔλαβεν ὁμήρους ὁ <name type="person"
+                        key="0002153:*mi/nws:person:masc:nom/voc 0002153:*mi/nws:group:masc:nom/voc/acc">Μίνως</name>, τούτῳ μὲν ἀπεκρίνατο πρᾴως ὁ <rs type="nomorph">Θησέυς</rs>, παραιτούμενος ἀνεψιὸν ὄντα <name type="person" key="0019185:*dai/dalos:person:masc:acc">Δαίδαλον</name> κἀκείνῳ κατὰ γένος προσήκοντα, μητρὸς ὄντα <name type="person" key="0000287:*mero/ph:person:fem:gen">Μερόπης</name> τῆς <name type="person"
+                        key="0000214:*)erexqeu/s:person:nn:nom 0000214:*)erexqeu/s:person:nn:gen 0000214:*)erexqeu/s:person:masc:nom 0000214:*)erexqeu/s:person:masc:gen">Ἐρεχθέως</name>, αὐτὸς δὲ ναυπηγίαν ἐπεβάλετο, τὴν μὲν ἐν <rs type="nomorph">Θυμαιταδῶν</rs> αὐτόθι μακρὰν τῆς ξενικῆς ὁδοῦ, τὴν δὲ διὰ <name type="person"
+                        key="0002083:*pitqeu/s:person:masc:nom 0002083:*pitqeu/s:person:masc:gen">Πιτθέως</name> ἐν <name type="place"
+                        key="0013986:*troizh/n:place:fem:dat 0000393:*troizh/n:person:fem:dat">Τροιζῆνι</name>,
+</p>
+            </div>
+            <div type="section" n="6" org="uniform" sample="complete" part="N">
+               <p>βουλόμενος λανθάνειν. γενομένων δὲ ἑτοίμων ἐξέπλευσε τόν τε <name type="person" key="0019185:*dai/dalos:person:masc:acc">Δαίδαλον</name> ἔχων καὶ φυγάδας ἐκ <name type="place" key="0021498:*krh/th:place:fem:gen 0000528:*krh/th:person:fem:gen">Κρήτης</name> καθηγεμόνας: οὐδενὸς δὲ προειδότος, ἀλλὰ ναῦς φιλίας οἰομένων τῶν <name type="place"
+                        key="0021498:*krh/th:place:fem:gen 0021498:*krh/s:ethnic:masc:gen 0000558:*krh/s:group:masc:gen 0000528:*krh/th:group:fem:gen">Κρητῶν</name> προσφέρεσθαι, τοῦ λιμένος κρατήσας καὶ ἀποβὰς ἔφθασεν εἰς τὴν <name type="person" key="0000479:*knwsso/s:person:fem:acc">Κνωσσὸν</name> παρελθών: καὶ μάχην ἐν πύλαις τοῦ <name type="noclass" key="0000001:labu/rinqos:noclass:masc:gen">Λαβυρίνθου</name> συνάψας ἀπέκτεινε τὸν <name type="person" key="0003281:*deukali/wn:person:masc:acc">Δευκαλίωνα</name> καὶ τοὺς δορυφόρους.
+</p>
+            </div>
+            <div type="section" n="7" org="uniform" sample="complete" part="N">
+               <p>ἐν δὲ τοῖς πράγμασι τῆς <name type="person" key="0004259:*)aria/dnh:person:fem:gen">Ἀριάδνης</name> γενομένης, σπεισάμενος πρὸς αὐτὴν τούς τε ἠϊθέους ἀνέλαβε καὶ φιλίαν ἐποίησε τοῖς <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc/neut:dat 0017075:*)aqh/naios:group:masc:dat 0000001:*)aqh/naion:noclass:neut:dat 0000001:*)aqh/naia:noclass:neut:dat">Ἀθηναίοις</name> πρὸς τοὺς <name type="ethnic"
+                        key="0021498:*krh/s:ethnic:masc:acc 0000558:*krh/s:group:masc:acc">Κρῆτας</name>, ὀμόσαντας μηδέποτε πολέμου κατάρξειν.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="20" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>πολλοὶ δὲ λόγοι καὶ περὶ τούτων ἔτι λέγονται καὶ περὶ τῆς <name type="person" key="0004259:*)aria/dnh:person:fem:gen">Ἀριάδνης</name>, οὐδὲν ὁμολογούμενον ἔχοντες. οἱ μὲν γὰρ ἀπάγξασθαί φασιν αὐτὴν ἀπολειφθεῖσαν ὑπὸ τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name>, οἱ δὲ εἰς <name type="person" key="0000395:*na/cos:person:fem:acc">Νάξον</name> ὑπὸ ναυτῶν κομισθεῖσαν <name type="noclass" key="0000001:oi)/naron:noclass:neut:dat">Οἰνάρῳ</name> τῷ ἱερεῖ τοῦ <name type="person"
+                        key="0025143:*dio/nusos:person:masc:gen 0001000:*dionu/sos:person:masc:gen">Διονύσου</name> συνοικεῖν, ἀπολειφθῆναι δὲ τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> ἐρῶντος ἑτέρας:
+<quote rend="blockquote">
+                     <l ana="#met-dact" part="N">δεινὸς γάρ μὲν ἔτειρεν ἔρως <rs type="nomorph">Πανοπηΐδος</rs>
+                        <name type="person" key="0001225:*ai)/glh:person:fem:gen">Αἴγλης</name>.</l>
+                  </quote>
+               </p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>τοῦτο γὰρ τὸ ἔπος ἐκ τῶν <name type="person" key="0031940:*(hsi/odos:person:masc:gen">Ἡσιόδου</name>
+                  <name type="person" key="0044443:*peisi/stratos:person:masc:acc">Πεισίστρατον</name> ἐξελεῖν φησιν <name type="person" key="0001396:*(hre/as:person:masc:nom">Ἡρέας</name> ὁ <name type="ethnic"
+                        key="0047396:*megareu/s:ethnic:masc:nom 0001571:*megareu/s:person:masc:nom">Μεγαρεύς</name>, ὥσπερ αὖ πάλιν ἐμβαλεῖν εἰς τὴν <name type="person" key="0095973:*(/omhros:person:masc:gen">Ὁμήρου</name> νέκυιαν τὸ <cit>
+                     <quote rend="blockquote">
+                        <l ana="#met-dact" part="N">
+                           <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name>
+                           <name type="person" key="0002406:*peiri/qoos:person:masc:acc">Πειρίθοόν</name> τε θεῶν ἀριδείκετα τέκνα,</l>
+                     </quote>
+                     <bibl default="false">Hom. Od. 11.631</bibl>
+                  </cit> χαριζόμενον <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc/neut:dat 0017075:*)aqh/naios:group:masc:dat 0000001:*)aqh/naion:noclass:neut:dat 0000001:*)aqh/naia:noclass:neut:dat">Ἀθηναίοις</name>: ἔνιοι δὲ καὶ τεκεῖν ἐκ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name>
+                  <name type="person" key="0004259:*)aria/dnh:person:fem:acc">Ἀριάδνην</name>
+                  <name type="person" key="0002079:*oi)nopi/wn:person:masc:acc">Οἰνοπίωνα</name> καὶ <name type="person" key="0002724:*sta/fulos:person:masc:acc">Στάφυλον</name>: ὧν καὶ ὁ <name type="ethnic" key="0019519:*xi=os:ethnic:masc:nom">Χῖος</name>
+                  <name type="person"
+                        key="0012139:*)/iwn:person:masc:nom/voc 0002879:*)/ios:place:fem:gen 0000388:*)/iwn:place:masc:nom/voc">Ἴων</name> ἐστὶ περὶ τῆς ἑαυτοῦ πατρίδος λέγων: <cit>
+                     <quote rend="blockquote">
+                        <l ana="#met-lyric" part="N">τήν ποτε <name type="person" key="0001000:*qhsei/dai:person:masc:nom">Θησείδης</name> ἔκτισεν <name type="person" key="0002079:*oi)nopi/wn:person:masc:nom/voc">Οἰνοπίων</name>.</l>
+                     </quote>
+                     <bibl default="false">Bergk, Poet. Lyr. Gr. ii.4 p. 254.</bibl>
+                  </cit>
+               </p>
+               <p>ἃ δ᾽ ἐστὶν εὐφημότατα τῶν μυθολογουμένων, πάντες ὡς ἔπος εἰπεῖν διὰ στόματος ἔχουσιν. ἴδιον δέ τινα περὶ τούτων λόγον ἐκδέδωκε <name type="person"
+                        key="0001766:*paia/n:person:masc:nom/voc 0001300:*pai/wn:person:masc:nom/voc 0001000:*paia/n:title:masc:nom/voc">Παίων</name> ὁ <name type="person" key="0001000:*)amaqou/sios:person:masc:nom">Ἀμαθούσιος</name>.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>τὸν γὰρ <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> φησὶν ὑπὸ χειμῶνος εἰς <name type="place" key="0022110:*ku/pros:place:fem:acc">Κύπρον</name> ἐξενεχθέντα καὶ τὴν <name type="person" key="0004259:*)aria/dnh:person:fem:acc">Ἀριάδνην</name> ἔγκυον ἔχοντα, φαύλως δὲ διακειμένην ὑπὸ τοῦ σάλου καὶ δυσφοροῦσαν, ἐκβιβάσαι μόνην, αὐτὸν δὲ τῷ πλοίῳ βοηθοῦντα πάλιν εἰς τὸ πέλαγος ἀπὸ τῆς γῆς φέρεσθαι. τὰς οὖν ἐγχωρίους γυναῖκας τὴν <name type="person" key="0004259:*)aria/dnh:person:fem:acc">Ἀριάδνην</name> ἀναλαβεῖν καὶ περιέπειν ἀθυμοῦσαν ἐπὶ τῇ μονώσει, καὶ γράμματα πλαστὰ προσφέρειν, ὡς τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> γράφοντος αὐτῇ, καὶ περὶ τὴν ὠδῖνα συμπονεῖν καὶ βοηθεῖν: ἀποθανοῦσαν δὲ θάψαι μὴ τεκοῦσαν.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>ἐπελθόντα δὲ τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> καὶ περίλυπον γενόμενον τοῖς μὲν ἐγχωρίοις ἀπολιπεῖν χρήματα, συντάξαντα θύειν τῇ <name type="person" key="0004259:*)aria/dnh:person:fem:dat">Ἀριάδνῃ</name>, δύο δὲ μικροὺς ἀνδριαντίσκους ἱδρύσασθαι, τὸν μὲν ἀργυροῦν, τὸν δὲ χαλκοῦν. ἐν δὲ τῇ θυσίᾳ τοῦ <name type="person" key="0001000:*gorpiai=os:person:masc:gen">Γορπιαίου</name> μηνὸς ἱσταμένου δευτέρᾳ κατακλινόμενόν τινα τῶν νεανίσκων φθέγγεσθαι καὶ ποιεῖν ἅπερ ὠδίνουσαι γυναῖκες: καλεῖν δὲ τὸ ἄλσος <name type="group" key="0001000:*)amaqou/sios-pl:group:masc:acc">Ἀμαθουσίους</name>, ἐν ᾧ τὸν τάφον δεικνύουσιν, <name type="person" key="0004259:*)aria/dnh:person:fem:gen">Ἀριάδνης</name>
+                  <name type="person" key="0011129:*)afrodi/th:person:fem:gen">Ἀφροδίτης</name>.
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>καὶ <name type="group"
+                        key="0001000:*na/cios:group:masc/neut:gen 0001000:*na/cios:group:fem:gen 0001000:*na/cios:ethnic:masc/neut:gen 0001000:*na/cios:ethnic:fem:gen">Ναξίων</name> δέ τινες ἰδίως ἱστοροῦσι δύο <name type="group" key="0002153:*mi/nws:group:masc:acc">Μίνωας</name> γενέσθαι καὶ δύο <name type="person" key="0004259:*)aria/dnh:person:fem:gen">Ἀριάδνας</name>, ὧν τὴν μὲν <name type="person"
+                        key="0025143:*dio/nusos:person:masc:dat 0001000:*dionu/sos:person:masc:dat">Διονύσῳ</name> γαμηθῆναί φασιν ἐν <name type="person" key="0000395:*na/cos:person:fem:dat">Νάξῳ</name> καὶ τοὺς περὶ <name type="person" key="0002724:*sta/fulos:person:masc:acc">Στάφυλον</name> τεκεῖν, τὴν δὲ νεωτέραν ἁρπασθεῖσαν ὑπὸ τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> καὶ ἀπολειφθεῖσαν εἰς <name type="person" key="0000395:*na/cos:person:fem:acc">Νάξον</name> ἐλθεῖν, καὶ τροφὸν μετ᾽ αὐτῆς ὄνομα <rs type="nomorph">Κορκύνην</rs>, ἧς δείκνυσθαι τάφον. ἀποθανεῖν δὲ καὶ τὴν <name type="person" key="0004259:*)aria/dnh:person:fem:acc">Ἀριάδνην</name> αὐτόθι καὶ τιμὰς ἔχειν οὐχ ὁμοίας τῇ προτέρᾳ. τῇ μὲν γὰρ ἡδομένους καὶ παίζοντας ἑορτάζειν, τὰς δὲ ταύτῃ δρωμένας θυσίας εἶναι πένθει τινὶ καὶ στυγνότητι μεμιγμένας.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="21" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ἐκ δὲ τῆς <name type="place" key="0021498:*krh/th:place:fem:gen 0000528:*krh/th:person:fem:gen">Κρήτης</name> ἀποπλέων εἰς <name type="place" key="0019587:*dh=los:place:fem:acc">Δῆλον</name> κατέσχε: καὶ τῷ θεῷ θύσας καὶ ἀναθεὶς τὸ ἀφροδίσιον ὃ παρὰ τῆς <name type="person" key="0004259:*)aria/dnh:person:fem:gen">Ἀριάδνης</name> ἔλαβεν, ἐχόρευσε μετὰ τῶν ἠϊθέων χορείαν ἣν ἔτι νῦν ἐπιτελεῖν <name type="ethnic"
+                        key="0019587:*dh/lios:ethnic:masc:acc 0019587:*dh/lios:ethnic:masc/fem:acc">Δηλίους</name> λέγουσι, μίμημα τῶν ἐν τῷ <name type="noclass" key="0000001:labu/rinqos:noclass:masc:dat">Λαβυρίνθῳ</name> περιόδων καὶ διεξόδων, ἔν τινι ῥυθμῷ παραλλάξεις καὶ ἀνελίξεις ἔχοντι γιγνομένην.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>καλεῖται δὲ τὸ γένος τοῦτο τῆς χορείας ὑπὸ <name type="ethnic"
+                        key="0019587:*dh/lios:ethnic:masc:gen 0019587:*dh/lios:ethnic:masc/neut:gen 0019587:*dh/lios:ethnic:masc/fem/neut:gen 0019587:*dh/lios:ethnic:fem:gen">Δηλίων</name> γέρανος, ὡς ἱστορεῖ <name type="person" key="0013707:*dikai/arxos:person:masc:nom">Δικαίαρχος</name>. ἐχόρευσε δὲ περὶ τὸν <name type="noclass" key="0000001:keratw/n:noclass:masc:acc">Κερατῶνα</name> βωμόν, ἐκ κεράτων συνηρμοσμένον εὐωνύμων ἁπάντων. ποιῆσαι δὲ καὶ ἀγῶνά φασιν αὐτὸν ἐν <name type="place" key="0019587:*dh=los:place:fem:dat">Δήλῳ</name>, καὶ τοῖς νικῶσι τότε πρῶτον ὑπ᾽ ἐκείνου φοίνικα δοθῆναι.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="22" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>τῇ δὲ <name type="ethnic"
+                        key="0174833:*)attiko/s:ethnic:fem:dat 0174833:*)attikh/:place:fem:dat">Ἀττικῇ</name> προσφερομένων ἐκλαθέσθαι μὲν αὐτόν, ἐκλαθέσθαι δὲ τὸν κυβερνήτην ὑπὸ χαρᾶς ἐπάρασθαι τὸ ἱστίον ᾧ τὴν σωτηρίαν αὐτῶν ἔδει γνώριμον τῷ <name type="person"
+                        key="0003164:*ai)geu/s:person:masc:dat 0000001:*ai)gi/s:noclass:fem:nom/voc/acc 0000001:*ai)gi/s:noclass:fem:dat">Αἰγεῖ</name> γενέσθαι: τὸν δὲ ἀπογνόντα ῥῖψαι κατὰ τῆς πέτρας ἑαυτὸν καὶ διαφθαρῆναι. καταπλεύσας δὲ ὁ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name> ἔθυε μὲν αὐτὸς ἃς ἐκπλέων θυσίας εὔξατο τοῖς θεοῖς <name type="person"
+                        key="0001000:*falhroi=:person:nn:nom/voc/acc 0001000:*falhroi=:person:nn:nom">Φαληροῖ</name>, κήρυκα δὲ ἀπέστειλε τῆς σωτηρίας ἄγγελον εἰς ἄστυ.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>οὗτος ἐνέτυχεν ὀδυρομένοις τε πολλοῖς τὴν τοῦ βασιλέως τελευτὴν καὶ χαίρουσιν, ὡς εἰκός, ἑτέροις καὶ φιλοφρονεῖσθαι καὶ στεφανοῦν αὐτὸν ἐπὶ τῇ σωτηρίᾳ προθύμοις οὖσι. τοὺς μὲν οὖν στεφάνους δεχόμενος τὸ κηρύκειον ἀνέστεφεν, ἐπανελθὼν δὲ ἐπὶ θάλασσαν οὔπω πεποιημένου σπονδὰς τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> ἔξω περιέμεινε, μὴ βουλόμενος τὴν θυσίαν ταράξαι.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>γενομένων δὲ τῶν σπονδῶν ἀπήγγειλε τὴν τοῦ <name type="person"
+                        key="0003164:*ai)geu/s:person:masc:nom 0003164:*ai)geu/s:person:masc:gen 0000001:*ai)gi/s:noclass:fem:gen">Αἰγέως</name> τελευτήν. οἱ δὲ σὺν κλαυθμῷ καὶ θορύβῳ σπεύδοντες ἀνέβαινον εἰς τὴν πόλιν. ὅθεν καὶ νῦν ἐν τοῖς ὠσχοφορίοις στεφανοῦσθαι μὲν οὐ τὸν κήρυκα λέγουσιν, ἀλλὰ τὸ κηρύκειον, ἐπιφωνεῖν δὲ ἐν ταῖς σπονδαῖς, <name type="noclass" key="0000001:e)leleu=:noclass:nn:nom/voc">Ἐλελεῦ</name>, <name type="noclass" key="0000001:i)ou/:noclass:nn:nom">Ἰού</name>, <name type="noclass" key="0000001:i)ou/:noclass:nn:nom">Ἰού</name>, τοὺς παρόντας: ὧν τὸ μὲν σπεύδοντες ἀναφωνεῖν καὶ παιωνίζοντες εἰώθασι, τὸ δὲ ἐκπλήξεως καὶ ταραχῆς ἐστι.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>θάψας δὲ τὸν πατέρα, τῷ <name type="person" key="0022077:*)apo/llwn:person:masc:dat">Ἀπόλλωνι</name> τὴν εὐχὴν ἀπεδίδου τῇ ἑβδόμῃ τοῦ <name type="person" key="0001000:*puaneyiw/n:person:masc:gen">Πυανεψιῶνος</name> μηνὸς ἱσταμένου: ταύτῃ γὰρ ἀνέβησαν εἰς ἄστυ σωθέντες. ἡ μὲν οὖν ἕψησις τῶν ὀσπρίων λέγεται γίνεσθαι διὰ τὸ σωθέντας αὐτοὺς εἰς ταὐτὸ συμμῖξαι τὰ περιόντα τῶν σιτίων καὶ μίαν χύτραν κοινὴν ἑψήσαντας συνεστιαθῆναι καὶ συγκαταφαγεῖν ἀλλήλοις.
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>τὴν δὲ εἰρεσιώνην ἐκφέρουσι κλάδον ἐλαίας ἐρίῳ μὲν ἀνεστεμμένον, ὥσπερ τότε τὴν ἱκετηρίαν, παντοδαπῶν δὲ ἀνάπλεων καταργμάτων διὰ τὸ λῆξαι τὴν ἀφορίαν, ἐπᾴδοντες:
+<quote rend="blockquote">
+                     <l ana="#met-dact" part="N"/>
+                     <l part="N">εἰρεσιώνη σῦκα φέρει καὶ πίονας ἄρτους</l>
+                     <l part="N">καὶ μέλι ἐν κοτύλῃ καὶ ἔλαιον ἀποψήσασθαι</l>
+                     <l part="N">καὶ κύλικ᾽ εὔζωρον, ὡς ἂν μεθύουσα καθεύδῃ.</l>
+                  </quote>
+καίτοι ταῦτά τινες ἐπὶ τοῖς <name type="group"
+                        key="0006737:*(hraklei/dhs:group:masc:dat 0001000:*(hraklei/dhs:group:masc:dat 0001000:*(hraklei/dai:group:masc:dat 0001000:*(hraklei/dai:ethnic:masc:dat">Ἡρακλείδαις</name> γίνεσθαι λέγουσιν, οὕτως διατρεφομένοις ὑπὸ τῶν <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc/neut:gen 0360214:*)aqhnai=os:ethnic:fem:gen 0017075:*)aqh/naios:group:masc:gen 0000001:*)aqh/naion:noclass:neut:gen 0000001:*)aqh/naia:noclass:neut:gen">Ἀθηναίων</name>: οἱ δὲ πλείονες ὡς προείρηται.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="23" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>τὸ δὲ πλοῖον ἐν ᾧ μετὰ τῶν ἠϊθέων ἔπλευσε καὶ πάλιν ἐσώθη, τὴν τριακόντορον, ἄχρι τῶν <name type="person"
+                        key="0053847:*dhmh/trios:person:masc:gen 0053847:*dhmh/trios:person:masc/fem/neut:gen 0001482:*dhm/htrios:person:masc:gen 0001000:*dhmh/trios:festival:masc:gen 0001000:*dhmh/trios:festival:masc/fem/neut:gen">Δημητρίου</name> τοῦ <name type="person"
+                        key="0001000:*falhreu/s:person:masc:nom 0001000:*falhreu/s:person:masc:gen">Φαληρέως</name> χρόνων διεφύλαττον οἱ <name type="ethnic" key="0360214:*)aqhnai=os:ethnic:masc:nom/voc">Ἀθηναῖοι</name>, τὰ μὲν παλαιὰ τῶν ξύλων ὑφαιροῦντες, ἄλλα δὲ ἐμβάλλοντες ἰσχυρὰ καὶ συμπηγνύντες οὕτως ὥστε καὶ τοῖς: φιλοσόφοις εἰς τὸν αὐξόμενον λόγον ἀμφιδοξούμενον παράδειγμα τὸ πλοῖον εἶναι, τῶν μὲν ὡς τὸ αὐτό, τῶν δὲ ὡς οὐ τὸ αὐτὸ διαμένοι λεγόντων.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ἄγουσι δὲ καὶ τὴν τῶν ὠσχοφορίων ἑορτὴν <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> καταστήσαντος. οὐ γὰρ ἁπάσας αὐτὸν ἐξαγαγεῖν τὰς λαχούσας τότε παρθένους, ἀλλὰ τῶν συνήθων νεανίσκων δύο θηλυφανεῖς μὲν ὀφθῆναι καὶ νεαρούς, ἀνδρώδεις δὲ τὰς ψυχὰς καὶ προθύμους, λουτροῖς τε θερμοῖς καὶ σκιατραφίαις καὶ ταῖς περὶ κόμην καὶ λειότητα καὶ χροιὰν ἀλοιφαῖς καὶ κοσμήσεσιν ὡς ἔστιν ἐξαλλάξαντα κομιδῇ, καὶ διδάξαντα φωνὴν καὶ σχῆμὰ καὶ βάδισιν ὡς ἔνι μάλιστα παρθένοις ὁμοιοῦσθαι καὶ μηδὲν φαίνεσθαι διαφέροντας, ἐμβαλεῖν εἰς τὸν τῶν παρθένων ἀριθμὸν καὶ διαλαθεῖν ἅπαντας: ἐπεὶ δὲ ἐπανῆλθεν,
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>αὐτόν τε πομπεῦσαι καὶ τοὺς νεανίσκους οὕτως ἀμπεχομένους ὡς νῦν ἀμπέχονται τοὺς ὀσχοὺς φέροντες. φέρουσι δὲ <name type="person"
+                        key="0025143:*dio/nusos:person:masc:dat 0001000:*dionu/sos:person:masc:dat">Διονύσῳ</name> καὶ <name type="person" key="0004259:*)aria/dnh:person:fem:dat">Ἀριάδνῃ</name> χαριζόμενοι διὰ τὸν μῦθον, ἢ μᾶλλον ὅτι συγκομιζομένης ὀπώρας ἐπανῆλθον: αἱ δὲ δειπνοφόροι παραλαμβάνονται καὶ κοινωνοῦσι τῆς θυσίας ἀπομιμούμεναι τὰς μητέρας ἐκείνων τῶν λαχόντων: ἐπεφοίτων γὰρ αὐτοῖς ὄψα καὶ σιτία κομίζουσαι: καὶ μῦθοι λέγονται διὰ τὸ κἀκείνας εὐθυμίας ἕνεκα καὶ παρηγορίας μύθους διεξιέναι τοῖς παισί. ταῦτα μὲν οὖν καὶ <name type="person" key="0002354:*dh/mwn:person:masc:nom/voc">Δήμων</name> ἱστόρηκεν. ἐξῃρέθη δὲ καί τέμενος αὐτῷ, καὶ τοὺς ἀπὸ τῶν παρασχόντων τὸν δασμὸν οἴκων ἔταξεν εἰς θυσίαν αὑτῷ τελεῖν ἀποφοράς: καὶ τῆς θυσίας ἐπεμελοῦντο <rs type="nomorph">Φυταλίδαι</rs>, <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> ἀποδόντος αὐτοῖς ἀμοιβὴν τῆς φιλοξενίας.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="24" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>μετὰ δὲ τὴν <name type="person"
+                        key="0003164:*ai)geu/s:person:masc:nom 0003164:*ai)geu/s:person:masc:gen 0000001:*ai)gi/s:noclass:fem:gen">Αἰγέως</name> τελευτὴν μέγα καὶ θαυμαστὸν ἔργον εἰς νοῦν βαλόμενος συνῴκισε τοὺς τὴν <name type="ethnic"
+                        key="0174833:*)attiko/s:ethnic:fem:acc 0174833:*)attikh/:place:fem:acc">Ἀττικὴν</name> κατοικοῦντας εἰς ἓν ἄστυ, καὶ μιᾶς πόλεως ἕνα δῆμον ἀπέφηνε, τέως σποράδας ὄντας καὶ δυσανακλήτους πρὸς τὸ κοινὸν πάντων συμφέρον, ἔστι δ᾽ ὅτε καὶ διαφερομένους ἀλλήλοις καὶ πολεμοῦντας.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ἐπιὼν οὖν ἀνέπειθε κατὰ δήμους καὶ γένη, τῶν μὲν ἰδιωτῶν καὶ πενήτων ἐνδεχομένων ταχὺ τὴν παράκλησιν αὐτοῦ, τοῖς δὲ δυνατοῖς ἀβασίλευτον πολιτείαν προτείνων καὶ δημοκρατίαν αὐτῷ μόνον ἄρχοντι πολέμου καὶ νόμων φύλακι χρησομένην, τῶν δὲ ἄλλων παρέξουσαν ἅπασιν ἰσομοιρίαν.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>τοὺς μὲν <note resp="ed" place="unspecified" anchored="true">
+                     <foreign xml:lang="greek">ἰσομοιρίαν. τοὺς μὲν</foreign> with Coraë s and Bekker: <foreign xml:lang="greek">ἰσομοιρίαν, τοὺς μέν</foreign> .</note> ταῦτα ἔπειθεν, οἱ δὲ τὴν δύναμιν αὐτοῦ δεδιότες μεγάλην οὖσαν ἤδη καὶ τὴν τόλμαν, ἐβούλοντο πειθόμενοι μᾶλλον ἢ βιαζόμενοι ταῦτα συγχωρεῖν. καταλύσας οὖν τὰ παρ᾽ ἑκάστοις πρυτανεῖα καὶ βουλευτήρια καὶ ἀρχάς, ἓν δὲ ποιήσας ἅπασι κοινὸν ἐνταῦθα πρυτανεῖον καὶ βουλευτήριον ὅπου νῦν ἵδρυται τὸ ἄστυ, τήν τε πόλιν <name type="place"
+                        key="0361602:*)aqh=nai:place:fem:acc 0000001:*)aqh/neus:noclass:masc:acc">Ἀθήνας</name> προσηγόρευσε καὶ <name type="festival" key="0001000:*panaqh/naia:festival:neut:nom/voc/acc">Παναθήναια</name> θυσίαν ἐποίησε κοινήν.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>ἔθυσε δὲ καὶ <name type="noclass" key="0000001:metoi/kion:noclass:neut:nom/voc/acc">Μετοίκια</name> τῇ ἕκτῃ ἐπὶ δέκα τοῦ <name type="month" key="0002000:*(ekatombaiw/n:month:masc:gen">Ἑκατομβαιῶνος</name>, ἣν ἔτι νῦν θύουσι. καὶ τὴν βασιλείαν ἀφείς, ὥσπερ ὡμολόγησε, διεκόσμει τὴν πολιτείαν ἀπὸ θεῶν ἀρχόμενος: ἧκε γὰρ αὐτῷ χρησμὸς ἐκ <name type="place" key="0064579:*delfoi/:place:masc:gen">Δελφῶν</name> μαντευομένῳ περὶ τῆς πόλεως:
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>
+                  <quote rend="blockquote" type="oracle">
+                     <l ana="#met-dact" part="N">
+                        <name type="person" key="0001000:*ai)gei/+dhs:person:masc:voc">Αἰγείδη</name>
+                        <name type="person" key="0011892:*qhseu/s:person:masc:voc">Θησεῦ</name>, <rs type="nomorph">Πιτθηΐδος</rs> ἔκγονε κούρης,</l>
+                     <l part="N">πολλαῖς τοι πολίεσσι πατὴρ ἐμὸς ἐγκατέθηκε</l>
+                     <l part="N">τέρματα καὶ κλωστῆρας ἐν ὑμετέρῳ πτολιέθρῳ.</l>
+                     <l part="N">ἀλλὰ σὺ μή τι λίην πεπονημένος ἔνδοθι θυμὸν</l>
+                     <l part="N">βουλεύειν: ἀσκὸς γὰρ ἐν οἴδματι ποντοπορεύσει.</l>
+                  </quote>
+τοῦτο δὲ καὶ <name type="person"
+                        key="0002591:*si/bulla:person:fem:acc 0001000:*si/bulla:group:fem:acc">Σίβυλλαν</name> ὕστερον ἀποστοματίσαι πρὸς τὴν πόλιν ἱστοροῦσιν, ἀναφθεγξαμένην:
+<quote rend="blockquote" type="oracle">
+                     <l ana="#met-dact" part="N">ἀσκὸς βαπτίζῃ: δῦναι δέ τοι οὐ θέμις ἐστίν.</l>
+                  </quote>
+               </p>
+            </div>
+         </div>
+         <div type="chapter" n="25" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ἔτι δὲ μᾶλλον αὐξῆσαι τὴν πόλιν βουλόμενος ἐκάλει πάντας ἐπὶ τοῖς ἴσοις, καὶ τὸ <q>δεῦρ᾽ ἴτε πάντες λεῴ</q> κήρυγμα <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> γενέσθαι φασὶ πανδημίαν τινὰ καθιστάντος. οὐ μὴν ἄτακτον οὐδὲ μεμιγμένην περιεῖδεν ὑπὸ πλήθους ἐπιχυθέντος ἀκρίτου γενομένην τὴν δημοκρατίαν, ἀλλὰ πρῶτος ἀποκρίνας χωρὶς εὐπατρίδας καὶ γεωμόρους καὶ δημιουργούς,
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>εὐπατρίδαις δὲ γινώσκειν τὰ θεῖα καὶ παρέχειν ἄρχοντας ἀποδοὺς καὶ νόμων διδασκάλους εἶναι καὶ ὁσίων καὶ ἱερῶν ἐξηγητάς, τοῖς ἄλλοις πολίταις ὥσπερ εἰς ἴσον κατέστησε, δόξῃ μὲν εὐπατριδῶν, χρείᾳ δὲ γεωμόρων, πλήθει δὲ δημιουργῶν ὑπερέχειν δοκούντων. ὅτι δὲ πρῶτος ἀπέκλινε πρὸς τὸν ὄχλον, ὡς <name type="person"
+                        key="0223520:*)aristote/lhs:person:masc:nom 0223520:*)aristote/lhs:group:masc:nom/voc 0223520:*)aristote/lhs:group:masc:acc">Ἀριστοτέλης</name> φησί, καὶ ἀφῆκε τὸ μοναρχεῖν, ἔοικε μαρτυρεῖν καὶ <name type="person" key="0095973:*(/omhros:person:masc:nom">Ὅμηρος</name> ἐν νεῶν καταλόγῳ μόνους <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc:acc 0017075:*)aqh/naios:group:masc:acc">Ἀθηναίους</name> δῆμον προσαγορεύσας.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>ἔκοψε δὲ καὶ νόμισμα, βοῦν ἐγχαράξας, ἢ διὰ τὸν <name type="ethnic"
+                        key="0011836:*maraqw/nios:ethnic:neut:nom/voc/acc 0011836:*maraqw/nios:ethnic:masc:acc">Μαραθώνιον</name> ταῦρον, ἢ διὰ τὸν <name type="person" key="0002153:*mi/nws:person:masc:acc">Μίνω</name> στρατηγόν, ἢ πρὸς γεωργίαν τοὺς πολίτας παρακαλῶν. ἀπ᾽ ἐκείνου δέ φασι τὸ ἑκατόμβοιον καὶ τὸ δεκάβοιον ὀνομασθῆναι. προσκτησάμενος δὲ τῇ <name type="ethnic"
+                        key="0174833:*)attiko/s:ethnic:fem:dat 0174833:*)attikh/:place:fem:dat">Ἀττικῇ</name> τὴν <name type="ethnic" key="0042237:*megariko/s:ethnic:fem:acc">Μεγαρικὴν</name> βεβαίως, τὴν θρυλουμένην ἐν <name type="place" key="0001221:*)isqmo/s:place:masc:dat">Ἰσθμῷ</name> στήλην ἔστησεν, ἐπιγράψας τὸ διορίζον ἐπίγραμμα τὴν χώραν δυσὶ τριμέτροις, ὧν ἔφραζε τὸ <note resp="ed" place="unspecified" anchored="true">
+                     <foreign xml:lang="greek">τὸ μὲν, τὸ δὲ</foreign> with Coraë s, after Reiske: <foreign xml:lang="greek">τὰ μὲν, τὰ δέ</foreign> .</note> μὲν πρὸς ἕω
+<quote rend="blockquote" type="inscription">
+                     <l ana="#met-iamb" part="N">τάδ᾽ οὐχὶ <name type="place" key="0000238:*pelopo/nnhsos:place:fem:nom">Πελοπόννησος</name>, ἀλλ᾽ <name type="place"
+                              key="0008004:*)iwni/a:place:fem:nom/voc/acc 0008004:*)iwni/a:place:fem:nom/voc 0000001:*)iw/nios:noclass:fem:nom/voc/acc 0000001:*)iw/nios:noclass:fem:nom/voc">Ἰωνία</name>:</l>
+                  </quote>
+τὸ <note resp="ed" place="unspecified" anchored="true">
+                     <foreign xml:lang="greek">τὸ μὲν, τὸ δὲ</foreign> with Coraë s, after Reiske: <foreign xml:lang="greek">τὰ μὲν, τὰ δέ</foreign> .</note> δὲ πρὸς ἑσπέραν
+<quote rend="blockquote" type="inscription">
+                     <l ana="#met-iamb" part="N">τάδ᾽ ἐστὶ <name type="place" key="0000238:*pelopo/nnhsos:place:fem:nom">Πελοπόννησος</name>, οὐκ <name type="place"
+                              key="0008004:*)iwni/a:place:fem:nom/voc/acc 0008004:*)iwni/a:place:fem:nom/voc 0000001:*)iw/nios:noclass:fem:nom/voc/acc 0000001:*)iw/nios:noclass:fem:nom/voc">Ἰωνία</name>.</l>
+                  </quote>
+               </p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>καὶ τὸν ἀγῶνα πρῶτος ἔθηκε κατὰ ζῆλον <name type="person"
+                        key="0067594:*(hraklh=s:person:masc:gen 0000001:*(hrakle/os:noclass:masc:acc">Ἡρακλέους</name>, ὡς δι᾽ ἐκεῖνον <name type="ethnic"
+                        key="0023618:*)olu/mpios:ethnic:neut:nom/voc/acc 0001497:*)olu/mpios:group:neut:nom/voc/acc 0001000:*)olumpiei=on:place:neut:nom/voc/acc 0000001:*)olu/mpia:noclass:neut:nom/voc/acc">Ὀλύμπια</name> τῷ <name type="person" key="0009978:*zeu/s:person:masc:dat">Δΐ</name>, καὶ δι᾽ αὐτὸν <name type="place"
+                        key="0001000:*)isqmia/s:place:fem:voc 0001000:*)isqmia/s:person:fem:voc 0001000:*)/isqmia:festival:neut:nom/voc/acc 0000427:*)/isqmios:group:neut:nom/voc/acc">Ἴσθμια</name> τῷ <name type="person" key="0016054:*poseidw=n:person:masc:dat">Ποσειδῶνι</name> φιλοτιμηθεὶς ἄγειν τοὺς <name type="ethnic"
+                        key="0002000:*(/ellhn:ethnic:masc/fem:acc 0001276:*(/ellhn:group:masc/fem:acc">Ἕλληνας</name>. ὁ γὰρ ἐπὶ <name type="person" key="0000494:*melike/rths:person:masc:dat">Μελικέρτῃ</name> τεθεὶς αὐτόθι νυκτὸς ἐδρᾶτο, τελετῆς ἔχων μᾶλλον ἢ θέας καὶ πανηγυρισμοῦ τάξιν. ἔνιοι δέ φασιν ἐπὶ <name type="person" key="0001000:*skei/rwn:person:masc:dat">Σκείρωνι</name> τὰ <name type="place"
+                        key="0001000:*)isqmia/s:place:fem:voc 0001000:*)isqmia/s:person:fem:voc 0001000:*)/isqmia:festival:neut:nom/voc/acc 0000427:*)/isqmios:group:neut:nom/voc/acc">Ἴσθμια</name> τεθῆναι, τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> ἀφοσιουμένου τὸν φόνον διὰ τὴν συγγένειαν: <name type="person" key="0001000:*skei/rwn:person:masc:acc">Σκείρωνα</name> γὰρ υἱὸν εἶναι <name type="person" key="0000567:*ka/nhqos:person:masc:gen">Κανήθου</name> καὶ <name type="person" key="0000544:*(hnio/xh:person:fem:gen">Ἡνιόχης</name> τῆς <name type="person"
+                        key="0002083:*pitqeu/s:person:masc:nom 0002083:*pitqeu/s:person:masc:gen">Πιτθέως</name>. οἱ δὲ <name type="person"
+                        key="0001000:*si/nis:person:fem:acc 0000510:*si/nis:place:fem:acc">Σίνιν</name>,
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>οὐ <name type="person" key="0001000:*skei/rwn:person:masc:acc">Σκείρωνα</name>, καὶ τὸν ἀγῶνα τεθῆναι διὰ τοῦτον ὑπὸ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name>, οὐ δι᾽ ἐκεῖνον. ἔταξεν οὖν καὶ διωρίσατο πρὸς τοὺς <name type="ethnic"
+                        key="0091363:*kori/nqios:ethnic:masc:acc 0004596:*kori/nqios:place:masc:acc">Κορινθίους</name>
+                  <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc/neut:gen 0360214:*)aqhnai=os:ethnic:fem:gen 0017075:*)aqh/naios:group:masc:gen 0000001:*)aqh/naion:noclass:neut:gen 0000001:*)aqh/naia:noclass:neut:gen">Ἀθηναίων</name> τοῖς ἀφικνουμένοις ἐπὶ τὰ <name type="place"
+                        key="0001000:*)isqmia/s:place:fem:voc 0001000:*)isqmia/s:person:fem:voc 0001000:*)/isqmia:festival:neut:nom/voc/acc 0000427:*)/isqmios:group:neut:nom/voc/acc">Ἴσθμια</name> παρέχειν προεδρίαν ὅσον ἂν τόπον ἐπίσχῃ καταπετασθὲν τὸ τῆς θεωρίδος νεὼς ἱστίον, ὡς <name type="person" key="0014863:*(ella/nikos:person:masc:nom">Ἑλλάνικος</name> καὶ <name type="place"
+                        key="0003007:*)/andros:place:fem:gen 0002113:*)/andrwn:person:masc:nom/voc">Ἄνδρων</name> ὁ <name type="person" key="0001000:*(alikarnaseu/s:person:masc:nom">Ἁλικαρνασεὺς</name> ἱστορήκασιν.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="26" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>εἰς δὲ τὸν πόντον ἔπλευσε τὸν <name type="place" key="0016285:*eu)/ceinos:place:masc:acc">Εὔξεινον</name>, ὡς μὲν <name type="person" key="0014326:*filo/xoros:person:masc:nom">Φιλόχορος</name> καί τινες ἄλλοι λέγουσι, μεθ᾽ <name type="person"
+                        key="0067594:*(hraklh=s:person:masc:gen 0000001:*(hrakle/os:noclass:masc:acc">Ἡρακλέους</name> ἐπὶ τὰς <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:acc">Ἀμαζόνας</name> συστρατεύσας, καὶ γέρας <note resp="ed" place="unspecified" anchored="true">
+                     <foreign xml:lang="greek">γέρας</foreign> with Cobet; <foreign xml:lang="greek">γέρας ἀριστεῖον</foreign> MSS., Coraë s, Bekker: <foreign xml:lang="greek">γέρας ἀριστειῶν</foreign> .</note>
+                  <name type="person" key="0001833:*)antio/ph:person:fem:acc">Ἀντιόπην</name> ἔλαβεν: οἱ δὲ πλείους, ὧν ἐστὶ καὶ <name type="person"
+                        key="0000436:*fereku/dhs:person:masc:nom 0000436:*fereku/dhs:group:masc:nom/voc 0000436:*fereku/dhs:group:masc:acc">Φερεκύδης</name> καὶ <name type="person" key="0014863:*(ella/nikos:person:masc:nom">Ἑλλάνικος</name> καὶ <name type="person" key="0002464:*(hro/dwros:person:masc:nom">Ἡρόδωρος</name>, ὕστερόν φασιν <name type="person"
+                        key="0067594:*(hraklh=s:person:masc:gen 0000001:*(hrakle/os:noclass:masc:acc">Ἡρακλέους</name> ἰδιόστολον πλεῦσαι τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> καὶ τὴν <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:acc">Ἀμαζόνα</name> λαβεῖν αἰχμάλωτον, πιθανώτερα λέγοντες. οὐδεὶς γὰρ ἄλλος ἱστόρηται τῶν μετ᾽ αὐτοῦ στρατευσάντων <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:acc">Ἀμαζόνα</name> λαβεῖν αἰχμάλωτον.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>βίων δὲ καὶ ταύτην παρακρουσάμενον οἴχεσθαι λαβόντα: φύσει γὰρ οὔσας τὰς <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:acc">Ἀμαζόνας</name> φιλάνδρους οὔτε φυγεῖν τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> προσβάλλοντα τῇ χώρᾳ, ἀλλὰ καὶ ξένια πέμπειν: τὸν δὲ τὴν κομίζουσαν ἐμβῆναι παρακαλεῖν εἰς τὸ πλοῖον: ἐμβάσης δὲ ἀναχθῆναι.
+</p>
+               <p>
+                  <name type="person" key="0004325:*menekra/ths:person:masc:nom">Μενεκράτης</name> δέ τις, ἱστορίαν περὶ <name type="place"
+                        key="0007156:*nikai/a:place:fem:gen 0007156:*nikai/a:place:fem:acc 0001799:*nikai/a:person:fem:gen 0001799:*nikai/a:group:fem:acc">Νικαίας</name> τῆς ἐν <name type="place"
+                        key="0021196:*biquni/a:place:fem:dat 0000001:*biquni/h:noclass:fem:dat">Βιθυνίᾳ</name> πόλεως ἐκδεδωκώς, <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> φησὶ τὴν <name type="person" key="0001833:*)antio/ph:person:fem:acc">Ἀντιόπην</name> ἔχοντα διατρῖψαι περὶ τούτους τοὺς
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>τόπους: τυγχάνειν δὲ συστρατεύοντας αὐτῷ τρεῖς νεανίσκους ἐξ <name type="place" key="0361602:*)aqh=nai:place:fem:gen">Ἀθηνῶν</name> ἀδελφοὺς ἀλλήλων, <name type="noclass"
+                        key="0000001:eu)/news:noclass:neut:nom/voc/acc 0000001:eu)/news:noclass:masc/fem:acc 0000001:eu)/news:noclass:masc/fem/neut:gen">Εὔνεων</name> καὶ <name type="person" key="0004165:*qo/as:person:masc:acc">Θόαντα</name> καὶ <name type="place" key="0003964:*solo/eis:place:fem:acc">Σολόεντα</name>. τοῦτον οὖν ἐρῶντα τῆς <name type="person" key="0001833:*)antio/ph:person:fem:gen">Ἀντιόπης</name> καὶ λανθάνοντα τοὺς ἄλλους ἐξειπεῖν πρὸς ἕνα τῶν συνήθων: ἐκείνου δὲ περὶ τούτων ἐντυχόντος τῇ <name type="person" key="0001833:*)antio/ph:person:fem:dat">Ἀντιόπῃ</name>, τὴν μὲν πεῖραν ἰσχυρῶς ἀποτρίψασθαι, τὸ δὲ πρᾶγμα σωφρόνως ἅμα καὶ πρᾴως ἐνεγκεῖν καὶ πρὸς τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> μὴ κατηγορῆσαι.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>τοῦ δὲ <name type="place" key="0003964:*solo/eis:place:fem:gen">Σολόεντος</name> ὡς ἀπέγνω ῥίψαντος ἑαυτὸν εἰς ποταμόν τινα καὶ διαφθαρέντος, ᾐσθημένον τότε τὴν αἰτίαν καὶ τὸ πάθος τοῦ νεανίσκου τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> βαρέως ἐνεγκεῖν, καὶ δυσφοροῦντα λόγιόν τι πυθόχρηστον ἀνενεγκεῖν πρὸς ἑαυτόν: εἶναι γὰρ αὐτῷ προστεταγμένον ἐν <name type="place" key="0064579:*delfoi/:place:masc:dat">Δελφοῖς</name> ὑπὸ τῆς <name type="person"
+                        key="0000558:*pu/qios:person:fem:gen 0000558:*pu/qios:group:fem:acc 0000001:*puqi/a:noclass:fem:gen 0000001:*puqi/a:noclass:fem:acc">Πυθίας</name>, ὅταν ἐπὶ ξένης ἀνιαθῇ μάλιστα καὶ περίλυπος γένηται, πόλιν ἐκεῖ κτίσαι καὶ τῶν ἀμφ᾽ αὐτόν τινας ἡγεμόνας καταλιπεῖν. ἐκ δὲ τούτου τὴν μὲν πόλιν,
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>ἣν ἔκτισεν, ἀπὸ τοῦ θεοῦ <rs type="nomorph">Πυθόπολιν</rs> προσαγορεῦσαι, <name type="place" key="0003964:*solo/eis:place:fem:acc">Σολόεντα</name> δὲ τὸν πλησίον ποταμὸν ἐπὶ τιμῇ τοῦ νεανίσκου. καταλιπεῖν δὲ καὶ τοὺς ἀδελφοὺς αὐτοῦ, οἷν ἐπιστάτας καὶ νομοθέτας, καὶ σὺν αὐτοῖς <name type="place" key="0001000:*(/ermos:place:masc:acc">Ἕρμον</name> ἄνδρα τῶν <name type="place"
+                        key="0361602:*)aqh=nai:place:nn:dat 0000001:*)aqh/neus:noclass:masc:dat">Ἀθήνησιν</name> εὐπατριδῶν: ἀφ᾽ οὗ καὶ τόπον <name type="person" key="0019206:*(ermh=s:person:masc:gen">Ἑρμοῦ</name> καλεῖν οἰκίαν τοὺς <name type="person" key="0001000:*puqopoli/ths:person:masc:nom">Πυθοπολίτας</name>, οὐκ ὀρθῶς τὴν δευτέραν συλλαβὴν περισπῶντας καὶ τὴν δόξαν ἐπὶ θεὸν ἀπὸ ἥρωος μετατιθέντας.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="27" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>πρόφασιν μὲν οὖν ταύτην ὁ τῶν <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:gen">Ἀμαζόνων</name> πόλεμος ἔσχε: φαίνεται δὲ μὴ φαῦλον αὐτοῦ μηδὲ γυναικεῖον γενέσθαι τὸ ἔργον. οὐ γὰρ ἂν ἐν ἄστει κατεστρατοπέδευσαν οὐδὲ τὴν μάχην συνῆψαν ἐν χρῷ περὶ τὴν <rs type="nomorph">Πνύκα</rs> καὶ τὸ <name type="person" key="0001000:*mousei=on:person:neut:nom/voc/acc">Μουσεῖον</name>, εἰ μὴ κρατοῦσαι τῆς χώρας ἀδεῶς τῇ πόλει προσέμιξαν.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>εἰ μὲν οὖν, ὡς <name type="person" key="0014863:*(ella/nikos:person:masc:nom">Ἑλλάνικος</name> ἱστόρηκε, τῷ <name type="ethnic" key="0013816:*kimmeriko/s:ethnic:masc/neut:dat">Κιμμερικῷ</name>
+                  <name type="place" key="0001000:*bo/sporos:place:masc:dat">Βοσπόρῳ</name> παγέντι διαβᾶσαι περιῆλθον, ἔργον ἐστὶ πιστεῦσαι: τὸ δὲ ἐν τῇ πόλει σχεδὸν αὐτὰς ἐνστρατοπεδεῦσαι μαρτυρεῖται καὶ τοῖς ὀνόμασι τῶν τόπων καὶ ταῖς θήκαις τῶν πεσόντων.
+</p>
+               <p>πολὺν δὲ χρόνον ὄκνος ἦν καὶ μέλλησις ἀμφοτέροις τῆς ἐπιχειρήσεως: τέλος δὲ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name> κατά τι λόγιον τῷ <name type="person" key="0001000:*fo/bos:person:masc:dat">Φόβῳ</name> σφαγιασάμενος συνῆψεν αὐταῖς.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>ἡ μὲν οὖν μάχη <name type="month" key="0002000:*bohdromiw/n:month:masc:gen">Βοηδρομιῶνος</name> ἐγένετο μηνὸς ἐφ᾽ ᾗ τὰ <name type="group" key="0001000:*bohdro/mia-pl:group:neut:nom/voc/acc">Βοηδρόμια</name> μέχρι νῦν <name type="ethnic" key="0360214:*)aqhnai=os:ethnic:masc:nom/voc">Ἀθηναῖοι</name> θύουσιν. ἱστορεῖ δὲ <name type="person" key="0003591:*klei/dhmos:person:masc:nom">Κλείδημος</name>, ἐξακριβοῦν τὰ καθ᾽ ἕκαστα βουλόμενος, τὸ μὲν εὐώνυμον τῶν <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:gen">Ἀμαζόνων</name> κέρας ἐπιστρέφειν πρὸς τὸ νῦν καλούμενον <rs type="nomorph">Ἀμαζόνειον</rs>, τῷ δὲ δεξιῷ πρὸς τὴν <rs type="nomorph">Πνύκα</rs> κατὰ τὴν <name type="place"
+                        key="0002002:*xru/sh:place:fem:acc 0001054:*xru/shs:person:masc:acc 0001000:*xru/sh:person:fem:acc">Χρύσαν</name> ἥκειν. μάχεσθαι δὲ πρὸς τοῦτο τοὺς <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc:acc 0017075:*)aqh/naios:group:masc:acc">Ἀθηναίους</name> ἀπὸ τοῦ <name type="person"
+                        key="0001000:*mousei=on:person:neut:gen 0001000:*mou/seios:person:masc/fem/neut:gen">Μουσείου</name> ταῖς <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:dat">Ἀμαζόσι</name> συμπεσόντας, καὶ τάφους τῶν πεσόντων περὶ τὴν πλατεῖαν εἶναι τὴν φέρουσαν ἐπὶ τὰς πύλας παρὰ τὸ <name type="person" key="0000427:*xalkw/dwn:person:masc:gen">Χαλκώδοντος</name> ἡρῷον, ἃς νῦν <name type="place"
+                        key="0000209:*peiraieu/s:place:fem:acc 0000001:*peiraiko/s:noclass:fem:acc">Πειραϊκὰς</name> ὀνομάζουσι.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>καὶ ταύτῃ μὲν ἐκβιασθῆναι μέχρι τῶν <name type="group"
+                        key="0008952:*eu)meni/des:group:fem:gen 0001000:*eu)meni/des:group:fem:gen">Εὐμενίδων</name> καὶ ὑποχωρῆσαι ταῖς γυναιξίν, ἀπὸ δὲ <name type="person"
+                        key="0005781:*palla/dios:person:masc:gen 0003694:*palla/dion:person:neut:gen">Παλλαδίου</name> καὶ <rs type="nomorph">Ἀρδηττοῦ</rs> καὶ <name type="person"
+                        key="0002087:*lu/keios:person:masc/fem/neut:gen 0000001:*lu/keion:noclass:neut:gen">Λυκείου</name> προσβαλόντας ὤσασθαι τὸ δεξιὸν αὐτῶν ἄχρι τοῦ στρατοπέδου καὶ πολλὰς καταβαλεῖν. τετάρτῳ δὲ μηνὶ συνθήκας γενέσθαι διὰ τῆς <name type="person" key="0001000:*(ippolu/th:person:fem:gen">Ἱππολύτης</name>: <name type="person" key="0001000:*(ippolu/th:person:fem:acc">Ἱππολύτην</name> γὰρ οὗτος ὀνομάζει τὴν τῷ <name type="person" key="0011892:*qhseu/s:person:masc:dat">Θησεῖ</name> συνοικοῦσαν, οὐκ <name type="person" key="0001833:*)antio/ph:person:fem:acc">Ἀντιόπην</name>.
+</p>
+               <p>ἔνιοι δέ φασι μετὰ τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> μαχομένην πεσεῖν τὴν ἄνθρωπον ὑπὸ <name type="person" key="0001000:*molpadi/h:person:fem:gen">Μολπαδίας</name> ἀκοντισθεῖσαν, καὶ τὴν στήλην τὴν παρὰ τὸ τῆς <name type="place"
+                        key="0023618:*)olumpi/a:place:fem:gen 0023618:*)olumpi/a:place:fem:acc 0000001:*)olumpi/as:noclass:masc:nom 0000001:*)olumpi/as:noclass:masc:acc">Ὀλυμπίας</name> ἱερὸν ἐπὶ ταύτῃ κεῖσθαι.
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>καὶ θαυμαστὸν οὐκ ἔστιν ἐπὶ πράγμασιν οὕτω παλαιοῖς πλανᾶσθαι τὴν ἱστορίαν, ἐπεὶ καὶ τὰς τετρωμένας φασὶ τῶν <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:gen">Ἀμαζόνων</name> ὑπ᾽ <name type="person" key="0001833:*)antio/ph:person:fem:gen">Ἀντιόπης</name> εἰς <name type="place"
+                        key="0002099:*xalki/s:place:fem:acc 0000653:*xalki/s:person:fem:acc">Χαλκίδα</name> λάθρα διαπεμφθείσας τυγχάνειν ἐπιμελείας, καὶ ταφῆναί τινας ἐκεῖ περὶ τὸ νῦν <rs type="nomorph">Ἀμαζόνειον</rs> καλούμενον. ἀλλὰ τοῦ γε τὸν πόλεμον εἰς σπονδὰς τελευτῆσαι μαρτύριόν ἐστιν ἥ τε τοῦ τόπου κλῆσις τοῦ παρὰ τὸ <name type="place"
+                        key="0001000:*qhsei=on:place:neut:nom/voc/acc 0000001:*qhsei=os:noclass:neut:nom/voc/acc 0000001:*qhsei=os:noclass:masc:acc">Θησεῖον</name>, ὅνπερ <name type="noclass" key="0000001:o(rkwmo/sia:noclass:neut:nom/voc/acc">Ὁρκωμόσιον</name> καλοῦσιν, ἥ τε γινομένη πάλαι θυσία ταῖς <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:dat">Ἀμαζόσι</name> πρὸ τῶν <name type="place"
+                        key="0001000:*qhsei=on:place:neut:gen 0000001:*qhsei=os:noclass:masc/neut:gen 0000001:*qhsei=os:noclass:fem:gen 0000001:*qhsei=a:noclass:neut:gen">Θησείων</name>.
+</p>
+            </div>
+            <div type="section" n="6" org="uniform" sample="complete" part="N">
+               <p>δεικνύουσι δὲ καὶ <name type="ethnic"
+                        key="0047396:*megareu/s:ethnic:masc:nom/voc 0047396:*megareu/s:ethnic:masc:acc 0001571:*megareu/s:group:masc:nom/voc 0001571:*megareu/s:group:masc:acc">Μεγαρεῖς</name>
+                  <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:gen">Ἀμαζόνων</name> θήκην παρ᾽ αὑτοῖς, ἐπὶ τὸν καλούμενον <name type="noclass" key="0000001:r(o/os:noclass:masc:acc">Ῥοῦν</name> βαδίζουσιν ἐξ ἀγορᾶς, ὅπου τὸ <name type="noclass"
+                        key="0000001:r(omboeidh/s:noclass:neut:nom/voc/acc 0000001:r(omboeidh/s:noclass:masc/fem:voc">Ῥομβοειδές</name>. λέγεται δὲ καὶ περὶ <name type="place" key="0006979:*xairw/neia:place:fem:acc">Χαιρώνειαν</name> ἑτέρας ἀποθανεῖν, καὶ ταφῆναι παρὰ τὸ ῥευμάτιον ὃ πάλαι μέν, ὡς ἔοικε, <name type="place" key="0001774:*qermw/dwn:place:masc:nom">Θερμώδων</name>, <name type="place"
+                        key="0003887:*ai=(mos:place:masc:gen 0001000:*ai(/mwn:person:masc:nom/voc 0000538:*ai(=mos:group:masc:gen">Αἵμων</name> δὲ νῦν καλεῖται: περὶ ὧν ἐν τῷ <name type="person" key="0095649:*dhmosqe/nhs:person:masc:gen">Δημοσθένους</name> βίῳ γέγραπται. φαίνονται δὲ μηδὲ <name type="place"
+                        key="0036350:*qessali/a:place:fem:acc 0000001:*qessali/h:noclass:fem:acc">Θεσσαλίαν</name> ἀπραγμόνως αἱ <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:nom/voc">Ἀμαζόνες</name> διελθοῦσαι: τάφοι γὰρ αὐτῶν ἔτι καὶ νῦν δείκνυνται περὶ τὴν <name type="person" key="0001000:*skotousai=os:person:fem:acc">Σκοτουσαίαν</name> καὶ τὰς <name type="noclass" key="0000001:*kuno/s:noclass:masc:nom">Κυνὸς</name> κεφαλάς.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="28" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ταῦτα μὲν οὖν ἄξια μνήμης περὶ τῶν <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:gen">Ἀμαζόνων</name>. ἣν γὰρ ὁ τῆς <name type="person" key="0001000:*qhshi/s:person:fem:gen">Θησηΐδος</name> ποιητὴς <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:gen">Ἀμαζόνων</name> ἐπανάστασιν γέγραφε, <name type="person" key="0011892:*qhseu/s:person:masc:dat">Θησεῖ</name> γαμοῦντι <name type="person"
+                        key="0001000:*fai=dras:person:masc:acc 0001000:*fai/drh:person:fem:acc">Φαίδραν</name> τῆς <name type="person" key="0001833:*)antio/ph:person:fem:gen">Ἀντιόπης</name> ἐπιτιθεμένης καὶ τῶν μετ᾽ αὐτῆς <name type="ethnic" key="0008390:*)amazw/n:ethnic:fem:gen">Ἀμαζόνων</name> ἀμυνομένων καὶ κτείνοντος αὐτὰς <name type="person"
+                        key="0067594:*(hraklh=s:person:masc:gen 0000001:*(hrakle/os:noclass:masc:acc">Ἡρακλέους</name>, περιφανῶς ἔοικε μύθῳ καὶ πλάσματι.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>τῆς δὲ <name type="person" key="0001833:*)antio/ph:person:fem:gen">Ἀντιόπης</name> ἀποθανούσης ἔγημε <name type="person"
+                        key="0001000:*fai=dras:person:masc:acc 0001000:*fai/drh:person:fem:acc">Φαίδραν</name>, ἔχων υἱὸν <name type="person" key="0020743:*(ippo/lutos:person:masc:acc">Ἱππόλυτον</name> ἐξ <name type="person" key="0001833:*)antio/ph:person:fem:gen">Ἀντιόπης</name>, ὡς δὲ <name type="person" key="0022474:*pi/ndaros:person:masc:nom">Πίνδαρός</name> φησι, <name type="person" key="0000987:*dhmofw=n:person:masc:acc">Δημοφῶντα</name>. τὰς δὲ περὶ ταύτην καὶ τὸν υἱὸν αὐτοῦ δυστυχίας, ἐπεὶ μηδὲν ἀντιπίπτει πίπτει παρὰ τῶν ἱστορικῶν τοῖς τραγικοῖς, οὕτως ἔχειν θετέον ὡς ἐκεῖνοι πεποιήκασιν ἅπαντες.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="29" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>εἰσὶ μέντοι λόγοι περὶ γάμων <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> καὶ ἕτεροι, τὴν σκηνὴν διαπεφευγότες, οὔτε ἀρχὰς εὐγνώμονας οὔτε εὐτυχεῖς τελευτὰς ἔχοντες. καὶ γὰρ <name type="person" key="0001000:*)anacw/:person:fem:nom">Ἀναξώ</name> τινα <name type="ethnic" key="0013352:*troizh/nios:ethnic:fem:acc">Τροιζηνίαν</name> ἁρπάσαι λέγεται, καὶ <name type="person"
+                        key="0001000:*si/nis:person:fem:acc 0000510:*si/nis:place:fem:acc">Σίνιν</name> ἀποκτείνας καὶ <name type="person" key="0001958:*kerku/wn:person:masc:acc">Κερκύονα</name> συγγενέσθαι βία ταῖς θυγατράσιν αὐτῶν: γῆμαι δὲ καὶ <name type="person" key="0001290:*peri/boia:person:fem:acc">Περίβοιαν</name> τὴν <name type="person" key="0009487:*ai)/as:person:masc:gen">Αἴαντος</name> μητέρα καὶ <rs type="nomorph">Φερέβοιαν</rs> αὖθις
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>καὶ <name type="person" key="0001410:*)io/ph:person:fem:acc">Ἰόπην</name> τὴν <name type="noclass" key="0000001:*)ifiklh=s:noclass:masc:gen">Ἰφικλέους</name>: καὶ διὰ τὸν <name type="person" key="0001225:*ai)/glh:person:fem:gen">Αἴγλης</name> ἔρωτα τῆς <name type="place"
+                        key="0003487:*panopeu/s:place:masc:nom 0003487:*panopeu/s:place:masc:gen 0003487:*panopeu/s:ethnic:masc:nom 0003487:*panopeu/s:ethnic:masc:gen 0001957:*panopeu/s:person:masc:nom 0001957:*panopeu/s:person:masc:gen">Πανοπέως</name>, ὥσπερ εἴρηται, τὴν <name type="person" key="0004259:*)aria/dnh:person:fem:gen">Ἀριάδνης</name> ἀπόλειψιν αἰτιῶνται μὴ καλὴν γενέσθαι μηδὲ πρέπουσαν: ἐπὶ πᾶσι δὲ τὴν <name type="person"
+                        key="0003961:*(ele/nh:person:fem:gen 0001941:*(ele/nh:place:fem:gen">Ἑλένης</name> ἁρπαγὴν πολέμου μὲν ἐμπλῆσαι τὴν <name type="ethnic"
+                        key="0174833:*)attiko/s:ethnic:fem:acc 0174833:*)attikh/:place:fem:acc">Ἀττικήν</name>, αὐτῷ δὲ εἰς φυγὴν καὶ ὄλεθρον τελευτῆσαι: περὶ ὧν ὀλίγον ὕστερον εἰρήσεται.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>πολλῶν δὲ τότε τοῖς ἀρίστοις ἄθλων γενομένων <name type="person" key="0002464:*(hro/dwros:person:masc:nom">Ἡρόδωρος</name> μὲν οὐδενὸς οἴεται τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> μετασχεῖν, ἀλλὰ μόνοις <name type="group"
+                        key="0001730:*lapi/qhs:group:masc:dat 0001000:*lapi/qai:ethnic:masc:dat 0000258:*lapi/qai:place:masc:dat">Λαπίθαις</name> τῆς κενταυρομαχίας: ἕτεροι δὲ καὶ μετὰ <name type="person" key="0026087:*)ia/swn:person:masc:gen">Ἰάσονος</name> ἐν <name type="ethnic" key="0007534:*ko/lxos:ethnic:masc:dat">Κόλχοις</name> γενέσθαι καὶ <name type="person" key="0012829:*mele/agros:person:masc:dat">Μελεάγρῳ</name> συνεξελεῖν τὸν κάπρον: καὶ διὰ τοῦτο παροιμίαν εἶναι τὴν <q>οὐκ ἄνευ <name type="person"
+                           key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name>:</q> αὐτὸν μέντοι μηδενὸς συμμάχου δεηθέντα πολλοὺς καὶ καλοὺς ἄθλους κατεργάσασθαι, καὶ τὸν <q>ἄλλος οὗτος <name type="person" key="0067594:*(hraklh=s:person:masc:nom">Ἡρακλῆς</name>
+                  </q> λόγον ἐπ᾽ ἐκείνου κρατῆσαι.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>συνέπραξε δὲ καὶ <name type="person" key="0006970:*)/adrastos:person:masc:dat">Ἀδράστῳ</name> τὴν ἀναίρεσιν τῶν ὑπὸ τῇ <name type="ethnic" key="0000207:*kadmei=os:ethnic:fem:dat">Καδμείᾳ</name> πεσόντων, οὐχ ὡς <name type="person" key="0002747:*eu)ripi/dhs:person:masc:nom">Εὐριπίδης</name> ἐποίησεν ἐν τραγῳδίᾳ, μάχῃ τῶν <name type="ethnic"
+                        key="0070803:*qhbai=os:ethnic:masc/neut:gen 0070803:*qhbai=os:ethnic:fem:gen">Θηβαίων</name> κρατήσας, ἀλλὰ πείσας καὶ σπεισάμενος: οὕτω γὰρ οἱ πλεῖστοι λέγουσι: <name type="person" key="0014326:*filo/xoros:person:masc:nom">Φιλόχορος</name> δὲ καὶ σπονδὰς περὶ νεκρῶν ἀναιρέσεως γενέσθαι πρώτας ἐκείνας.
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>ὅτι δὲ <name type="person" key="0067594:*(hraklh=s:person:masc:nom">Ἡρακλῆς</name> πρῶτος ἀπέδωκε νεκροὺς τοῖς πολεμίοις, ἐν τοῖς περὶ <name type="person"
+                        key="0067594:*(hraklh=s:person:masc:gen 0000001:*(hrakle/os:noclass:masc:acc">Ἡρακλέους</name> γέγραπται. ταφαὶ δὲ τῶν μὲν πολλῶν ἐν <name type="place"
+                        key="0001000:*)eleuqerai/:place:fem:dat 0001000:*)eleuqerai/:group:fem:dat">Ἐλευθεραῖς</name> δείκνυνται, τῶν δὲ ἡγεμόνων περὶ <name type="person"
+                        key="0000959:*)eleusi/s:person:fem:acc 0000239:*)eleusi/s:place:fem:acc">Ἐλευσῖνα</name>, καὶ τοῦτο <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name>
+                  <name type="person" key="0006970:*)/adrastos:person:masc:dat">Ἀδράστῳ</name> χαρισαμένου. καταμαρτυροῦσι δὲ τῶν <name type="person" key="0002747:*eu)ripi/dhs:person:masc:gen">Εὐριπίδου</name>
+                  <name type="noclass"
+                        key="0000001:i(ke/tis:noclass:fem:gen 0000001:i(/ketis:noclass:fem:gen">Ἱκετίδων</name> οἱ <name type="person" key="0030663:*ai)sxu/los:person:masc:gen">Αἰσχύλου</name>
+                  <name type="ethnic" key="0000239:*)eleusi/nios:ethnic:masc:nom/voc">Ἐλευσίνιοι</name>, ἐν οἷς καὶ ταῦτα λέγων ὁ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name> πεποίηται.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="30" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>τὴν δὲ πρὸς <name type="person" key="0002406:*peiri/qoos:person:masc:acc">Πειρίθουν</name> φιλίαν τοῦτον τὸν τρόπον αὐτῷ γενέσθαι λέγουσι. δόξαν εἶχεν ἐπὶ ῥώμῃ καὶ ἀνδρείᾳ μεγίστην: βουλόμενος οὖν ὁ <name type="person"
+                        key="0002406:*peiri/qoos:person:masc:nom 0002406:*peiri/qoos:group:masc:acc">Πειρίθους</name> ἐξελέγξαι καὶ λαβεῖν διάπειραν, ἠλάσατο βοῦς ἐκ <name type="place"
+                        key="0011836:*maraqw/n:place:masc:gen 0000970:*maraqw/n:person:masc:gen">Μαραθῶνος</name> αὐτοῦ, καὶ πυθόμενος διώκειν μετὰ τῶν ὅπλων ἐκεῖνον οὐκ ἔφυγεν, ἀλλ᾽ ἀναστρέψας ἀπήντησεν.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ὡς δὲ εἶδεν ἅτερος τὸν ἕτερον καὶ τὸ κάλλος ἐθαύμασε καὶ τὴν τόλμαν ἠγάσθη, μάχης μὲν ἔσχοντο, <name type="person"
+                        key="0002406:*peiri/qoos:person:masc:nom 0002406:*peiri/qoos:group:masc:acc">Πειρίθους</name> δὲ πρότερος τὴν δεξιὰν προτείνας ἐκέλευσεν αὐτὸν γενέσθαι δικαστὴν τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> τῆς βοηλασίας: ἑκὼν γὰρ ὑφέξειν ἣν ἂν ὁρίσῃ δίκην ἐκεῖνος: <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name> δὲ καὶ τὴν δίκην ἀφῆκεν αὐτῷ καὶ προὐκαλεῖτο φίλον εἶναι καὶ σύμμαχον: ἐποιήσαντο δὲ τὴν φιλίαν ἔνορκον.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>ἐκ δὲ τούτου γαμῶν ὁ <name type="person"
+                        key="0002406:*peiri/qoos:person:masc:nom 0002406:*peiri/qoos:group:masc:acc">Πειρίθους</name>
+                  <name type="person" key="0001000:*dhidamei/a:person:fem:acc">Δηϊδάμειαν</name>, ἐδεήθη τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> ἐλθεῖν καὶ τὴν χώραν ἱστορῆσαι καὶ συγγενέσθαι τοῖς <name type="group"
+                        key="0001730:*lapi/qhs:group:masc:dat 0001000:*lapi/qai:ethnic:masc:dat 0000258:*lapi/qai:place:masc:dat">Λαπίθαις</name>. ἐτύγχανε δὲ καὶ τοὺς <name type="group" key="0001000:*ke/ntauros-pl:group:masc:acc">Κενταύρους</name> κεκληκὼς ἐπὶ τὸ δεῖπνον. ὡς δὲ ἠσέλγαινον ὕβρει καὶ μεθύοντες οὐκ ἀπείχοντο τῶν γυναικῶν, ἐτράποντο πρὸς ἄμυναν οἱ <name type="person"
+                        key="0001730:*lapi/qhs:person:masc:dat 0001000:*lapi/qai:ethnic:masc:nom/voc 0000258:*lapi/qai:place:masc:nom/voc">Λαπίθαι</name>: καὶ τοὺς μὲν ἔκτειναν αὐτῶν, τοὺς δὲ πολέμῳ κρατήσαντες ὕστερον ἐξέβαλον ἐκ τῆς χώρας, τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> αὐτοῖς συμμαχομένου καὶ συμπολεμοῦντος.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>
+                  <name type="person" key="0002464:*(hro/dwros:person:masc:nom">Ἡρόδωρος</name> δὲ ταῦτα πραχθῆναί φησιν οὐχ οὕτως, ἀλλὰ τοῦ πολέμου συνεστῶτος ἤδη τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> βοηθοῦντα τοῖς <name type="group"
+                        key="0001730:*lapi/qhs:group:masc:dat 0001000:*lapi/qai:ethnic:masc:dat 0000258:*lapi/qai:place:masc:dat">Λαπίθαις</name> παραγενέσθαι, καὶ τότε πρῶτον ὄψει γνωρίσαι τὸν <name type="person"
+                        key="0067594:*(hraklh=s:person:masc:acc 0000001:*(hra/klea:noclass:fem:nom/voc/acc">Ἡρακλέα</name>, ποιησάμενον ἔργον ἐντυχεῖν αὐτῷ περὶ <name type="place" key="0000298:*traxi/s:place:fem:acc">Τραχῖνα</name> πεπαυμένῳ πλάνης ἤδη καὶ ἄθλων: γενέσθαι δὲ μετὰ τιμῆς καὶ φιλοφροσύνης καὶ πολλῶν ἐπαίνων ἀμφοτέροις τὴν ἔντευξιν.
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>οὐ μὴν ἀλλὰ μᾶλλον ἄν τις πρόσχοι τοῖς πολλάκις ἐντυχεῖν αὐτοὺς ἀλλήλοις ἱστοροῦσι: καὶ τὴν μύησιν <name type="person" key="0067594:*(hraklh=s:person:masc:dat">Ἡρακλεῖ</name> γενέσθαι <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> σπουδάσαντος καὶ τὸν πρὸ τῆς μυήσεως καθαρμὸν ὡς δεομένῳ διά τινας πράξεις ἀβουλήτους.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="31" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ἤδη δὲ πεντήκοντα ἔτη γεγονώς, ὥς φησιν <name type="person" key="0014863:*(ella/nikos:person:masc:nom">Ἑλλάνικος</name>, ἔπραξε τὰ περὶ τὴν <name type="person"
+                        key="0003961:*(ele/nh:person:fem:acc 0001941:*(ele/nh:place:fem:acc">Ἑλένην</name>, οὐ καθ᾽ ὥραν. ὅθεν ὡς δὴ μέγιστον ἐπανορθούμενοι τοῦτο τῶν ἐγκλημάτων, ἔνιοι λέγουσιν οὐκ αὐτὸν ἁρπάσαι τὴν <name type="person"
+                        key="0003961:*(ele/nh:person:fem:acc 0001941:*(ele/nh:place:fem:acc">Ἑλένην</name>, ἀλλὰ <name type="place"
+                        key="0005252:*)/idh:place:fem:nom/voc/acc 0005252:*)/idh:place:fem:nom/voc 0001000:*)/idhs:person:masc:voc 0001000:*)/idhs:person:masc:nom 0001000:*)/idhs:person:masc:gen 0000486:*)/idh:person:fem:nom/voc/acc 0000486:*)/idh:person:fem:nom/voc">Ἴδα</name> καὶ <name type="person"
+                        key="0003610:*lugkeu/s:person:masc:nom 0003610:*lugkeu/s:person:masc:gen">Λυγκέως</name> ἁρπασάντων παρακαταθήκην λαβόντα τηρεῖν καὶ μὴ προΐεσθαι τοῖς <name type="ethnic"
+                        key="0013119:*dio/skouroi:ethnic:masc:dat 0001000:*dio/skoroi:group:masc:dat">Διοσκούροις</name> ἀπαιτοῦσιν: ἢ νὴ <name type="person"
+                        key="0009978:*zeu/s:person:masc:acc 0001000:*di/h:person:fem:nom/voc 0000001:*di/on:noclass:neut:nom/voc/acc">Δία</name>
+                  <name type="person"
+                        key="0002918:*tunda/rews:person:masc:gen 0001000:*tunda/rhs:person:masc:gen">Τυνδάρεω</name> παραδόντος αὐτοῦ, φοβηθέντος <name type="noclass"
+                        key="0000001:e)narhfo/ros:noclass:neut:nom/voc/acc 0000001:e)narhfo/ros:noclass:masc/fem:acc">Ἐναρσφόρον</name> τὸν <name type="person" key="0001000:*(ippoko/wn:person:masc:gen">Ἱπποκόωντος</name> ἔτι νηπίαν οὖσαν βιαζόμενον τὴν <name type="person"
+                        key="0003961:*(ele/nh:person:fem:acc 0001941:*(ele/nh:place:fem:acc">Ἑλένην</name> λαβεῖν. τὰ δὲ εἰκότα καὶ πλείστους ἔχοντα μάρτυρας τοιαῦτά ἐστιν.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ἦλθον μὲν εἰς <name type="place" key="0047600:*spa/rth:place:fem:acc">Σπάρτην</name> ἀμφότεροι καὶ τὴν κόρην ἐν ἱερῷ <name type="person" key="0003257:*)/artemis:person:fem:gen">Ἀρτέμιδος</name>
+                  <name type="person" key="0001000:*)orqi/a:person:fem:gen">Ὀρθίας</name> χορεύουσαν ἁρπάσαντες ἔφυγον: τῶν δὲ πεμφθέντων ἐπὶ τὴν δίωξιν οὐ πορρωτέρω <name type="place" key="0019501:*tege/a:place:fem:gen 0019501:*tege/a:place:fem:acc">Τεγέας</name> ἐπακολουθησάντων, ἐν ἀδείᾳ γενόμενοι καὶ διελθόντες τὴν <name type="place" key="0000238:*pelopo/nnhsos:place:fem:acc">Πελοπόννησον</name> ἐποιήσαντο συνθήκας, τὸν μὲν λαχόντα κλήρῳ τὴν <name type="person"
+                        key="0003961:*(ele/nh:person:fem:acc 0001941:*(ele/nh:place:fem:acc">Ἑλένην</name> ἔχειν γυναῖκα, συμπράττειν δὲ θατέρῳ γάμον ἄλλον.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>ἐπὶ ταύταις δὲ κληρουμένων ταῖς ὁμολογίαις ἔλαχε <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεύς</name>: καὶ παραλαβὼν τὴν παρθένον οὔπω γάμων ὥραν ἔχουσαν εἰς <name type="place"
+                        key="0001959:*)afi/dnai:place:fem:acc 0001959:*)/afidna:place:fem:gen 0001959:*)/afidna:place:fem:acc">Ἀφίδνας</name> ἐκόμισε: καὶ τὴν μητέρα καταστήσας μετ᾽ αὐτῆς <rs type="nomorph">Ἀφίδνῳ</rs> παρέδωκεν ὄντι φίλῳ, διακελευσάμενος φυλάττειν καὶ λανθάνειν τοὺς ἄλλους.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>αὐτὸς δὲ <name type="person" key="0002406:*peiri/qoos:person:masc:dat">Πειρίθῳ</name> τὴν ὑπουργίαν ἀποδιδούς, εἰς <name type="place" key="0015613:*)/hpeiros:place:masc:acc">Ἤπειρον</name> συναπεδήμησεν ἐπὶ τὴν <name type="person"
+                        key="0007991:*(/aidhs:person:masc:nom 0007991:*(/aidhs:person:masc:gen">Ἀϊδωνέως</name> θυγατέρα τοῦ <name type="ethnic"
+                        key="0001000:*molosso/s:ethnic:masc/fem/neut:gen 0000501:*molosso/s:group:masc/fem/neut:gen">Μολοσσῶν</name> βασιλέως, ὃς τῇ γυναικὶ <name type="person"
+                        key="0001000:*ferse/fassa-pl:person:fem:acc 0001000:*ferse/fassa-pl:group:fem:acc">Φερσεφόνην</name> ὄνομα θέμενος, <name type="place" key="0007000:*ko/ra:place:fem:acc">Κόρην</name> δὲ τῇ θυγατρί, τῷ δὲ κυνὶ <name type="person" key="0001388:*ke/rberos:person:masc:acc">Κέρβερον</name>, ἐκέλευε τούτῳ διαμάχεσθαι τοὺς μνωμένους τὴν παῖδα καὶ λαβεῖν τὸν κρατήσαντα. τοὺς μέντοι περὶ τὸν <name type="person" key="0002406:*peiri/qoos:person:masc:acc">Πειρίθουν</name> οὐ μνηστῆρας ἥκειν, ἀλλ᾽ ἁρπασομένους πυνθανόμενος συνέλαβε: καὶ τὸν μὲν <name type="person" key="0002406:*peiri/qoos:person:masc:acc">Πειρίθουν</name> εὐθὺς ἠφάνισε διὰ τοῦ κυνός, τὸν δὲ <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> καθείρξας ἐφύλαττεν.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="32" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ἐν δὲ τῷ χρόνῳ τούτῳ <name type="person" key="0003235:*menesqeu/s:person:masc:nom">Μενεσθεὺς</name> ὁ <name type="person" key="0001642:*petew/s:person:masc:gen">Πετεὼ</name> τοῦ <name type="person"
+                        key="0000490:*)orneu/s:person:masc:nom 0000490:*)orneu/s:person:masc:gen">Ὀρνέως</name> τοῦ <name type="person"
+                        key="0000214:*)erexqeu/s:person:nn:nom 0000214:*)erexqeu/s:person:nn:gen 0000214:*)erexqeu/s:person:masc:nom 0000214:*)erexqeu/s:person:masc:gen">Ἐρεχθέως</name> πρῶτος, ὥς φασιν, ἀνθρώπων ἐπιθέμενος τῷ δημαγωγεῖν καὶ πρὸς χάριν ὄχλῳ διαλέγεσθαι, τούς τε δυνατοὺς συνίστη καὶ παρώξυνε, πάλαι βαρυνομένους τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> καὶ νομίζοντας ἀρχὴν καὶ βασιλείαν ἀφῃρημένον ἑκάστου τῶν κατὰ δῆμον εὐπατριδῶν, εἰς ἓν ἄστυ συνείρξαντα πάντας ὑπηκόοις χρῆσθαι καὶ δούλοις, τούς τε πολλοὺς διετάραττε καὶ διέβαλλεν, ὡς ὄναρ ἐλευθερίας ὁρῶντας, ἔργῳ δὲ ἀπεστερημένους πατρίδων καὶ ἱερῶν, ὅπως ἀντὶ πολλῶν καὶ ἀγαθῶν καὶ γνησίων βασιλέων πρὸς ἕνα δεσπότην ἔπηλυν καὶ ξένον ἀποβλέπωσι.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ταῦτα δὲ αὐτοῦ πραγματευομένου μεγάλην ῥοπὴν ὁ πόλεμος τῷ νεωτερισμῷ προσέθηκε, τῶν <name type="group" key="0001000:*tundari/dhs:group:masc:gen">Τυνδαριδῶν</name> ἐπελθόντων: οἱ δὲ καὶ ὅλως φασὶν ὑπὸ τούτου πεισθέντας ἐλθεῖν.
+</p>
+               <p>τὸ μὲν οὖν πρῶτον οὐδὲν ἠδίκουν, ἀλλ᾽ ἀπῄτουν τὴν ἀδελφήν. ἀποκριναμένων δὲ τῶν ἐν ἄστει μήτε ἔχειν μήτε γινώσκειν ὅπου καταλέλειπται, πρὸς πόλεμον ἐτράποντο.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>φράζει δὲ αὐτοῖς <name type="person" key="0001883:*)aka/dhmos:person:masc:nom">Ἀκάδημος</name> ᾐσθημένος ᾧ δή τινι τρόπῳ τὴν ἐν <name type="place"
+                        key="0001959:*)afi/dnai:place:fem:dat 0001959:*)/afidna:place:fem:dat">Ἀφίδναις</name> κρύψιν αὐτῆς. ὅθεν ἐκείνῳ τε τιμαὶ ζῶντι παρὰ τῶν <name type="group" key="0001000:*tundari/dhs:group:masc:gen">Τυνδαριδῶν</name> ἐγένοντο, καὶ πολλάκις ὕστερον εἰς τὴν <name type="ethnic"
+                        key="0174833:*)attiko/s:ethnic:fem:acc 0174833:*)attikh/:place:fem:acc">Ἀττικὴν</name> ἐμβαλόντες <name type="ethnic"
+                        key="0047916:*lakedaimo/nios:ethnic:masc:nom/voc 0001024:*lakedaimo/nios:group:masc:nom/voc">Λακεδαιμόνιοι</name> καὶ πᾶσαν ὁμοῦ τὴν χώραν τέμνοντες, τῆς <name type="place"
+                        key="0001000:*)akadh/meia:place:fem:gen 0001000:*)akadh/meia:place:fem:acc">Ἀκαδημείας</name> ἀπείχοντο διὰ τὸν <name type="person" key="0001883:*)aka/dhmos:person:masc:acc">Ἀκάδημον</name>.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>ὁ δὲ <name type="person" key="0013707:*dikai/arxos:person:masc:nom">Δικαίαρχος</name>
+                  <name type="person" key="0001829:*)exe/dhmos:person:masc:gen">Ἐχεδήμου</name>
+                  <note resp="ed" place="unspecified" anchored="true">
+                     <foreign xml:lang="greek">
+                        <name type="person" key="0001829:*)exe/dhmos:person:masc:gen">Ἐχεδήμου</name>
+                     </foreign> with Coraë s, Sintenis <hi rend="superscript">1</hi> , and Bekker, after Xylander: <foreign xml:lang="greek">
+                        <name type="person" key="0001818:*)/exemos:person:masc:gen">Ἐχέμου</name>
+                     </foreign> .</note> φησὶ καὶ <name type="place" key="0006989:*ma/raqos:place:masc:gen">Μαράθου</name> συστρατευσάντων τότε τοῖς <name type="group" key="0001000:*tundari/dhs:group:masc:dat">Τυνδαρίδαις</name> ἐξ <name type="place"
+                        key="0033070:*)arkadi/a:place:fem:gen 0033070:*)arkadi/a:place:fem:acc 0001000:*)arkadi/a:person:fem:gen 0001000:*)arkadi/a:group:fem:acc">Ἀρκαδίας</name>, ἀφ᾽ οὗ μὲν <name type="noclass" key="0000001:e)xedhmi/a:noclass:fem:acc">Ἐχεδημίαν</name> προσαγορευθῆναι τὴν νῦν <name type="place" key="0001000:*)akadh/meia:place:fem:acc">Ἀκαδήμειαν</name>, ἀφ᾽ οὗ δὲ <name type="place"
+                        key="0011836:*maraqw/n:place:masc:acc 0000970:*maraqw/n:person:masc:acc">Μαραθῶνα</name> τὸν δῆμον, ἐπιδόντος ἑαυτὸν ἑκουσίως κατά τι λόγιον σφαγιάσασθαι πρὸ τῆς παρατάξεως.
+</p>
+               <p>ἐλθόντες οὖν ἐπὶ τὰς <name type="place"
+                        key="0001959:*)afi/dnai:place:fem:acc 0001959:*)/afidna:place:fem:gen 0001959:*)/afidna:place:fem:acc">Ἀφίδνας</name> καὶ μάχῃ κρατήσαντες ἐξεῖλον τὸ χωρίον.
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>ἐνταῦθά φασι καὶ <rs type="nomorph">Ἄλυκον</rs> πεσεῖν τὸν <name type="person" key="0001000:*skei/rwn:person:masc:gen">Σκείρωνος</name> υἱόν, συστρατευόμενον τότε τοῖς <name type="ethnic"
+                        key="0013119:*dio/skouroi:ethnic:masc:dat 0001000:*dio/skoroi:group:masc:dat">Διοσκούροις</name>, ἀφ᾽ οὗ καὶ τόπον τῆς <name type="ethnic" key="0042237:*megariko/s:ethnic:fem:gen">Μεγαρικῆς</name>
+                  <rs type="nomorph">Ἄλυκον</rs> καλεῖσθαι τοῦ σώματος ἐνταφέντος. <name type="person" key="0001396:*(hre/as:person:masc:nom">Ἡρέας</name> δ᾽ ὑπὸ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> αὐτοῦ περὶ <name type="place"
+                        key="0001959:*)afi/dnai:place:fem:acc 0001959:*)/afidna:place:fem:gen 0001959:*)/afidna:place:fem:acc">Ἀφίδνας</name> ἀποθανεῖν τὸν <rs type="nomorph">Ἄλυκον</rs> ἱστόρηκε, καὶ μαρτύρια ταυτὶ τὰ ἔπη παρέχεται περὶ τοῦ <rs type="nomorph">Ἀλύκου</rs>:
+<quote rend="blockquote">
+                     <l ana="#met-dact" part="N">τὸν ἐν εὐρυχόρῳ ποτ᾽ <name type="place" key="0001959:*)/afidna:place:fem:dat">Ἀφίδνῃ</name>
+                     </l>
+                     <l part="N">μαρνάμενον <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name>
+                        <name type="person"
+                              key="0003961:*(ele/nh:person:fem:gen 0001941:*(ele/nh:place:fem:gen">Ἑλένης</name> ἕνεκ᾽ ἠϋκόμοιο κτεῖνεν.</l>
+                  </quote>
+                  <name type="noclass" key="0000001:ou):noclass:nn:nom/voc">Οὐ</name> μὴν εἰκὸς αὐτοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> παρόντος ἁλῶναι τήν τε μητέρα καὶ τὰς <name type="place"
+                        key="0001959:*)afi/dnai:place:fem:acc 0001959:*)/afidna:place:fem:gen 0001959:*)/afidna:place:fem:acc">Ἀφίδνας</name>.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="33" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>ἐχομένων δ᾽ οὖν τῶν <name type="place"
+                        key="0001959:*)afi/dnai:place:fem:gen 0001959:*)/afidna:place:fem:gen">Ἀφιδνῶν</name> καὶ τῶν ἐν ἄστει δεδιότων, ἔπεισε τὸν δῆμον ὁ <name type="person" key="0003235:*menesqeu/s:person:masc:nom">Μενεσθεὺς</name> δέχεσθαι τῇ πόλει καὶ φιλοφρονεῖσθαι τοὺς <name type="place"
+                        key="0008453:*tundari/s:place:fem:acc 0002918:*tunda/rews:group:fem:acc 0001000:*tundari/dhs:group:masc:nom 0001000:*tundari/dhs:group:masc:acc">Τυνδαρίδας</name>, ὡς μόνῳ <name type="person" key="0011892:*qhseu/s:person:masc:dat">Θησεῖ</name> βίας ὑπάρξαντι πολεμοῦντας, τῶν δὲ ἄλλων εὐεργέτας ὄντας ἀνθρώπων καὶ σωτῆρας. ἐμαρτύρει δὲ αὐτῷ καὶ τὰ παρ᾽ ἐκείνων: οὐδὲν γὰρ ἠξίωσαν ἁπάντων κρατοῦντες ἀλλ᾽ ἢ μυηθῆναι, μηδὲν ἧττον <name type="person"
+                        key="0067594:*(hraklh=s:person:masc:gen 0000001:*(hrakle/os:noclass:masc:acc">Ἡρακλέους</name> τῇ πόλει προσήκοντες.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>καὶ τοῦτο οὖν ὑπῆρξεν αὐτοῖς, <rs type="nomorph">Ἀφίδνου</rs> ποιησαμένου παῖδας, ὡς <name type="ethnic" key="0000243:*pu/lios:ethnic:masc:nom">Πύλιος</name>
+                  <name type="person"
+                        key="0067594:*(hraklh=s:person:masc:acc 0000001:*(hra/klea:noclass:fem:nom/voc/acc">Ἡρακλέα</name>: καὶ τιμὰς ἰσοθέους ἔσχον, <name type="group" key="0001000:*)/anakes-pl:group:masc:nom/voc">Ἄνακες</name> προσαγορευθέντες, ἢ διὰ τὰς γενομένας ἀνοχὰς ἢ διὰ τὴν ἐπιμέλειαν καὶ κηδεμονίαν τοῦ μηδένα κακῶς παθεῖν στρατιᾶς τοσαύτης ἔνδον οὔσης: ἀνακῶς γὰρ ἔχειν τοὺς ἐπιμελομένους ἢ φυλάττοντας ὁτιοῦν: καὶ τοὺς βασιλεῖς ἴσως ἄνακτας διὰ τοῦτο καλοῦσιν. εἰσὶ δὲ οἱ λέγοντες διὰ τὴν τῶν ἀστέρων ἐπιφάνειαν <name type="group" key="0001000:*)/anakes-pl:group:masc:acc">Ἄνακας</name> ὀνομάζεσθαι: τὸ γὰρ ἄνω τοὺς <name type="ethnic" key="0174833:*)attiko/s:ethnic:masc:acc">Ἀττικοὺς</name> ἀνεκὰς ὀνομάζειν, καὶ ἀνέκαθεν τὸ ἄνωθεν.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="34" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>
+                  <name type="person" key="0001000:*ai)/qrh:person:fem:acc">Αἴθραν</name> δὲ τὴν <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> μητέρα γενομένην αἰχμάλωτον ἀπαχθῆναι λέγουσιν εἰς <name type="place"
+                        key="0057834:*lakedai/mwn:place:fem:acc 0001010:*lakedai/mwn:person:fem:acc">Λακεδαίμονα</name>, κἀκεῖθεν εἰς <name type="place" key="0004325:*troi/a:place:fem:acc">Τροίαν</name> μετὰ <name type="person"
+                        key="0003961:*(ele/nh:person:fem:gen 0001941:*(ele/nh:place:fem:gen">Ἑλένης</name>: καὶ μαρτυρεῖν <name type="person" key="0095973:*(/omhros:person:masc:acc">Ὅμηρον</name>, ἕπεσθαι τῇ <name type="person"
+                        key="0003961:*(ele/nh:person:fem:dat 0001941:*(ele/nh:place:fem:dat">Ἑλένῃ</name> φάμενον: <cit>
+                     <quote rend="blockquote">
+                        <l ana="#met-dact" part="N">
+                           <name type="person" key="0001000:*ai)/qrh:person:fem:acc">Αἴθρην</name>
+                           <name type="person" key="0002083:*pitqeu/s:person:masc:gen">Πιτθῆος</name> θύγατρα <name type="person" key="0001497:*klume/nh:person:fem:acc">Κλυμένην</name> τε βοῶπιν.</l>
+                     </quote>
+                     <bibl default="false">Hom. Il. 3.144</bibl>
+                  </cit> οἱ δὲ καὶ τοῦτο τὸ ἔπος διαβάλλουσι καὶ τὴν περὶ <rs type="nomorph">Μουνύχου</rs> μυθολογίαν, ὃν ἐκ <name type="person" key="0000987:*dhmofw=n:person:masc:gen">Δημοφῶντος</name>
+                  <name type="person" key="0002042:*laodi/kh:person:fem:gen">Λαοδίκης</name> κρύφα τεκούσης ἐν <name type="place"
+                        key="0012072:*)/ilios:place:neut:dat 0012072:*)/ilios:place:masc/neut:dat 0012072:*)/ilios:place:masc/fem/neut:dat 0012072:*)/ilios:place:fem:dat 0011072:*)/ilion:place:neut:dat">Ἰλίῳ</name> συνεκθρέψαι τὴν <name type="person" key="0001000:*ai)/qrh:person:fem:acc">Αἴθραν</name> λέγουσιν.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>ἴδιον δέ τινα καὶ παρηλλαγμένον ὅλως λόγον ὁ <name type="place"
+                        key="0000756:*)/istros:place:masc:nom 0000756:*)/istros:place:fem:nom">Ἴστρος</name> ἐν τῇ τρισκαιδεκάτῃ τῶν <name type="ethnic"
+                        key="0174833:*)attiko/s:ethnic:masc/neut:gen 0174833:*)attiko/s:ethnic:fem:gen 0174833:*)attikh/:place:fem:gen">Ἀττικῶν</name> ἀναφέρει περὶ <name type="person" key="0001000:*ai)/qrh:person:fem:gen">Αἴθρας</name>, ὡς ἐνίων λεγόντων <name type="person" key="0094880:*)ale/candros:person:masc:acc">Ἀλέξανδρον</name> μὲν τὸν <name type="person" key="0010261:*pa/ris:person:masc:acc">Πάριν</name> ἐν <name type="place"
+                        key="0036350:*qessali/a:place:fem:dat 0000001:*qessali/h:noclass:fem:dat">Θεσσαλίᾳ</name>
+                  <note resp="ed" place="unspecified" anchored="true">
+                     <foreign xml:lang="greek">τὸν <name type="person" key="0010261:*pa/ris:person:masc:acc">Πάριν</name> ἐν <name type="place"
+                              key="0036350:*qessali/a:place:fem:dat 0000001:*qessali/h:noclass:fem:dat">Θεσσαλίᾳ</name>
+                     </foreign> , with Bekker: <foreign xml:lang="greek">τὸν ἐν <name type="place"
+                              key="0036350:*qessali/a:place:fem:dat 0000001:*qessali/h:noclass:fem:dat">Θεσσαλίᾳ</name>
+                        <name type="person" key="0010261:*pa/ris:person:masc:acc">Πάριν</name>
+                     </foreign> .</note> ὑπ᾽ <name type="person"
+                        key="0012616:*)axilleu/s:person:masc:nom 0012616:*)axilleu/s:person:masc:gen">Ἀχιλλέως</name> καὶ <name type="person"
+                        key="0006840:*pa/troklos:person:masc:gen 0000001:*patro/klon:noclass:neut:gen">Πατρόκλου</name> μάχῃ κρατηθῆναι παρὰ τὸν <name type="place"
+                        key="0001442:*sperxeio/s:place:masc:acc 0000548:*sperxeio/s:person:masc:acc">Σπερχειόν</name>, <name type="person" key="0006930:*(/ektwr:person:masc:acc">Ἕκτορα</name> δὲ τὴν <name type="ethnic"
+                        key="0013352:*troizh/nios:ethnic:masc/neut:gen 0013352:*troizh/nios:ethnic:fem:gen">Τροιζηνίων</name> πόλιν λαβόντα διαρπάσαι καὶ τὴν <name type="person" key="0001000:*ai)/qrh:person:fem:acc">Αἴθραν</name> ἀπάγειν ἐκεῖ καταλειφθεῖσαν. ἀλλὰ τοῦτο μὲν ἔχει πολλὴν ἀλογίαν.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="35" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>
+                  <name type="person"
+                        key="0007991:*(/aidhs:person:masc:nom 0007991:*(/aidhs:person:masc:gen">Ἀϊδωνέως</name> δὲ τοῦ <name type="ethnic"
+                        key="0001000:*molosso/s:ethnic:masc/fem/neut:gen 0000501:*molosso/s:person:masc/fem/neut:gen">Μολοσσοῦ</name> ξενίζοντος <name type="person"
+                        key="0067594:*(hraklh=s:person:masc:acc 0000001:*(hra/klea:noclass:fem:nom/voc/acc">Ἡρακλέα</name> καὶ τῶν περὶ τὸν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> καὶ <name type="person" key="0002406:*peiri/qoos:person:masc:acc">Πειρίθουν</name> κατὰ τύχην μνησθέντος, ἅ τε πράξοντες ἦλθον καὶ ἃ φωραθέντες ἔπαθον, βαρέας ἤνεγκεν ὁ <name type="person" key="0067594:*(hraklh=s:person:masc:nom">Ἡρακλῆς</name>, τοῦ μὲν ἀπολωλότος ἀδόξως, τοῦ δὲ ἀπολλυμένου. καὶ περὶ <name type="person"
+                        key="0002406:*peiri/qoos:person:masc:voc 0002406:*peiri/qoos:person:masc:gen">Πειρίθου</name> μὲν οὐδὲν ᾤετο ποιήσειν πλέον ἐγκαλῶν, τὸν δὲ <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name> παρῃτεῖτο καὶ χάριν ἠξίου ταύτην αὐτῷ δοθῆναι.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>συγχωρήσαντος δὲ τοῦ <name type="person"
+                        key="0007991:*(/aidhs:person:masc:nom 0007991:*(/aidhs:person:masc:gen">Ἀϊδωνέως</name>, λυθεὶς ὁ <name type="person" key="0011892:*qhseu/s:person:masc:nom">Θησεὺς</name> ἐπανῆλθε μὲν εἰς τὰς <name type="place"
+                        key="0361602:*)aqh=nai:place:fem:acc 0000001:*)aqh/neus:noclass:masc:acc">Ἀθήνας</name>, οὐδέπω παντάπασι τῶν φίλων αὐτοῦ κεκρατημένων, καὶ ὅσα ὑπῆρχε τεμένη πρότερον αὐτῷ τῆς πόλεως ἐξελούσης ἅπαντα καθιέρωσε τῷ <name type="person" key="0067594:*(hraklh=s:person:masc:dat">Ἡρακλεῖ</name> καὶ προσηγόρευσεν ἀντὶ <name type="place"
+                        key="0001000:*qhsei=on:place:neut:gen 0000001:*qhsei=os:noclass:masc/neut:gen 0000001:*qhsei=os:noclass:fem:gen 0000001:*qhsei=a:noclass:neut:gen">Θησείων</name>
+                  <name type="group"
+                        key="0020320:*(hra/kleios:group:neut:nom/voc/acc 0014206:*(hra/kleia:place:fem:nom/voc">Ἡράκλεια</name>, πλὴν τεσσάρων, ὡς <name type="person" key="0014326:*filo/xoros:person:masc:nom">Φιλόχορος</name> ἱστόρηκεν. αὖθις <note resp="ed" place="unspecified" anchored="true">
+                     <foreign xml:lang="greek">αὖθις</foreign> Coraë s, after Reiske: <foreign xml:lang="greek">εὐθύς</foreign> ( <gloss>at once</gloss> ).</note> δὲ βουλόμενος ὡς πρότερον ἄρχειν καὶ καθηγεῖσθαι τοῦ πολιτεύματος εἰς στάσεις ἐνέπεσε καὶ ταραχάς, οὓς μὲν ἀπέλιπε μισοῦντας αὐτὸν εὑρίσκων τὸ μὴ φοβεῖσθαι τῷ μισεῖν προσειληφότας, ἐν δὲ τῷ δήμῳ πολὺ τὸ διεφθαρμένον ὁρῶν καὶ θεραπεύεσθαι βουλόμενον ἀντὶ τοῦ ποιεῖν σιωπῇ τὸ προσταττόμενον.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>ἐπιχειρῶν οὖν βιάζεσθαι κατεδημαγωγεῖτο καὶ κατεστασιάζετο. καὶ τέλος ἀπογνοὺς τὰ πράγματα τοὺς μὲν παῖδας εἰς <name type="place"
+                        key="0018675:*eu)/boia:place:fem:acc 0000600:*eu)/boia:person:fem:acc">Εὔβοιαν</name> ὑπεξέπεμψε πρὸς <name type="person" key="0002422:*)elefh/nwr:person:masc:acc">Ἐλεφήνορα</name> τὸν <name type="person" key="0000427:*xalkw/dwn:person:masc:gen">Χαλκώδοντος</name>, αὐτὸς δὲ <rs type="nomorph">Γαργηττοῖ</rs> κατὰ τῶν <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc/neut:gen 0360214:*)aqhnai=os:ethnic:fem:gen 0017075:*)aqh/naios:group:masc:gen 0000001:*)aqh/naion:noclass:neut:gen 0000001:*)aqh/naia:noclass:neut:gen">Ἀθηναίων</name> ἀρὰς θέμενος, οὗ νῦν ἔστι τὸ καλούμενον <rs type="nomorph">Ἀρατήριον</rs>, εἰς <name type="place" key="0005947:*sku=ros:place:fem:acc">Σκῦρον</name> ἐξέπλευσεν, οὔσης αὐτῷ πρὸς τοὺς ἐκεῖ φιλίας, ὡς ᾤετο, καὶ χωρίων ἐν τῇ νήσῳ πατρῴων. ἐβασίλευε δὲ <name type="person" key="0001702:*lukomh/dhs:person:masc:nom">Λυκομήδης</name> τότε τῶν <name type="ethnic"
+                        key="0005678:*sku/rios:ethnic:masc:gen 0005678:*sku/rios:ethnic:masc/neut:gen 0005678:*sku/rios:ethnic:fem:gen">Σκυρίων</name>.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>πρὸς τοῦτον οὖν ἀφικόμενος ἐζήτει τοὺς ἀγροὺς ἀπολαβεῖν, ὡς αὐτόθι κατοικήσων: ἔνιοι δέ φασι παρακαλεῖν αὐτὸν βοηθεῖν ἐπὶ τοὺς <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc:acc 0017075:*)aqh/naios:group:masc:acc">Ἀθηναίους</name>. ὁ δὲ <name type="person" key="0001702:*lukomh/dhs:person:masc:nom">Λυκομήδης</name>, εἴτε δείσας τὴν δόξαν τοῦ ἀνδρός, εἴτε τῷ <name type="person" key="0003235:*menesqeu/s:person:masc:dat">Μενεσθεῖ</name> χαριζόμενος, ἐπὶ τὰ ἄκρα τῆς χώρας ἀναγαγὼν αὐτόν, ὡς ἐκεῖθεν ἐπιδείξων τοὺς ἀγρούς, ὦσε κατὰ τῶν πετρῶν καὶ διέφθειρεν. ἔνιοι δ᾽ ἀφ᾽ ἑαυτοῦ πεσεῖν φασι σφαλέντα, μετὰ δεῖπνον,
+</p>
+            </div>
+            <div type="section" n="5" org="uniform" sample="complete" part="N">
+               <p>ὥσπερ εἰώθει, περιπατοῦντα. καὶ παραυτίκα μὲν οὐδεὶς ἔσχεν αὐτοῦ λόγον οὐδένα τεθνηκότος, ἀλλὰ τῶν μὲν <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc/neut:gen 0360214:*)aqhnai=os:ethnic:fem:gen 0017075:*)aqh/naios:group:masc:gen 0000001:*)aqh/naion:noclass:neut:gen 0000001:*)aqh/naia:noclass:neut:gen">Ἀθηναίων</name> ἐβασίλευσε <name type="person" key="0003235:*menesqeu/s:person:masc:nom">Μενεσθεύς</name>, οἱ δὲ παῖδες ἰδιωτεύοντες <name type="person" key="0002422:*)elefh/nwr:person:masc:dat">Ἐλεφήνορι</name> συνεστράτευσαν εἰς <name type="place"
+                        key="0012072:*)/ilios:place:neut:nom/voc/acc 0012072:*)/ilios:place:masc:acc 0012072:*)/ilios:place:masc/fem:acc 0012072:*)/ilios:place:fem:acc 0011072:*)/ilion:place:neut:nom/voc/acc">Ἴλιον</name>. ἐκεῖ δὲ <name type="person"
+                        key="0003235:*menesqeu/s:person:masc:nom 0003235:*menesqeu/s:person:masc:gen">Μενεσθέως</name> ἀποθανόντος ἐπανελθόντες αὐτοὶ τὴν βασιλείαν ἀνεκομίσαντο. χρόνοις δ᾽ ὕστερον <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc:acc 0017075:*)aqh/naios:group:masc:acc">Ἀθηναίους</name> ἄλλα τε παρέστησεν ὡς ἥρωα τιμᾶν <name type="person" key="0011892:*qhseu/s:person:masc:acc">Θησέα</name>, καὶ τῶν ἐν <name type="place"
+                        key="0011836:*maraqw/n:place:masc:dat 0000970:*maraqw/n:person:masc:dat">Μαραθῶνι</name> πρὸς <name type="ethnic"
+                        key="0013321:*mh=dos:ethnic:masc:acc 0001049:*mh=dos:place:masc:acc 0000415:*mh=dos:group:masc:acc">Μήδους</name> μαχομένων ἔδοξαν οὐκ ὀλίγοι φάσμα <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> ἐν ὅπλοις καθορᾶν πρὸ αὐτῶν ἐπὶ τοὺς βαρβάρους φερόμενον.
+</p>
+            </div>
+         </div>
+         <div type="chapter" n="36" org="uniform" sample="complete" part="N">
+            <div type="section" n="1" org="uniform" sample="complete" part="N">
+               <p>μετὰ δὲ τὰ <name type="ethnic"
+                        key="0013321:*mhdiko/s:ethnic:neut:nom/voc/acc 0013321:*mhdiko/s:ethnic:fem:nom/voc/acc 0013321:*mhdiko/s:ethnic:fem:nom/voc">Μηδικὰ</name>
+                  <name type="person" key="0005023:*fai/dwn:person:masc:gen">Φαίδωνος</name> ἄρχοντος μαντευομένοις τοῖς <name type="ethnic"
+                        key="0360214:*)aqhnai=os:ethnic:masc/neut:dat 0017075:*)aqh/naios:group:masc:dat 0000001:*)aqh/naion:noclass:neut:dat 0000001:*)aqh/naia:noclass:neut:dat">Ἀθηναίοις</name> ἀνεῖλεν ἡ <name type="person"
+                        key="0000558:*pu/qios:person:fem:nom/voc/acc 0000558:*pu/qios:person:fem:nom/voc 0000001:*puqi/a:noclass:fem:nom/voc/acc 0000001:*puqi/a:noclass:fem:nom/voc">Πυθία</name> τὰ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> ἀναλαβεῖν ὀστᾶ καὶ θεμένους ἐντίμως παρ᾽ αὑτοῖς φυλάττειν. ἦν δὲ καὶ λαβεῖν ἀπορία καὶ γνῶναι τὸν τάφον ἀμιξίᾳ καὶ χαλεπότητι τῶν ἐνοικούντων <name type="group" key="0001000:*do/loy-pl:group:masc:gen">Δολόπων</name>. οὐ μὴν ἀλλὰ <name type="person" key="0000809:*ki/mwn:person:masc:nom/voc">Κίμων</name> ἑλὼν τὴν νῆσον, ὡς ἐν τοῖς περὶ ἐκείνου γέγραπται, καὶ φιλοτιμούμενος ἐξανευρεῖν, ἀετοῦ τινα τόπον βουνοειδῆ κόπτοντος, ὥς φασι, τῷ στόματι καὶ διαστέλλοντος τοῖς ὄνυξι θείᾳ τινὶ τύχῃ συμφρονήσας ἀνέσκαψεν.
+</p>
+            </div>
+            <div type="section" n="2" org="uniform" sample="complete" part="N">
+               <p>εὑρέθη δὲ θήκη τε μεγάλου σώματος αἰχμή τε παρακειμένη χαλκῆ καὶ ξίφος. κομισθέντων δὲ τούτων ὑπὸ <name type="person" key="0000809:*ki/mwn:person:masc:gen">Κίμωνος</name> ἐπὶ τῆς τριήρους, ἡσθέντες οἱ <name type="ethnic" key="0360214:*)aqhnai=os:ethnic:masc:nom/voc">Ἀθηναῖοι</name> πομπαῖς τε λαμπραῖς ἐδέξαντο καὶ θυσίαις ὥσπερ αὐτὸν ἐπανερχόμενον εἰς τὸ ἄστυ. καὶ κεῖται μὲν ἐν μέσῃ τῇ πόλει παρὰ τὸ νῦν γυμνάσιον, ἔστι δὲ φύξιμον οἰκέταις καὶ πᾶσι τοῖς ταπεινοτέροις καὶ δεδιόσι κρείττονας, ὡς καὶ τοῦ <name type="person"
+                        key="0011892:*qhseu/s:person:masc:nom 0011892:*qhseu/s:person:masc:gen">Θησέως</name> προστατικοῦ τινος καὶ βοηθητικοῦ γενομένου καὶ προσδεχομένου φιλανθρώπως τὰς τῶν ταπεινοτέρων δεήσεις.
+</p>
+            </div>
+            <div type="section" n="3" org="uniform" sample="complete" part="N">
+               <p>θυσίαν δὲ ποιοῦσιν αὐτῷ τὴν μεγίστην ὀγδόῃ <name type="person" key="0001000:*puaneyiw/n:person:masc:gen">Πυανεψιῶνος</name>, ἐν ᾗ μετὰ τῶν ἠϊθέων ἐκ <name type="place" key="0021498:*krh/th:place:fem:gen 0000528:*krh/th:person:fem:gen">Κρήτης</name> ἐπανῆλθεν. οὐ μὴν ἀλλὰ καὶ ταῖς ἄλλαις ὀγδόαις τιμῶσιν αὐτόν, ἢ διὰ τὸ πρῶτον ἐκ <name type="place"
+                        key="0013986:*troizh/n:place:fem:gen 0000393:*troizh/n:person:fem:gen">Τροιζῆνος</name> ἀφικέσθαι τῇ ὀγδόῃ τοῦ <name type="month" key="0002000:*(ekatombaiw/n:month:masc:gen">Ἑκατομβαιῶνος</name>, ὡς ἱστόρηκε <name type="person" key="0004054:*dio/dwros:person:masc:nom">Διόδωρος</name> ὁ περιηγητής, ἢ νομίζοντες ἑτέρου μᾶλλον ἐκείνῳ προσήκειν τὸν ἀριθμὸν τοῦτον ἐκ <name type="person" key="0016054:*poseidw=n:person:masc:gen">Ποσειδῶνος</name> γεγονέναι λεγομένῳ.
+</p>
+            </div>
+            <div type="section" n="4" org="uniform" sample="complete" part="N">
+               <p>καὶ γὰρ <name type="person" key="0016054:*poseidw=n:person:masc:acc">Ποσειδῶνα</name> ταῖς ὀγδόαις τιμῶσιν. ἡ γὰρ ὀγδοὰς κύβος ἀπ᾽ ἀρτίου πρῶτος οὖσα καὶ τοῦ πρώτου τετραγώνου διπλασία, τὸ μόνιμον καὶ δυσκίνητον οἰκεῖον ἔχει τῆς τοῦ θεοῦ δυνάμεως, ὃν ἀσφάλειον καὶ γαιήοχον προσονομάζομεν.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

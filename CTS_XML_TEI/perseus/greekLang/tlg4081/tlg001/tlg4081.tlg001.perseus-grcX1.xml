@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI n="colluthus01_gk.xml" xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Rape of Helen</title>
+            <author>Colluthus</author>
+            <sponsor>Perseus Project, Tufts University</sponsor>
+            <principal>Gregory Crane</principal>
+            <respStmt>
+               <resp>Prepared under the supervision of</resp>
+               <name>Lisa Cerrato</name>
+               <name>William Merrill</name>
+               <name>Elli Mylonas</name>
+               <name>David Smith</name>
+            </respStmt>
+         </titleStmt>
+         <extent>about 419Kb</extent>
+         <publicationStmt>
+            <publisher>Trustees of Tufts University</publisher>
+            <pubPlace>Medford, MA</pubPlace>
+         </publicationStmt>
+         <notesStmt>
+            <note anchored="true" place="unspecified"/>
+         </notesStmt>
+         <sourceDesc default="false">
+            <bibl default="false">
+               <author>Colluthus</author>
+               <editor role="editor">A. W. Mair</editor>
+               <title>Oppian, Colluthus, Tryphiodorus with an English Translation by A.W. Mair</title>
+               <publisher>London, William Heinemann, Ltd.; New York: G.P. Putnam's Sons</publisher>
+               <date>1928</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <refState unit="book" delim="."/>
+            <refState unit="line"/>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text xml:lang="greek" n="urn:cts:greekLang:tlg4081.tlg001.perseus-grcX1">
+      <body>
+         <div type="book" n="1" org="uniform" sample="complete" part="N">
+            <div type="line">
+               <p>
+                  <pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="1">
+               <p>νύμφαι Τρωιάδες, ποταμοῦ Ξάνθοιο γενέθλη,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="2">
+               <p>αἳ πλοκάμων κρήδεμνα καὶ ἱερὰ παίγνια χειρῶν
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="3">
+               <p>πολλάκι πατρῴῃσιν ἐπὶ ψαμάθοισι λιποῦσαι
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="4">
+               <p>ἐς χορὸν Ἰδαίῃσιν ἐπεντύνασθε χορείαις,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="5">
+               <p>δεῦτε, θεμιστοπόλοιο νοήματα μηλοβοτῆρος 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="6">
+               <p>εἴπατέ μοι, κελάδοντος ἀπορνύμεναι ποταμοῖο,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="7">
+               <p>ἐξ ὀρέων πόθεν ἦλθεν ἀήθεα πόντον ἐλαύνων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="8">
+               <p>ἀγνώσσων ἁλὸς ἔργα; τί δὲ χρέος ἔπλετο νηῶν
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="9">
+               <p>ἀρχεκάκων, ἵνα πόντον ὁμοῦ καὶ γαῖαν ὀρίνῃ
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="10">
+               <p>βουκόλος; ὠγυγίη δὲ τίς ἔπλετο νείκεος ἀρχή, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="11">
+               <p>ὄφρα καὶ ἀθανάτοισι θεμιστεύσωσι νομῆες;
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="12">
+               <p>τίς δὲ δικασπολίη; πόθεν ἔκλυεν οὔνομα νύμφης
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="13">
+               <p>Ἀργείης; αὐταὶ γὰρ ἐθηήσασθε μολοῦσαι
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="14">
+               <p>Ἰδαίης τρικάρηνον ὑπὸ πρηῶνα Φαλάκρης
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="15">
+               <p>καὶ Πάριν οἰοπόλοισιν ἐφεδριόωντα θοώκοις 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="16">
+               <p>καὶ Χαρίτων βασίλειαν ἀγαλλομένην Ἀφροδίτην.
+</p>
+               <p>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="17">
+               <p>ὣς ὁ μὲν ὑψιλόφοισιν ἐν οὔρεσιν Αἱμονιήων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="18">
+               <p>νυμφιδίων Πηλῆος ἀειδομένων ὑμεναίων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="19">
+               <p>Ζηνὸς ἐφημοσύνῃσιν ἐῳνοχόει Γανυμήδης:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="20">
+               <p>πᾶσα δὲ κυδαίνουσα θεῶν ἔσπευδε γενέθλη 
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="21">
+               <p>αὐτοκασιγνήτην λευκώλενον Ἀμφιτρίτης,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="22">
+               <p>Ζεὺς μὲν ἀπ᾽ Οὐλύμποιο, Ποσειδάων δὲ θαλάσσης:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="23">
+               <p>ἐκ δὲ Μελισσήεντος ἀπ᾽ εὐόδμου Ἑλικῶνος
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="24">
+               <p>Μουσάων λιγύφωνον ἄγων χορὸν ἦλθεν Ἀπόλλων:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="25">
+               <p>39 χρυσείοις <note n="1" place="unspecified" anchored="true">ιλ. 39, 40 σερε τρανσποσεδ το πρεξεδε 25 βψ γραεφε.</note> δ᾽ ἑκάτερθε τινασσόμενος πλοκάμοισι 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="26">
+               <p>40 βότρυς ἀκερσεκόμης ζεφύρῳ στυφελίζετο χαίτης.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="27">
+               <p>τὸν δὲ μεθ᾽ ὡμάρτησε κασιγνήτη Διὸς Ἥρη.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="28">
+               <p>οὐδ᾽ αὐτὴ βασίλεια καὶ ἁρμονίης Ἀφροδίτη
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="29">
+               <p>ἐρχομένη δήθυνεν ἐς ἄλσεα Κενταύροιο.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="30">
+               <p>καὶ στέφος ἀσκήσασα γαμήλιον ἤλυθε Πειθώ, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="31">
+               <p>τοξευτῆρος Ἔρωτος ἐλαφρίζουσα φαρέτρην.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="32">
+               <p>καὶ βριαρὴν τρυφάλειαν ἀπὸ κροτάφοιο μεθεῖσα
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="33">
+               <p>ἐς γάμον ὡμάρτησε γάμων ἀδίδακτος Ἀθήνη.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="34">
+               <p>οὐδὲ κασιγνήτη Λητωιὰς Ἀπόλλωνος
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="35">
+               <p>Ἄρτεμις ἠτίμησε καὶ ἀγροτέρη περ ἐοῦσα. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="36">
+               <p>οἷος δ᾽ οὐ κυνέην, οὐ δήιον ἔγχος ἀείρων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="37">
+               <p>ἐς δόμον Ἡφαίστοιο σιδήρεος ἔρχεται Ἄρης,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="38">
+               <p>τοῖος ἄτερ θώρηκος, ἄτερ θηκτοῖο σιδήρου
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="39">
+               <p>μειδιόων ἐχόρευεν. ἔριν δ᾽ ἀγέραστον ἐάσας
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="40">
+               <p>οὐ Χείρων ἀλέγιζε καὶ οὐκ ἐμπάζετο Πηλεύς. 
+</p>
+               <p>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="41">
+               <p>ἡ δ᾽ ἅτε βησσήεντος ἀποπλαγχθεῖσα νομοῖο
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="42">
+               <p>πόρτις ἐρημαίῃσιν ἐνὶ ξυλόχοισιν ἀλᾶται
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="43">
+               <p>φοινήεντι μύωπι, βοῶν ἐλατῆρι, τυπεῖσα:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="44">
+               <p>τοῖα βαρυζήλοισιν Ἔρις πληγῇσι δαμεῖσα
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="45">
+               <p>πλάζετο μαστεύουσα, θεῶν πῶς δαῖτας ὀρίνοι. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="46">
+               <p>πολλάκι δ᾽ εὐλάιγγος ἀπὸ κλισμοῖο θοροῦσα
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="47">
+               <p>ἵστατο καὶ παλίνορσος ἐφέζετο: χειρὶ δὲ γαίης
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="48">
+               <p>οὔδεϊ κόλπον ἄραξε καὶ οὐκ ἐφράσσατο πέρην:
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="49">
+               <p>ἤθελεν ὀρφναίων γυάλων κληῖδας ἀνεῖσα,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="50">
+               <p>ἐκ χθονίων Τιτῆνας ἀναστήσασα βερέθρων 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="51">
+               <p>οὐρανὸν ὑψιμέδοντος ἀιστῶσαι Διὸς ἕδρην.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="52">
+               <p>ἤθελεν ἠχήεντα πυρὸς πρηστῆρα τινάσσειν,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="53">
+               <p>Ἡφαίστῳ δ᾽ ὑπόεικεν ἀμαιμακέτη περ ἐοῦσα,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="54">
+               <p>καὶ πυρὸς ἀσβέστοιο καὶ ὀπτευτῆρι σιδήρου.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="55">
+               <p>καὶ σακέων βαρύδουπον ἐμήσατο κόμπον ἀράσσειν, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="56">
+               <p>εἴ ποτε δειμαίνοντες ἀναθρῴσκοιεν ἰωήν:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="57">
+               <p>ἀλλά καὶ ὁπλοτέρης δολίης ἀνεχάσσατο βουλῆς
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="58">
+               <p>Ἄρεα δειμαίνουσα, σιδήρεον ἀσπιδιώτην.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="59">
+               <p>ἤδη δ᾽ Ἑσπερίδων χρυσέων ἐμνήσατο μήλων:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="60">
+               <p>ἔνθεν Ἔρις, πολέμοιο προάγγελον ἔρνος ἑλοῦσα 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="61">
+               <p>μῆλον, ἀριζήλων ἐφράσσατο δήνεα μόχθων.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="62">
+               <p>χειρὶ δὲ δινήσασα μόθου πρωτόσπορον ἀρχὴν
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="63">
+               <p>ἐς θαλίην ἔρριψε, χορὸν δ᾽ ὤρινε θεάων.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="64">
+               <p>Ἥρη μὲν παράκοιτις ἀγαλλομένη Διὸς εὐνῇ
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="65">
+               <p>ἵστατο θαμβήσασα καὶ ἤθελε ληίζεσθαι: 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="66">
+               <p>πασάων δ᾽ ἅτε Κύπρις ἀρειοτέρη γεγαυῖα
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="67">
+               <p>μῆλον ἔχειν ἐπόθησεν, ὅτι κτέρας ἐστὶν Ἐρώτων:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="68">
+               <p>Ἥρη δ᾽ οὐ μεθέηκε καὶ οὐχ ὑπόεικεν Ἀθήνη.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="69">
+               <p>Ζεὺς δὲ θεῶν καὶ νεῖκος ἰδὼν καὶ παῖδα καλέσσας
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="70">
+               <p>τοῖον ὑφεδρήσσοντα προσέννεπεν Ἑρμάωνα: 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="71">
+               <p>εἴ τινά που Ξάνθοιο παρ᾽ Ἰδαίοιο ῥεέθροις
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="72">
+               <p>παῖδα Πάριν Πριάμοιο, τὸν ἀγλαὸν ἡβητῆρα,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="73">
+               <p>Τροίης βουκολέοντα κατ᾽ οὔρεα, τέκνον, ἀκούεις,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="74">
+               <p>κείνῳ μῆλον ὄπαζε: διακρίνειν δὲ θεάων
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="75">
+               <p>κέκλεο καὶ βλεφάρων ξυνοχὴν καὶ κύκλα προσώπων. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="76">
+               <p>ἡ δὲ διακρινθεῖσα φέρειν περίπυστον ὀπώρην
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="77">
+               <p>κάρτος ἀρειοτέρης ἐχέτω καὶ κόσμον Ἐρώτων.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="78">
+               <p>ὣς ὁ μὲν Ἑρμάωνι πατὴρ ἐπέτελλε Κρονίων:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="79">
+               <p>αὐτὰρ ὁ πατρῴῃσιν ἐφημοσύνῃσι πιθήσας
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="80">
+               <p>εἰς ὁδὸν ἡγεμόνευε καὶ οὐκ ἀμέλησε θεάων. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="81">
+               <p>πᾶσα δὲ λωιτέρην καὶ ἀμείνονα δίζετο μορφήν.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="82">
+               <p>Κύπρις μὲν δολόμητις ἀναπτύξασα καλύπτρην
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="83">
+               <p>λαὶ περόνην θυόεντα <note n="1" place="unspecified" anchored="true">σο ινφεριορ μσς., μακινγ θυόεντα φεμινινε; πτερὸν ʽ??ʼθυνθέντα Μ.</note> διαστήσασα κομάων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="84">
+               <p>χρυσῷ μὲν πλοκάμους, χρυσῷ δ᾽ ἐστέψατο χαίτην.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="85">
+               <p>τοῖα δὲ παῖδας Ἔρωτας ἀνηΰτησεν ἰδοῦσα: 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="86">
+               <p>ἐγγὺς ἀγών, φίλα τέκνα: περιπτύξασθε τιθήνην.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="87">
+               <p>σήμερον ἀγλαΐαι με διακρίνουσι προσώπων:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="88">
+               <p>δειμαίνω, τίνι μῆλον ὁ βουκόλος οὗτος ὀπάσσει.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="89">
+               <p>Ἥρην μὲν Χαρίτων ἱερὴν ἐνέπουσι τιθήνην,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="90">
+               <p>φασὶ δὲ κοιρανίην μεθέπειν καὶ σκῆπτρα φυλάσσειν: 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="91">
+               <p>καὶ πολέμων βασίλειαν ἀεὶ καλέουσιν Ἀθήνην:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="92">
+               <p>μούνη Κύπρις ἄναλκις ἔην θεός. οὐ βασιλήων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="93">
+               <p>κοιρανίην, οὐκ ἔγχος ἀρήιον, οὐ βέλος ἕλκω.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="94">
+               <p>ἀλλὰ τί δειμαίνω περιώσιον ἀντὶ μὲν αἰχμῆς
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="95">
+               <p>ὡς θοὸν ἔγχος ἔχουσα μελίφρονα δεσμὸν ἐρώτων; 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="96">
+               <p>κεστὸν ἔχω καἰ κέντρον ἄγω καὶ τόξον ἀείρω,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="97">
+               <p>κεστόν, ὅθεν φιλότητος ἐμῆς ἐμὸν οἶστρον ἑλοῦσαι
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="98">
+               <p>πολλάκις ὠδίνουσι καὶ οὐ θνῄσκουσι γυναῖκες.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="99">
+               <p>τοῖον ἐφεσπομένη ῥοδοδάκτυλος ἔννεπε Κύπρις.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="100">
+               <p>οἱ δ᾽ ἄρα μητρῴης ἐρατῆς ἀίοντες ἐφετμῆς 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="101">
+               <p>φοιτητῆρες Ἔρωτες ἐπερρώοντο τιθήνῃ.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="102">
+               <p>ἄρτι μὲν Ἰδαίην ὑπερέδραμον οὔρεος ἄκρην,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="103">
+               <p>ἔνθα λιθοκρήδεμνον ὑπὸ πρηῶνος ἐρίπνην
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="104">
+               <p>κουρίζων ἐνόμευε Πάρις πατρώια μῆλα.
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="105">
+               <p>ποιμαίνων δ᾽ ἑκάτερθεν ἐπὶ προχοῇσιν ἀναύρου 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="106">
+               <p>νόσφι μέν ἀγρομένων ἀγέλην πεμπάζετο ταύρων,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="107">
+               <p>νόσφι δὲ βοσκομένων διεμέτρεε πώεα μήλων:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="108">
+               <p>καί τις ὀρεσσαύλοιο δορὴ μετόπισθε χιμαίρης
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="109">
+               <p>ἐκκρεμὲς ᾐώρητο καὶ αὐτῶν ἥπτετο μηρῶν,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="110">
+               <p>ποιμενίη δ᾽ ἀπέκειτο, βοῶν ἐλάτειρα, καλαῦροψ, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="111">
+               <p>τοῖος ἐπεὶ σύριγγος, ἐς ἤθεα βαιὸν ὁδεύων,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="112">
+               <p>ἀγροτέρων καλάμων λιγυρὴν ἐδίωκεν ἀοιδήν:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="113">
+               <p>πολλάκι δ᾽ οἰοπόλοισιν ἐνὶ σταθμοῖσιν ἀείδων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="114">
+               <p>καὶ ταύρων ἀμέλησε καὶ οὐκ ἐμπάζετο μήλων:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="115">
+               <p>ἔνθεν ἔχων σύριγγα κατ᾽ ἤθεα καλὰ νομήων 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="116">
+               <p>Πανὶ καὶ Ἑρμάωνι φίλην ἀνεβάλλετο μολπήν:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="117">
+               <p>οὐ κύνες ὠρύοντο καὶ οὐ μυκήσατο ταῦρος,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="118">
+               <p>μούνη δ᾽ ἠνεμόεσσα, βοῆς ἀδίδακτος ἐοῦσα,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="119">
+               <p>Ἰδαίων ὀρέων ἀντίθροος ἴαχεν Ἠχώ.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="120">
+               <p>ταῦροι δὲ χλοερῆς κεκορηότες ὑψόθι ποίης, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="121">
+               <p>κεκλιμένοι βαρύγουνον ἐπ᾽ ἰσχίον εὐνάζοντο.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="122">
+               <p>ὣς ὁ μὲν ὑψορόφοιο φυτῶν ὑπένερθε καλύπτρης
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="123">
+               <p>τηλόθεν Ἑρμάωνα διάκτορον εἶδε λιγαίνων.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="124">
+               <p>δειμαίνων δ᾽ ἀνόρουσε, θεῶν δ᾽ ἀλέεινεν ὀπωπήν:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="125">
+               <p>καὶ χορὸν εὐκελάδων δονάκων ἐπὶ φηγὸν ἐρείσας 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="126">
+               <p>μήπω πολλὰ καμοῦσαν ἑὴν ἀνέκοπτεν ἀοιδήν.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="127">
+               <p>τοῖα δὲ δειμαίνοντα θέσκελος Ἑρμῆς:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="128">
+               <p>γαῦλον ἀπορρίψας καὶ πώεα καλὰ μεθήσας
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="129">
+               <p>δεῦρο θεμιστεύσειας ἐπουρανίῃσι δικάζων:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="130">
+               <p>δεῦρο διακρίνων προφερέστερον εἶδος ὀπωπῆς 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="131">
+               <p>φαιδροτέρῃ τόδε μῆλον, ἐπήρατον ἔρνος, ὀπάσσαις.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="132">
+               <p>τοῖον ἀνηΰτησεν: ὁ δ᾽ ἤπιον ὄμμα τανύσσας
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="133">
+               <p>ἦκα διακρίνειν πειρήσατο κάλλος ἑκάστης.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="134">
+               <p>δέρκετο μὲν γλαυκῶν βλεφάρων σέλας, ἔδρακε δειρὴν
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="135">
+               <p>χρυσῷ δαιδαλέην, ἐφράσσατο κόσμον ἑκάστης 
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="136">
+               <p>καὶ πιέρνης μετόπισθε καὶ αὐτῶν ἴχνια ταρσῶν.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="137">
+               <p>χειρῶν μειδιόωντα δίκης προπάροιθεν ἑλοῦσα
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="138">
+               <p>τοῖον Ἀλεξάνδρῳ μυθήσατο μῦθον Ἀθήνη:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="139">
+               <p>δεῦρο, τέκος Πριάμοιο, Διὸς παράκοιτιν ἐάσας
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="140">
+               <p>καὶ θαλάμων βασίλειαν ἀτιμήσας Ἀφροδίτην 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="141">
+               <p>ἠνορέης ἐπίκουρον ἐπαινήσειας Ἀθήνην.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="142">
+               <p>φασί σε κοιρανέειν καὶ Τρώιον ἄστυ φυλάσσειν:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="143">
+               <p>δεῦρό σε τειρομένοισι σαόπτολιν ἀνδράσι θήσω,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="144">
+               <p>μή ποτέ σοι βαρύμηνις ἐπιβρίσειεν Ἐνυώ.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="145">
+               <p>πείθεο, καὶ πολέμους τε καὶ ἠνορέην σε διδάξω. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="146">
+               <p>ὣς ἡ μὲν πολύμητις ἀνηΰτησεν Ἀθήνη.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="147">
+               <p>τοῖα δ᾽ ὑποβλήδην λευκώλενος ἔννεπεν Ἥρη:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="148">
+               <p>εἴ με διακρίνων προφερέστερον ἔρνος ὀπάσσῃς,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="149">
+               <p>πάσης ἡμετέρης Ἀσίης ἡγήτορα θήσω.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="150">
+               <p>ἔργα μόθων ἀθέριζε: τί γὰρ πολέμων βασιλῆι; 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="151">
+               <p>κοίρανος ἰφθίμοισι καὶ ἀπτολέμοισι κελεύει.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="152">
+               <p>οὐκ αἰεὶ θεράποντες ἀριστεύουσιν Ἀθήνης:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="153">
+               <p>ὠκύμοροι θνῄσκουσιν ὑποδρηστῆρες Ἐνυοῦς.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="154">
+               <p>τοίην κοιρανίην πρωτόθρονος ὤπασεν Ἥρη.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="155">
+               <p>ἡ δ᾽ ἑανὸν βαθύκολπον, ἐς ἠέρα γυμνώσασα 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="156">
+               <p>κόλπον, ἀνῃώρησε καὶ οὐκ ᾐδέσσατο Κύπρις.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="157">
+               <p>χειρὶ δ᾽ ἐλαφρίζουσα μελίφρονα δεσμὸν ἐρώτων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="158">
+               <p>στῆθος ἅπαν γύμνωσε καὶ οὐκ ἐμνήσατο μαζῶν.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="159">
+               <p>τοῖα δὲ μειδιόωσα προσέννεπε μηλοβοτῆρα:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="160">
+               <p>δέξό με καὶ πολέμων ἐπιλήθεο, δέχνυσο μορφὴν 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="161">
+               <p>ἡμετέρην καὶ σκῆπτρα καὶ Ἀσίδα κάλλιπε γαῖαν.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="162">
+               <p>ἔργα μόθων οὐκ οἶδα: τί γὰρ σακέων Ἀφροδίτῃ;
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="163">
+               <p>ἀγλαΐῃ πολὺ μᾶλλον ἀριστεύουσι γυναῖκες.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="164">
+               <p>ἀντὶ μὲν ἠνορέης ἐρατὴν παράκοιτιν ὀπάσσω,
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="165">
+               <p>ἀντὶ δὲ κοιρανίης Ἑλένης ἐπιβήσεο λέκτρων: 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="166">
+               <p>νυμφίον ἀθρήσει σε μετὰ Τροίην Λακεδαίμων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="167">
+               <p>οὔπω μῦθος ἔληγεν, ὁ δ᾽ ἀγλαὸν ὤπασε μῆλον,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="168">
+               <p>ἀγλαΐης ἀνάθημα, μέγα κτέρας Ἀφρογενείῃ,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="169">
+               <p>φυταλιὴν πολέμοιο, κακὴν πολέμοιο γενέθλην.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="170">
+               <p>χειρὶ δὲ μῆλον ἔχουσα τόσην ἀνενείκατο φωνὴν 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="171">
+               <p>Ἥρην κερτομέουσα καὶ ἀντιάνειραν Ἀθήνην:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="172">
+               <p>εἴξατέ μοι πολέμοιο συνήθεες, εἴξατε νίκης.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="173">
+               <p>ἀγλαΐην ἐφίλησα, καὶ ἀγλαΐη με διώκει.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="174">
+               <p>φασί σε, μῆτερ Ἄρηος, ὑπ᾽ ὠδίνεσσιν ἀέξειν
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="175">
+               <p>ἠυκόμων Χαρίτων ἱερὸν χορόν: ἀλλά σε πᾶσαι 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="176">
+               <p>σήμερον ἠρνήσαντο, καὶ οὐ μίαν εὗρες ἀρωγόν.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="177">
+               <p>οὐ σακέων βασίλεια καὶ οὐ πυρός ἐσσι τιθήνη:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="178">
+               <p>οὔ σοι Ἄρης ἐπάρηξε, καὶ εἰ δορὶ μαίνεται Ἄρης,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="179">
+               <p>οὐ φλόγες Ἡφαίστοιο, καὶ εἰ φλογὸς ἆσθμα λοχεύει.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="180">
+               <p>οἶα δὲ κυδιάεις ἀνεμώλιος, Ἀτρυτώνη, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="181">
+               <p>ἣν γάμος οὐκ ἔσπειρε καὶ οὐ μαιώσατο μήτηρ,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="182">
+               <p>ἀλλὰ σιδηρείη σε τομὴ καὶ ῥίζα σιδήρου
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="183">
+               <p>πατρῴων ἀλόχευτον ἀνεβλάστησε καρήνων.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="184">
+               <p>οἶα δὲ χαλκείοισι καλυψαμένη χρόα πέπλοις
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="185">
+               <p>καὶ φεύγεις φιλότητα καὶ Ἄρεος ἔργα διώκεις, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="186">
+               <p>ἁρμονίης ἀδίδακτος, ὁμοφροσύνης ἀδαήμων.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="187">
+               <p>ἀγνώσσεις, ὅτι μᾶλλον ἀνάλκιδές εἰσιν Ἀθῆναι
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="188">
+               <p>τοῖαι, κυδαλίμοισιν ἀγαλλόμεναι πολέμοισι,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="189">
+               <p>κεκριμένων μελέων οὔτ᾽ ἄρσενες οὔτε γυναῖκες;
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="190">
+               <p>τοῖον ἐφυβρίζουσα προσέννεπε Κύπρις Ἀθήνην, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="191">
+               <p>ὣς ἡ μὲν πτολίπορθον ἀέθλιον ἔλλαχε μορφῆς
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="192">
+               <p>Ἥρην ἐξελάσασα καὶ ἀσχαλόωσαν Ἀθήνην:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="193">
+               <p>ἱμείρων δ᾽ ὑπ᾽ ἔρωτι καὶ ἣν οὐκ εἶδε διώκων,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="194">
+               <p>Δύσπαρις ἀθροίσας ἐπὶ δάσκιον ἤγαγεν ὕλην
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="195">
+               <p>ἀνέρας ἐργοπόνοιο δαήμονας Ἀτρυτώνης. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="196">
+               <p>ἔνθα πολυπ0ρέμνοιο δαϊζόμεναι δρύες Ἴδης
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="197">
+               <p>ἤριπον ἀρχεκάκοιο περιφροσύνῃσι Φερέκλου,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="198">
+               <p>ὅς τότε μαργαίνοντι χαριζόμενος βασιλῆι
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="199">
+               <p>νῆας Ἀλεξάνδρῳ δρυτόμῳ τεκτήνατο χαλκῷ.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="200">
+               <p>αὐτῆμαρ προβέβουλε καὶ αὐτῆμαρ κάμε νῆας, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="201">
+               <p>νῆας δ᾽ οὐκ ἐνόησε καὶ οὐκ ἤσκησεν Ἀθήνη.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="202">
+               <p>ἄρτι μὲν Ἰδαίων ὀρέων ἠλλάξατο πόντον
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="203">
+               <p>καὶ λεχέων ἐπίκουρον ἐφεσπομένην Ἀφροδίτην
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="204">
+               <p>πολλάκις ἀκταίοισιν ἱλασσάμενος θυέεσσιν
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="205">
+               <p>ἔπλεεν Ἑλλήσποντον ἐπ᾽ εὐρέα νῶτα θαλάσσης, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="206">
+               <p>τῷ δὲ πολυτλήτων σημήια φαίνετο μόχθων.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="207">
+               <p>κυανέη μὲν ὕπερθεν ἀναθρώσκουσα θάλασσα
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="208">
+               <p>οὐρανὸν ὀρφναίων ἑλίκων ἐζώσατο δεσμῷ
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="209">
+               <p>εἶθαρ ἀμιχθαλόεντος ἀπ᾽ ἠέρος ὄμβρον ἱεῖσα,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="210">
+               <p>ἐκλύσθη δέ τε πόντος ἐρεσσομένων ἐρετάων. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="211">
+               <p>τόφρα δὲ Δαρδανίην καὶ Τρώιον οὖδας ἀμείψας
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="212">
+               <p>Ἰσμαρίδος μεθέηκε παραπλώων στόμα λίμνης,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="213">
+               <p>αἶψα δὲ Θρηικίοιο μετ᾽ οὔρεα Παγγαίοιο
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="214">
+               <p>Φυλλίδος ἀντέλλοντα φιλήνορος ἔδρακε τύμβον
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="215">
+               <p>καὶ δρόμον ἐννεάκυκλον ἀλήμονος εἶδε κελεύθου, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="216">
+               <p>ἔνθα διαστείχουσα κινύρεο, Φυλλίς, ἀκοίτην
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="217">
+               <p>δεχνυμένη παλίνορσον ἀπήμονα Δημοφόωντα,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="218">
+               <p>ὁππότε νοστήσειεν Ἀθηναίης ἀπὸ δήμων.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="219">
+               <p>τῷ δὲ βαθυκλήροιο διὰ χθονὸς Αἱμονιήων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="220">
+               <p>ἐξαπίνης ἀνέτελλεν Ἀχαιίδος ἄνθεα γαίης, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="221">
+               <p>Φθίη βωτιάνειρα καὶ εὐρυάγυια Μυκήνη.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="222">
+               <p>ἔνθεν ἀνερχομένοιο παρ᾽ εἰαμενὰς Ἐρυμάνθου
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="223">
+               <p>Σπάρτην καλλιγύναικα, φίλην πόλιν Ἀτρείωνος,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="224">
+               <p>κεκλιμένην ἐνόησεν ἐπ᾽ Εὐρώταο ῥεέθροις.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="225">
+               <p>ἄγχι δὲ ναιομένην ὑπὸ δάσκιον οὔρεος ὕλην 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="226">
+               <p>γείτονα παπταίνων ἐρατὴν θηεῖτο Θεράπνην.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="227">
+               <p>οὔπω κεῖθεν ἔην δολιχὸς πλόος, οὐδέ γαλήνης
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="228">
+               <p>δηρὸν ἐρεσσομένων ἠκούετο δοῦπος ἐρετμῶν,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="229">
+               <p>καὶ χθονὸς εὐκόλποισιν ἐπ᾽ ἠιόνεσσι βαλόντες
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="230">
+               <p>πείσματα νηὸς ἔδησαν, ὅσοις ἁλὸς ἔργα μεμήλει. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="231">
+               <p>αὐτὰρ ὁ χιονέοιο λοεσσάμενος ποταμοῖο
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="232">
+               <p>ᾤχετο φειδομένοισιν ἐπ᾽ ἴχνεσιν ἴχνος ἐρείδων,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="233">
+               <p>μὴ πόδες ἱμερόεντες ὑποχραίνοιντο κονίης,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="234">
+               <p>μὴ πλοκάμων κυνέῃσιν ἐπιβρίσαντες ἐθείρας
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="235">
+               <p>ὀξύτερον σπεύδοντος ἀναστέλλοιεν ἀῆται. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="236">
+               <p>ἄρτι μὲν αἰπύδμητα φιλοξείνων ναετήρων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="237">
+               <p>δώματα παπταίνων καὶ γείτονας ἐγγύθι νηοὺς
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="238">
+               <p>ἄστεος ἀγλαΐην διεμέτρεεν, ἔνθα μὲν αὐτῆς
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="239">
+               <p>χρύσεον ἐνδαπίης θηεύμενος εἶδος Ἀθήνης,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="240">
+               <p>ἔνθα δὲ Καρνείοιο φίλον κτέρας Ἀπόλλωνος 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="241">
+               <p>οἶκον Ἀμυκλαίοιο παραγνάμψας Ὑακίνθου,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="242">
+               <p>ὅν ποτε κουρίζοντα σὺν Ἀπόλλωνι νοήσας
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="243">
+               <p>δῆμος Ἀμυκλαίων ἠγάσσατο, μὴ Διὶ Λητὼ
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="244">
+               <p>κυσαμένη καὶ τοῦτον ἀνήγαγεν: αὐτὰρ Ἀπόλλων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="245">
+               <p>οὐκ ἐκάη Ζεφύρῳ ζηλήμονι παῖδα φυλάσσων. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="246">
+               <p>γαῖα δὲ δακρύσαντι χαριζομένη βασιλῆι
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="247">
+               <p>ἄνθος ἀνηέξησε, παραίφασιν Ἀπόλλωνος,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="248">
+               <p>ἄνθος ἀριζήλοιο φερώνυμον ἡβητῆρος.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="249">
+               <p>ἤδη δ᾽ ἀγχιδόμοισιν ἐπ᾽ Ἀτρείδαο μελάθροις
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="250">
+               <p>ἵστατο θεσπεσίῃσιν ἀγαλλόμενος χαρίτεσσιν. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="251">
+               <p>οὐ Διὶ τοῖον ἔτικτεν ἐπήρατον υἷα Θυώνη:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="252">
+               <p>ἱλήκοις, Διόνυσε: καὶ εἰ Διός ἐσσι γενέθλης,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="253">
+               <p>καλὸς ἔην καὶ καὶ κεῖνος ἐπ᾽ ἀγλαΐῃσι προσώπων.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="254">
+               <p>ἡ δὲ φιλοξείνων θαλάμων κληῖδας ἀνεῖσα 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="255">
+               <p>ἐξαπίνης Ἑλένη μετεκίαθε δώματος αὐλὴν 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="256">
+               <p>καὶ θαλερῶν προπάροιθεν ὀπιπεύουσα θυράων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="257">
+               <p>ὡς ἴδεν, ὣς ἐκάλεσσε καὶ ἐς μυχὸν ἤγαγεν οἴκου
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="258">
+               <p>καί μιν ἐφεδρήσσειν νεοπηγέος ὑψόθεν ἕδρης
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="259">
+               <p>ἀργυρέης ἐπέτελλε: κόρον δ᾽ οὐκ εἶχεν ὀπωπῆς
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="260">
+               <p>ἄλλοτε δὴ χρύσειον ὀισαμένη Κυθερείης 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="261">
+               <p>κοῦρον ὀπιπεύειν θαλαμηπόλον—ὀψὲ δ᾽ ἀνέγνω,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="262">
+               <p>ὡς οὐκ ἔστιν Ἔρως: βελέων δ᾽ οὐκ εἶδε φαρέτρην—
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="263">
+               <p>πολλάκι δ᾽ ἀγλαΐῃσιν ἐυγλήνοισι προσώπων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="264">
+               <p>παπταίνειν ἐδόκευε τὸν ἡμερίδων βασιλῆα:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="265">
+               <p>ἀλλ᾽ οὐχ ἡμερίδων θαλερὴν ἐδόκευεν ὀπώρην 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="266">
+               <p>πεπταμένην χαρίεντος ἐπὶ ξυνοχῇσι καρήνου.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="267">
+               <p>ὀψὲ δὲ θαμβήσασα τόσην ἀνενείκατο φωνήν:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="268">
+               <p>ξεῖνε, πόθεν τελέθεις; ἐρατὸν γένος εἰπὲ καὶ ἡμῖν.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="269">
+               <p>ἀγλαΐην μὲν ἔοικας ἀριζήλῳ βασιλῆι,
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="270">
+               <p>ἀλλὰ τεὴν οὐκ οἶδα παρ᾽ Ἀργείοισι γενέθλην. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="271">
+               <p>πᾶσαν Δευκαλίωνος ἀμύμονος οἶδα γενέθλην:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="272">
+               <p>οὐ Πύλον ἠμαθόεσσαν ἔχεις, Νηλήιον οὖδας,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="273">
+               <p>—Ἀντίλοχον δεδάηκα, τεὴν δ᾽ οὐκ εἶδον ὀπωπὴν
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="274">
+               <p>οὐ Φθίην χαρίεσσαν, ἀριστήων τροφὸν ἀνδρῶν:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="275">
+               <p>οἶδα περικλήιστον ὅλον γένος Αἰακιδάων, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="276">
+               <p>ἀγλαΐην Πηλῆος, ἐυκλείην Τελαμῶνος,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="277">
+               <p>ἤθεα Πατρόκλοιο καὶ ἠνορέην Ἀχιλῆος.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="278">
+               <p>τοῖα Πάριν ποθέουσα λιγύθροος ἔννεπε νύμφη:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="279">
+               <p>αὐτὰρ ὁ μειλιχίην ἠμείβετο γῆρυν ἀνοίξας:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="280">
+               <p>εἴ τινά που Φρυγίης ἐνὶ πείρασι γαῖαν ἀκούεις, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="281">
+               <p>Ἴλιον, ἣν πύργωσε Ποσειδάων καὶ Ἀπόλλων:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="282">
+               <p>εἴ τινά που πολύολβον ἐνὶ Τροίῃ βασιλῆα
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="283">
+               <p>ἔκλυες εὐώδινος ἀπὸ Κρονίδαο γενέθλης:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="284">
+               <p>ἔνθεν ἀριστεύων ἐμφύλια πάντα διώκω.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="285">
+               <p>εἰμί, γύναι, Πριάμοιο πολυχρύσου φίλος υἱός, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="286">
+               <p>εἰμὶ δὲ Δαρδανίδης: ὁ δὲ Δάρδανος ἐκ Διὸς ἦεν,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="287">
+               <p>ᾧ καὶ ἀπ᾽ Οὐλύμποιο θεοὶ ξυνήονες ἀνδρῶν
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="288">
+               <p>πολλάκι θητεύουσι καὶ ἀθάνατοί περ ἐόντες:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="289">
+               <p>ὧν ὁ μὲν ἡμετέρης δωμήσατο τείχεα πάτρης,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="290">
+               <p>τείχεα μαρμαίροντα, Ποσειδάων καὶ Ἀπόλλων. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="291">
+               <p>αὐτὰρ ἐγώ, βασίλεια, δικασπόλος εἰμὶ θεάων:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="292">
+               <p>καὶ γὰρ ἀκηχεμένῃσιν ἐπουρανίῃσι δικάζων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="293">
+               <p>Κύπριδος ἀγλαΐην καὶ ἐπήρατον ᾔνεσα μορφήν,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="294">
+               <p>ἡ δὲ περικλήιστον, ἐμῶν ἀντάξιον ἔργων,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="295">
+               <p>νύμφην ἱμερόεσσαν ἐμοὶ κατένευσεν ὀπάσσαι, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="296">
+               <p>ἣν Ἑλένην ἐνέπουσι, κασιγνήτην Ἀφροδίτης,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="297">
+               <p>ἧς ἕνεκεν τέτληκα καὶ οἴδματα τόσσα περῆσαι.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="298">
+               <p>δεῦρο γάμον κεράσωμεν, ἐπεὶ Κυθέρεια κελεύει:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="299">
+               <p>μή με καταισχύνειας, ἐμὴν <add>μὴ</add> Κύπριν ἐλέγξῃς.
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="300">
+               <p>οὐκ ἐρέω: τί δὲ τόσσον ἐπισταμένην σε διδάξω; 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="301">
+               <p>οἶσθα γάρ, ὡς Μενέλαος ἀνάλκιδός ἐστι γενέθλης:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="302">
+               <p>οὐ τοῖαι γεγάασιν ἐν Ἀργείοισι γυναῖκες,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="303">
+               <p>καὶ γὰρ ἀκιδνοτέροισιν ἀεξόμεναι μελέεσσιν
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="304">
+               <p>ἀνδρῶν εἶδος ἔχουσι, νόθοι δ᾽ ἐγένοντο γυναῖκες.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="305">
+               <p>ἔννεπεν: ἡ δ᾽ ἐρόεσσαν ἐπὶ χθονὶ πῆξεν ὀπωπὴν 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="306">
+               <p>δηρὸν ἀμηχανέουσα καὶ οὐκ ἠμείβετο νύμφη.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="307">
+               <p>ὀψὲ δὲ θαμβήσασα τόσην ἀνενείκατο φωνήν:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="308">
+               <p>ἀτρεκέως, ὦ ξεῖνε, τεῆς ποτε πυθμένα πάτρης
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="309">
+               <p>τὸ πρὶν ἐδωμήσαντο Ποσειδάων καὶ Ἀπόλλων;
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="310">
+               <p>ἤθελον ἀθανάτων δαιδάλματα κεῖνα νοῆσαι 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="311">
+               <p>καὶ νομὸν οἰοπόλοιο λιγύπνοον Ἀπόλλωνος,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="312">
+               <p>ἔνθα θεοδμήτοισι παρὰ προθύροισι πυλάων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="313">
+               <p>πολλάκις εἰλιπόδεσσιν ἐφέσπετο βουσὶν Ἀπόλλων.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="314">
+               <p>ἀγρέο νῆν Σπάρτηθεν ἐπὶ Τροίην με κομίζων.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="315">
+               <p>ἕψομαι, ὡς Κυθέρεια γάμων βασίλεια κελεύει. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="316">
+               <p>οὐ τρομέω Μενέλαον, ὅταν Τροίη με νοήσῃ:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="317">
+               <p>τοίην συνθεσίην καλλίσφυρος ἔννεπε νύμφη.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="318">
+               <p>νὺξ δέ, πόνων ἄμπαυμα μετ᾽ ἠελίοιο κελεύθους,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="319">
+               <p>ὕπνον ἐλαφρίζουσα, παρήορον ὤπασεν ἠῶ
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="320">
+               <p>ἀρχομένην: δοιὰς δὲ πύλας ὤιξεν ὀνείρων, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="321">
+               <p>τὴν μὲν ἀληθείησ—κεράων ἀπελάμπετο κόσμοσ—
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="322">
+               <p>ἔνθεν ἀναθρῴσκουσι θεῶν νημερτέες ὀμφαί,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="323">
+               <p>τὴν δὲ δολοφροσύνης, κενεῶν θρέπτειραν ὀνείρων.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="324">
+               <p>αὐτὰρ ὁ ποντοπόρων Ἑλένην ἐπὶ σέλματα νηῶν
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="325">
+               <p>ἐκ θαλάμων ἐκόμισσε φιλοξείνου Μενελάου, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="326">
+               <p>κυδιόων δ᾽ ὑπέροπλον ὑποσχεσίῃ Κυθερείης
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="327">
+               <p>φόρτον ἄγων ἔσπευδεν ἐς Ἴλιον ἰωχμοῖο.
+</p>
+               <p>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="328">
+               <p>Ἑρμιόνη δ᾽ ἀνέμοισιν ἀπορρίψασα καλύπτρην
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="329">
+               <p>ἱσταμένης πολύδακρυς ἀνέστενεν ἠριγενείης,
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="330">
+               <p>πολλάκι δ᾽ ἀμφιπόλους θαλάμων ἔκτοσθε λαβοῦσα, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="331">
+               <p>ὀξύτατον βοόωσα τόσην ἀνενείκατο φωνήν:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="332">
+               <p>παῖδες, πῆ με λιποῦσα πολύστονον ᾤχετο μήτηρ,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="333">
+               <p>ἣ χθιζόν σὺν ἐμοὶ θαλάμων κληῖδας ἑλοῦσα
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="334">
+               <p>ἔδραθεν ὑπνώουσα καὶ ἐς μίαν ἤλυθεν εὐνήν;
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="335">
+               <p>ἔννεπε δακρυχέουσα, συνωδύροντο δὲ παῖδες. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="336">
+               <p>ἀγρόμεναι δ᾽ ἑκάτερθεν ἐπὶ προθύροισιν ἐρύκειν
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="337">
+               <p>Ἑρμιόνην στενάχουσαν ἐπειρήσαντο γυναῖκες:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="338">
+               <p>τέκνον ὀδυρομένη, γόον εὔνασον. Ὤιετο μήτηρ,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="339">
+               <p>νοστήσει παλίνορσος: ἔτι κλαίουσα νοήσεις.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="340">
+               <p>οὐχ ὁράᾳς; γοεραί μὲν ἐπιμύουσιν ὀπωπαί, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="341">
+               <p>πυκνὰ δὲ μυρομένης θαλεραὶ μινύθουσι παρειαί.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="342">
+               <p>ἦ τάχα νυμφάων ἐς ὁμήγυριν ἀγρομενάων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="343">
+               <p>ἤλυθεν, ἰθείης δὲ παραπλάζουσα κελεύθου
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="344">
+               <p>ἵσταται ἀσχαλόωσα, καὶ ἐς λειμῶνα μολοῦσα
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="345">
+               <p>ὡράων δροσόεντος ὑπὲρ πεδίοιο θαάσσει, 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="346">
+               <p>ἢ χρόα πατρῴοιο λοεσσομένη ποταμοῖο
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="347">
+               <p>ᾤχετο καὶ δήθυνεν ἐπ᾽ Εὐρώταο ῥεέθροις.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="348">
+               <p>τοῖα δὲ δακρύσασα πολύστονος ἔννεπε κούρη:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="349">
+               <p>οἶδεν ὄρος, ποταμῶν ἐδάη ῥόον, οἶδε κελεύθους
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="350">
+               <p>ἐς ῥόδον, ἐς λειμῶνα: τί μοι φθέγγεσθε, γυναῖκες; 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="351">
+               <p>ἀστέρες ὑπνώουσι, καὶ ἐν σκοπέλοισιν ἰαύει:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="352">
+               <p>ἀστέρες ἀντέλλουσι, καὶ οὐ παλίνορσος ἱκάνει.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="353">
+               <p>μῆτερ ἐμή, τίνα χῶρον ἔχεις; τίνα δ᾽ οὔρεα ναίεις;
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="354">
+               <p>πλαζομένην θῆρές σε κατέκτανον; ἀλλὰ καὶ αὐτοὶ
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="355">
+               <p>θῆρες ἀριζήλοιο Διὸς τρομέουσι γενέθλην 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="356">
+               <p>ἤριπες ἐξ ὀχέων χθαμαλῆς ἐπὶ νῶτα κονίης
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="357">
+               <p>σὸν δέμας οἰοπόλοισιν ἐνὶ δρυμοῖσι λιποῦσα;
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="358">
+               <p>ἀλλὰ πολυπρέμνων ξυλόχων ὑπὸ δάσκιον ὕλην
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="359">
+               <p>δένδρεα παπτήνασα καὶ αὐτῶν μέχρι πετήλων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="360">
+               <p>σὸν δέμας οὐκ ἐνόησα: καὶ οὐ νεμεσίζομαι ὕλῃ. 
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="361">
+               <p>μὴ διεροῖς στονόεντος ἐπ᾽ Εὐρώταο ῥεέθροις
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="362">
+               <p>νηχομένην ἐκάλυψεν ὑποβρυχίην σε γαλήνη;
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="363">
+               <p>ἀλλὰ καὶ ἐν ποταμοῖσι καὶ ἐν πελάγεσσι θαλάσσης
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="364">
+               <p>νηιάδες ζώουσι καὶ οὐ κτείνουσι γυναῖκας.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="365">
+               <p>ὣς ἡ μὲν στενάχιζεν: ἀνακλίνουσα δὲ δειρὴν 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="366">
+               <p>ὕπνον ἔπνει, θανάτοιο συνέμπορον: ἦ γὰρ ἐτύχθη
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="367">
+               <p>ἄμφω ἀναγκαίη ξυνήια πάντα λαχόντε
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="368">
+               <p>ἔργα παλαιοτέροιο κασιγνήτοιο διώκειν.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="369">
+               <p>ἔνθεν ἀκηχεμένοισι βαρυνόμεναι βλεφάροισι
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="370">
+               <p>πολλάκις ὑπνώουσιν, ὅτε κλαίουσι, γυναῖκες. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="371">
+               <p>ἡ μὲν ἀλητεύουσα δολοφροσύνῃσιν ὀνείρων
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="372">
+               <p>μητέρα παπταίνειν ὠίσατο, τοῖα δὲ κούρη
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="373">
+               <p>ἴαχε θαμβήσασα καὶ ἀχνυμένη περ ἐοῦσα:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="374">
+               <p>χθιζὸν ὀδυρομένην με δόμων ἔκτοσθε φυγοῦσα
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="375">
+               <p>κάλλιπες ὑπνώουσαν ὑπὲρ λεχέων γενετῆρος. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="376">
+               <p>ποῖον ὄρος μεθέηκα; τίνας προλέλοιπα κολώνας;
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="377">
+               <p>οὕτω καλλικόμοιο μεθ᾽ ἁρμονίην Ἀφροδίτην Ἀφροδίτης;
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="378">
+               <p>τοῖα δὲ φωνήσασα προσέννεπε Τυνδαρεώνη:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="379">
+               <p>τέκνον ἀκηχεμένη, μὴ μέμφεο δεινὰ παθούσῃ: 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="380">
+               <p>ὁ χθιζός με μολών ἀπατήλιος ἥρπασεν ἀνήρ. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="381">
+               <p>ἔννεπεν. ἡ δ᾽ ἀνόρουσε καὶ οὐχ ὁρόωσα τιθήνην
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="382">
+               <p>ὀξυτέρῃ πολὺ μᾶλλον ἀνεβρυχήσατο φωνῇ:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="383">
+               <p>ἠερίης, ὄρνιθες, ἐύπτερα τέκνα γενέθλης,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="384">
+               <p>εἴπατε νοστήσαντες ἐπὶ Κρήτην Μενελάῳ:
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="385">
+               <p>χθιζὸν ἐπὶ Σπάρτην τις ἀνὴρ ἀθεμίστιος ἐλθὼν 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="386">
+               <p>ἀγλαΐην ξύμπασαν ἑῶν ἀλάπαξε μελάθρων.
+</p>
+               <p>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="387">
+               <p>ὣς ἡ μὲν πολύδακρυς ἐς ἠέρα φωνήσασα,
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="388">
+               <p>μητέρα μαστεύουσα, μάτην ἐπλάζετο κούρη.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="389">
+               <p>καὶ Κικόνων πτολίεθρα καὶ Αἰολίδος πόρον Ἕλλης
+<pb/>
+               </p>
+            </div>
+            <div type="line" rend="displayNum" n="390">
+               <p>Δαρδανίης λιμένεσσιν ὁ νυμφίος ἤγαγε νύμφην. 
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="391">
+               <p>πυκνὰ δὲ τίλλε κόμην, χρυσέην δ᾽ ἔρριψε καλύπτρην
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="392">
+               <p>Κασσάνδρη νεόφοιτον ἀπ᾽ ἀκροπόληος ἰδοῦσα.
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="393">
+               <p>Τροίη δ᾽ ὑψιδόμων πυλέων κληῖδας ἀνεῖσα
+</p>
+            </div>
+            <div type="line" rend="displayNum" n="394">
+               <p>δέξατο νοστήσαντα τὸν ἀρχέκακον πολιήτην.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

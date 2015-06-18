@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="http://data.perseus.org/xslt/oactohtml.xsl"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:oac="http://www.openannotation.org/ns/" xmlns:cnt="http://www.w3.org/2008/content#">
+  <Annotation xmlns="http://www.w3.org/ns/oa#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://data.perseus.org/collections/urn:cite:perseus:mythcomm.1.1">
+    <hasTarget xmlns="http://www.w3.org/ns/oa#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0013.tlg007"/>
+    <hasTarget xmlns="http://www.w3.org/ns/oa#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0013.tlg007.perseus-eng1"/>
+    <hasBody xmlns="http://www.w3.org/ns/oa#">
+      <ContentAsText xmlns="http://www.w3.org/2008/content#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://data.perseus.org/collections/urn:cite:perseus:mythcomm.1.1/commentary">
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+        <format xmlns="http://purl.org/dc/elements/1.1/">text/plain</format>
+        <language xmlns="http://purl.org/dc/elements/1.1/">eng</language>
+        <chars xmlns="http://www.w3.org/2008/content#">The Homeric Hymn to Dionysus is a depiction of the powerful yet contradicting abilities that the God Dionysus possesses. Dionysus is the god of everything and its opposite, and he reveals these conflicting powers after being picked up from the “fruitless sea” by the “black ship”. Dionysus exemplifies these contradicting powers by being able to transform between mere mortal and god. While standing on the “fruitless sea”, Dionysus appears to be nothing more than a stranded man. However, when he is on the deck of the black ship the helmsman and crew realize that he does posses divine powers like those of Zeus, Apollo, or Poseidon. The master of the ship fails to realize the divinity which ultimately served as a fatal mistake. Dionysus shows his contradictory reputation in this situation by showing compassion for those who accept him while showing vengeful hate on to those who do not recognize his divinity. Along with being contradictory, Dionysus has a close connection with nature. We see this from the very beginning while he is standing on the “fruitless sea&quot; which gives the audience a visual of the natural connection. Dionysus’ close connection with nature extends when he is on the deck of the vessel. While not everyone on the vessel is convinced that he possesses divine powers, he flows waves of red wine and rows of vines throughout the deck of the ship along with a pleasant smell in the air, further suggesting his connection with nature. To reinforce his divinity to the members on board the vessel, Dionysus transforms himself into a fierce, mutilating lion while also creating a massive and lethal bear to cause havoc on the deck. This contributes to his connection with nature while also connecting back to his image of being the god of everything and its contrary. Dionysus shows compassion to those who recognized his divine powers and spared their lives, transforming them into dolphins, which were honorable animals in the ancient world. He also shows no compassion to the captain who failed to accept his divinity and mutilates his body. The Homeric Hymn to Dionysus is proof that Dionysus is the son of Zeus and Semele, and that he is a powerful god. Also, it proves that Dionysus represents everything and its opposite by being a mortal and an immortal and a forgiver and an avenger. This hymn also shows his connection with the natural world the flowing of wine and vines and transformation from man to animal.</chars>
+      </ContentAsText>
+    </hasBody>
+    <annotatedBy xmlns="http://www.w3.org/ns/oa#">
+      <Person xmlns="http://xmlns.com/foaf/0.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+        rdf:about="http://data.perseus.org/sosol/users/Brian%20O">
+        <foaf:name>Brian Ouellette</foaf:name>
+      </Person>
+    </annotatedBy>
+    <motivatedBy xmlns="http://www.w3.org/ns/oa#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <annotatedAt xmlns="http://www.w3.org/ns/oa#">2013-10-02T23:15:22+00:00</annotatedAt>
+  </Annotation>
+</rdf:RDF>

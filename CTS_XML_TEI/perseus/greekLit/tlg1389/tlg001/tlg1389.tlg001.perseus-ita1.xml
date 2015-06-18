@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader type="text">
+            <fileDesc>
+                <titleStmt>
+                    <title>Lexicon in decem oratores Atticos</title>
+                    <author>Harpocration, Valerius</author>
+                    <editor role="translator">Monica Berti</editor>
+                </titleStmt>
+                <publicationStmt>
+                    <publisher>Trustees of Tufts University</publisher>
+                    <pubPlace>Medford, MA</pubPlace>
+                    <authority>Perseus Project</authority>
+                </publicationStmt>
+                <sourceDesc default="false">
+                    <bibl default="false">
+                        <title>Harpocrationis Lexicon in decem oratores Atticos</title>
+                        <author>Harpocration, Valerius</author>
+                        <editor role="editor">Wilhelm Dindorf</editor>
+                        <publisher>Oxonii:  E Typographeo Academico</publisher>
+                        <pubPlace>Oxford</pubPlace>
+                        <date>1853</date>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <langUsage default="false">
+                    <language ident="it">Italian</language>
+                    <language ident="la">Latin</language>
+                    <language ident="greek">Greek</language>
+                </langUsage>
+            </profileDesc>
+        </teiHeader>
+    <text xml:lang="it">
+        <body>
+            <div type="letter" n="p" org="uniform" sample="complete" part="N">
+                <div xml:id="panaqhnaia" type="entry" org="uniform" sample="complete" part="N"
+                    n="panathenaia">
+                    <head>Panathenaia</head>
+                    <p>Demostene nelle Filippiche. Ad Atene si celebravano le Panatenee, le une annuali, le altre - che venivano anche dette "grandi" - quadriennali. Isocrate nel Panatenaico dice: <q>"poco prima delle grandi Panatenee"</q>. Per primo celebrò la festa Erittonio figlio di Efesto, secondo quanto dicono Ellanico e Androzione, <pb n="p.235"/>entrambi nel primo libro della Atthis. Prima di lui invece erano chiamate Athenaia, come ha mostrato Istro nel terzo libro degli Attika.
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
