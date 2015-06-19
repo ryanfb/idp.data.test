@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Lexicon in decem oratores Atticos</title>
+                <author>Harpocration, Valerius</author>
+                <editor role="translator">Monica Berti</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Trustees of Tufts University</publisher>
+                <pubPlace>Medford, MA</pubPlace>
+                <authority>Perseus Project</authority>
+            </publicationStmt>
+            <sourceDesc default="false">
+                <bibl default="false">
+                    <title>Harpocrationis Lexicon in decem oratores Atticos</title>
+                    <author>Harpocration, Valerius</author>
+                    <editor role="editor">Wilhelm Dindorf</editor>
+                    <publisher>Oxonii:  E Typographeo Academico</publisher>
+                    <pubPlace>Oxford</pubPlace>
+                    <date>1853</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage default="false">
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+                <language ident="greek">Greek</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en">
+        <body>
+            <div type="letter" n="p" org="uniform" sample="complete" part="N">
+                <div xml:id="panaqhnaia" type="entry" org="uniform" sample="complete" part="N"
+                    n="panathenaia">
+                    <head>Panathenaia</head>
+                    <p>The Panathenaia held at Athens was two-fold, one festival being held annually, and the other celebrated every five years, the latter called the Great Panathenaia. Isocrates says in his Panathenaikos: <q>"shortly before the Panathenaia"</q>. Erichthonius, son of Hephaistos, was the first to conduct the festival, according to the reports of Hellanikos and Adrotion, <pb n="p.235"/>each in the first books of their Atthis respectively. Before Erichthonius' time the festival was simply called the Athenaia, as Istros makes clear in the third book of his Attika.
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

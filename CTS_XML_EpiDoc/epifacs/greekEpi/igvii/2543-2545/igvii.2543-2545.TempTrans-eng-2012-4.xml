@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>igvii.2543-2545: Epitaph of Nedymos (Thebes)</title>
+            <author>unknown</author>
+            <editor role="translator">Marie-Claire Bealieu, Ph.D</editor>
+            <editor role="transcriber">Kaitlyn Bishara</editor>
+            <editor role="transcriber">Brigid Freymuller</editor>
+         </titleStmt>
+         <publicationStmt>
+            <idno>igvii.2543-2545</idno>
+            <idno type="cts">urn:cts:epigraphy.perseus.org:igvii.2543-2545.perseus-eng1</idno>    
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <placeName>Thebes</placeName>
+               </msIdentifier>
+               <msContents>
+                  <summary>Epitaph of Nedymos and his family members, in hexameters and trimeters</summary>
+                  <textLang>grc</textLang>
+               </msContents>
+               <history>
+                  <origin>
+                     <date>IIIrd-IVth century AD.</date>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <body>
+         <div type="translation" subtype="epigram" n="2543" xml:space="preserve">
+        <head>α. 2543</head>
+        <p>My parents cried over my body around the unfeeling grave, since this is the honor due to the dead, but my soul left for its just destination. 
+        My name was Nedymos, a gentle child of the Italian Adae. I did not live for a long time, but I was born to live for only a few years;
+        unstable time, you  did not go back, but followed your own course; whatever destiny one is allotted, he fulfills it; and that is the case even for kings.
+        My father Zosimos wrote this for me, and in his longing for me forgot about my immortal soul.</p> 
+      </div>
+         <div type="translation" subtype="epigram" n="2543" xml:space="preserve">
+        <head>β. 2544</head>
+        <p>I am a marble stone, I bear a man in my belly, Nedymos; he is sleeping beautifully 
+        and in the company of the dead; the people honored him with a gold crown.
+        The council did this in consolation to his son; the body of a lion crouches over
+        this man dear to Ares. His son Zosimos wrote this, because indeed this is the honor 
+        due to the dead...And whoever would dare to place a body in my belly, to separate the 
+        father from his son, who I keep in my belly, will be fined a large sum payable to the 
+        city and to the treasury.</p>
+      </div>
+         <div type="translation" subtype="epigram" n="2543" xml:space="preserve">
+        <head>γ. 2545</head>        
+        <p>My load is full; this is well. For Nedymos lies here in my belly and from this child 
+        a son was born, named Nedymos, and now the third, Zosimus, father of this child.
+        Let one of the gods grant me to be closed and without seams; if someone reaches to open me, 
+        let his hopes bear no fruit, may he have no grandchildren, but may his whole lineage be 
+        completely uprooted.</p>
+      </div>
+      </body>
+   </text>
+</TEI>
